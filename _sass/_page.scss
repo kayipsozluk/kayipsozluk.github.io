@@ -17,9 +17,9 @@
         float: left;
         padding: 20px 30px;
         line-height: 1.6;
-        font-size: 16px;
-        background-color: #f8f8fd;
-        box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
+        font-size: 18px;
+        background-color: #ffff;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.4), 0 0 30px rgba(255, 255, 255, 0.1) inset;
         >h1 {
             margin-bottom: -10px;
         }
@@ -40,10 +40,10 @@
                 }
                 .title {
                     font-weight: bold;
-                    color: #223253;
+                    color:  #6a6b6b;
                     transition: 0.3s ease;
                     &:hover {
-                        color: #4d6dad;
+                        color:  #303030;
                     }
                 }
                 i {
@@ -56,9 +56,8 @@
                     }
                     a {
                         padding: 0 5px;
-                        background-color: #9e9d9d;
-                        color: #fff;
-                        font-size: 90%;
+                        color:#333;
+                        font-size: 13px;
                         transition: 0.3s ease;
                         &:hover {
                             background-color: #b6b6b9;
@@ -67,19 +66,18 @@
                 }
                 .pageTag {
                     i {
-                        color: #c6cbe9;
+                        color: #333;
                     }
                     a {
 
                         // border: 1px solid #aaa;
                         padding: 0 5px;
-                        background-color: #c6cbe9;
+                        color: #333;
                         border-radius: 4px;
-                        color: #fff;
-                        font-size: 90%;
+                        font-size: 13px;
                         transition: 0.3s ease;
                         &:hover {
-                            background-color: #c0ddc7;
+                            color: #999;
                         }
                     }
                 }
@@ -104,8 +102,8 @@
         }
         .side {
             box-sizing: border-box;
-            background-color: #f8f8fd;
-            box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.3), 0 0 30px rgba(10, 10, 0, 0.1) inset;
+            background-color: #ffffff;
+            box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.3), 0 0 30px rgb(255, 255, 255) inset;
             padding-bottom: 1px;
             -ms-word-break: break-all;
             word-break: break-all;
@@ -120,11 +118,11 @@
 
                 // margin-right: -10px;
                 border-bottom: 1px solid #c0c0c0;
-                font-size: 16px;
+                font-size: 18px;
                 font-weight: bold;
             }
             a {
-                color: #4d6dad;
+                color:  #999;
                 transition: 0.5s ease;
                 &:hover {
                     color: #223253;
@@ -154,7 +152,7 @@
             width: 100%;
             float: left;
             padding: 10px 14px;
-            font-size: 14px;
+            font-size: 18px;
             >h1 {
                 font-size: 25px;
                 margin-bottom: -10px;
@@ -175,10 +173,10 @@
                     }
                     .title {
                         display: block;
-                        font-size: 16px;
+                        font-size: 18px;
                     }
                     .categories {
-                        font-size: 12px;
+                        font-size: 18px;
                         padding-left: 0;
                         padding-right: 10px;
                     }

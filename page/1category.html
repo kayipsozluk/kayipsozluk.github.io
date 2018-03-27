@@ -31,6 +31,11 @@ type: page
                 {% endfor %}
             {% endfor %}
         </ul>
+        {% if site.data.settings.development %}
+        close-advertisements
+        {% else %}
+        {% include advertisements.html %}
+        {% endif %}
     </div>
     <button class="anchor"><i class="fa fa-anchor"></i></button>
     <div class="right">

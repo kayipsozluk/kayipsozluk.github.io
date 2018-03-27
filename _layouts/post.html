@@ -8,20 +8,7 @@ layout: default
         <div class="label">
 
             <div class="label-card">
-                <i class="fa fa-calendar"></i>{{ page.date | date: "%F" }}
-            </div>
-
-            <div class="label-card">
-                {% if page.author %}<i class="fa fa-user"></i>{{ page.author }}
-                {% endif %}
-            </div>
-
-            <div class="label-card">
-                {% if page.meta %}<i class="fa fa-key"></i>{{ page.meta }}  {% endif %}
-            </div>
-
-            <div class="label-card">
-            {% include category.html %}
+                <i class="fa fa-calendar"></i>{{ page.date | date: "%d/%m/%Y" }}
             </div>
 
             <div class="label-card">
@@ -63,6 +50,12 @@ layout: default
         {% endif %}
 
         {% include previousAndNext.html %}
+
+        {% if site.data.settings.development %}
+        close-advertisements
+        {% else %}
+        {% include advertisements-small.html %}
+        {% endif %}
 
         <h2 id="comments">Yorumlar</h2>
         {% include comments.html %}

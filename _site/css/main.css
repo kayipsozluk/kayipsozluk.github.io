@@ -30,9 +30,10 @@ html {
   height: 100%; }
 
 body {
-  font-family: "PT Serif", "Slabo 27px", "Slabo 27px", serif;
-  color: #333;
-  /*background-image: url(https://ooo.0o0.ooo/2016/06/20/5768c606cf9cb.jpg);*/
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  color: #515151;
+  line-height: 1.75rem;
   position: relative;
   min-height: 100%;
   padding-bottom: 190px; }
@@ -109,17 +110,19 @@ img {
   max-width: 100%; }
 
 header {
-  background: #222;
+  background: #fffdfd;
   height: 52px;
-  color: #9d9d9d;
-  box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.5);
+  color: #222;
+  box-shadow: 0 1px 1px -1px rgba(0, 0, 0, 0.5);
   margin-bottom: 20px; }
   header a {
-    color: #9d9d9d;
+    color: #999;
+    font-size: 1rem;
+    padding-right: 10px;
     -webkit-transition: 0.2s ease;
     transition: 0.2s ease; }
     header a:hover {
-      color: #fff; }
+      color: #222; }
   header .wrapper {
     width: 1140px;
     margin: 0 auto;
@@ -148,13 +151,11 @@ header {
             padding: 0 10px;
             height: 52px; }
             header .wrapper nav ul li a:hover {
-              background-color: #000; }
+              color: #4b4b4b; }
             header .wrapper nav ul li a i {
               margin-right: 5px; }
           header .wrapper nav ul li > .active {
-            color: #fff;
-            background-color: #000;
-            box-shadow: 0 25px 25px -15px rgba(255, 255, 255, 0.93); }
+            color: #222; }
 
 @media screen and (max-width: 1200px) and (min-width: 770px) {
   header {
@@ -237,8 +238,8 @@ header {
             header .wrapper nav ul li:last-of-type {
               border: none; }
             header .wrapper nav ul li > .active {
-              color: #fff;
-              background-color: #000;
+              color: #222;
+              background-color: #999;
               box-shadow: none; } }
 #markdown-toc {
   display: none; }
@@ -248,7 +249,8 @@ header {
   overflow: hidden; }
   .page[post] .label .label-card {
     float: left;
-    margin-right: 15px; }
+    margin-right: 15px;
+    font-size: 16px; }
     .page[post] .label .label-card .point {
       padding: 0 10px;
       color: #9d9d9d; }
@@ -256,11 +258,10 @@ header {
       padding-right: 5px;
       color: #6b6a6a; }
 .page[post] a {
-  color: #4d6dad;
+  color: #333;
   transition: 0.5s ease; }
   .page[post] a:hover {
-    color: #223253;
-    background-color: #f4efeb; }
+    color: #223253; }
 .page[post] .left ul > h2 {
   color: #333; }
 .page[post] .left ul li {
@@ -298,9 +299,9 @@ header {
     float: left;
     padding: 20px 30px;
     line-height: 1.6;
-    font-size: 16px;
-    background-color: #ffffff;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 0 30px rgba(255, 255, 255, 0.1) inset; }
+    font-size: 18px;
+    background-color: #ffff;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.4), 0 0 30px rgba(255, 255, 255, 0.1) inset; }
     .page .left > h1 {
       margin-bottom: -10px; }
     .page .left a:not([title]) {
@@ -316,10 +317,10 @@ header {
         width: 135px; }
       .page .left ul li .title {
         font-weight: bold;
-        color: #223253;
+        color: #6a6b6b;
         transition: 0.3s ease; }
         .page .left ul li .title:hover {
-          color: #4d6dad; }
+          color: #303030; }
       .page .left ul li i {
         margin-right: 5px; }
       .page .left ul li .categories {
@@ -328,23 +329,21 @@ header {
           color: #9e9d9d; }
         .page .left ul li .categories a {
           padding: 0 5px;
-          background-color: #9e9d9d;
-          color: #fff;
-          font-size: 90%;
+          color: #333;
+          font-size: 13px;
           transition: 0.3s ease; }
           .page .left ul li .categories a:hover {
             background-color: #b6b6b9; }
       .page .left ul li .pageTag i {
-        color: #c6cbe9; }
+        color: #333; }
       .page .left ul li .pageTag a {
         padding: 0 5px;
-        background-color: #c6cbe9;
+        color: #333;
         border-radius: 4px;
-        color: #fff;
-        font-size: 90%;
+        font-size: 13px;
         transition: 0.3s ease; }
         .page .left ul li .pageTag a:hover {
-          background-color: #c0ddc7; }
+          color: #999; }
   .page .anchor {
     display: none; }
   .page .right {
@@ -360,8 +359,8 @@ header {
       bottom: 190px; }
     .page .right .side {
       box-sizing: border-box;
-      background-color: #f8f8fd;
-      box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.3), 0 0 30px rgba(10, 10, 0, 0.1) inset;
+      background-color: #ffffff;
+      box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.3), 0 0 30px white inset;
       padding-bottom: 1px;
       -ms-word-break: break-all;
       word-break: break-all;
@@ -373,10 +372,10 @@ header {
       .page .right .side > div {
         padding: 12px 15px;
         border-bottom: 1px solid #c0c0c0;
-        font-size: 16px;
+        font-size: 18px;
         font-weight: bold; }
       .page .right .side a {
-        color: #4d6dad;
+        color: #999;
         transition: 0.5s ease; }
         .page .right .side a:hover {
           color: #223253; }
@@ -398,7 +397,7 @@ header {
       width: 100%;
       float: left;
       padding: 10px 14px;
-      font-size: 14px; }
+      font-size: 18px; }
       .page .left > h1 {
         font-size: 25px;
         margin-bottom: -10px; }
@@ -414,9 +413,9 @@ header {
             width: auto; }
           .page .left ul li .title {
             display: block;
-            font-size: 16px; }
+            font-size: 18px; }
           .page .left ul li .categories {
-            font-size: 12px;
+            font-size: 18px;
             padding-left: 0;
             padding-right: 10px; }
     .page .anchor {
@@ -679,7 +678,7 @@ pre {
     color: #a6e22e; }
 
 .page[index] a {
-  color: #4d6dad;
+  color: #333;
   transition: 0.5s ease; }
   .page[index] a:hover {
     color: #223253; }
@@ -697,6 +696,7 @@ pre {
       margin-bottom: 15px;
       overflow: hidden; }
       .page[index] .left > ul li .label .label-card {
+        font-size: 13px;
         float: left;
         margin-right: 15px; }
         .page[index] .left > ul li .label .label-card i {
@@ -715,10 +715,10 @@ pre {
       text-align: right;
       font-size: 14px; }
       .page[index] .left > ul li .read-all a {
-        color: #778ab0;
+        color: #a8a7a7;
         transition: 0.2s ease; }
         .page[index] .left > ul li .read-all a:hover {
-          color: #5872a7; }
+          color: #575757; }
         .page[index] .left > ul li .read-all a i {
           padding-right: 3px; }
 .page[index] .left .pagination {
@@ -742,17 +742,17 @@ pre {
     margin: 0;
     padding: 0; }
     .page[index] .right .wrap .side .content-ul[cate] li {
-      font-size: 14px; }
+      font-size: 16px; }
       .page[index] .right .wrap .side .content-ul[cate] li a {
         display: block;
         width: 100%;
         padding: 2px 0;
         border-bottom: 1px solid #eee; }
         .page[index] .right .wrap .side .content-ul[cate] li a:hover {
-          background-color: #dbdfee; }
+          color: #333; }
           .page[index] .right .wrap .side .content-ul[cate] li a:hover .badge {
-            background-color: #dbdfee;
-            transform: scale(1.2) rotate(360deg); }
+            background-color: #333;
+            transform: scale(1) rotate(360deg); }
         .page[index] .right .wrap .side .content-ul[cate] li a .name {
           padding-left: 15px; }
         .page[index] .right .wrap .side .content-ul[cate] li a .badge {
@@ -764,7 +764,7 @@ pre {
           padding: 0 10px;
           font-size: 12px;
           color: #fff;
-          background-color: #bbb;
+          background-color: #6b6a6a;
           border-radius: 50%;
           transition: 0.5s ease-in-out; }
       .page[index] .right .wrap .side .content-ul[cate] li:last-of-type a {
@@ -773,7 +773,7 @@ pre {
     padding-bottom: 16px; }
     .page[index] .right .wrap .side .content-ul[recent] li {
       color: #aaa;
-      font-size: 14px; }
+      font-size: 15px; }
   .page[index] .right .wrap .side .tags-cloud {
     font-weight: normal; }
     .page[index] .right .wrap .side .tags-cloud a {
@@ -790,7 +790,7 @@ pre {
   .page[index] .left > ul li .excerpt h3 {
     font-size: 18px; }
   .page[index] .left > ul li .excerpt h4 {
-    font-size: 16px; }
+    font-size: 18px; }
   .page[index] .left > ul li .excerpt li {
     margin: 0; } }
 .page[demo] .left {
@@ -850,9 +850,9 @@ pre {
   bottom: 0;
   left: 0;
   text-align: center;
-  background-color: #2b2b3c;
-  box-shadow: 0 -2px 4px 1px rgba(0, 0, 0, 0.5);
-  color: #bbb; }
+  background-color: #ffffff;
+  box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.5);
+  color: #000; }
   .site-footer .wrapper {
     width: 1140px;
     margin: 0 auto;
@@ -865,20 +865,20 @@ pre {
     .site-footer .wrapper .contact {
       display: inline-block; }
       .site-footer .wrapper .contact a {
-        color: #ccc;
+        color: black;
         transition: 0.3s ease; }
         .site-footer .wrapper .contact a:hover {
-          color: #fff; }
+          color: #888282; }
         .site-footer .wrapper .contact a i {
           margin: 0 5px;
           font-size: 20px; }
     .site-footer .wrapper .description {
       display: inline-block; }
     .site-footer .wrapper .power a {
-      color: #8F90C5;
+      color: #a8a7a7;
       transition: 0.3s ease; }
       .site-footer .wrapper .power a:hover {
-        color: #fff; }
+        color: black; }
 
 @media screen and (max-width: 1200px) and (min-width: 770px) {
   .site-footer .wrapper {
