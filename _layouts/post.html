@@ -11,9 +11,6 @@ layout: default
                 <i class="fa fa-calendar"></i>{{ page.date | date: "%d/%m/%Y" }}
             </div>
 
-            <div class="label-card">
-            {% include tag.html %}
-            </div>
 
         </div>
         <hr>
@@ -77,6 +74,14 @@ layout: default
                         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
                     {% endfor %}
                 </ul>
+            </div>
+
+            <div class="side content">
+                {% if site.data.settings.development %}
+                close-advertisements
+                {% else %}
+                {% include advertisements.html %}
+                {% endif %}
             </div>
            
         </div>

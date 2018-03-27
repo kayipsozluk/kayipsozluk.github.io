@@ -25,3 +25,4 @@ Uygulamayı kurduğunuzda rehberinize erişime izin vererek rehberinizi, sunucul
 Get Contact uygulamasından numaranızı silmeniz için [buraya tıklayıp](https://www.getcontact.com/tr/unlist) , karşınıza gelecek olan ekrana sizden istenen bilgileri girmelisiniz. 
 
 Bu işlemi yaptıktan sonra uygulama cep telefonunuza bir doğrulama kodu yollayacak, bu kodu bu sayfada yer alan alana girdikten sonra, cep telefonu numaranız sistemden 24 saat içinde siliniyor. 
+

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Pusat Nedir?"
-date:   2018-03-27 15:14:54
+date:   2018-03-26 15:14:54
 categories: nedir
-tags: [Pusat nedir?,pusat nedir ne demek,pusat ne demek tdk,pusat silah,pusat kelimesinin kökeni,pusat kılıç,pusat ismi kuranda geçiyormu,pusat kuranı kerimde geçiyormu,pusat dizisi]
+tags: [Pusat nedir,pusat nedir ne demek,pusat ne demek tdk,pusat silah,pusat kelimesinin kökeni,pusat kılıç,pusat ismi kuranda geçiyormu,pusat kuranı kerimde geçiyormu,pusat dizisi]
 excerpt: Pusat nedir?,pusat nedir ne demek,pusat ne demek tdk,pusat silah,pusat kelimesinin kökeni,pusat kılıç,pusat ismi kuranda geçiyormu,pusat kuranı kerimde geçiyormu,pusat dizisi,kuranda pusat
 mathjax: false
 ---
