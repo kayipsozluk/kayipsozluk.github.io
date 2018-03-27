@@ -18,7 +18,6 @@ twitter_username:
 facebook_username: 
 email: kayipsozlukcom@gmail.com 
 linkedIn_username: 
-
 description_footer: 
 
 duoshuo_shortname: #hygblog
@@ -45,5 +44,5 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-paginate]
+gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 6
