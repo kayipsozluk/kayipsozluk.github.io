@@ -14,6 +14,8 @@ Sizi arayan numaraların kim olduğunu öğrendiğiniz uygulamalardan sonra, ins
 
 Uygulamayı kurduğunuzda rehberinize erişime izin vererek rehberinizi, sunucularına yükleyip ortak havuzdan gösterimini sağlıyor. Yeni olmayan bu ve buna benzer uygulamaları kullananların rehberlerini ortak havuza paylaşmasıyla kullanım sağlanıyor.
 
+{% include advertisements-word.html %}
+
 **Arama Engelleme**
 
 İstenmeyen aramaları engelleyebilir ve bu aramaları raporlayarak diğer Getcontact uygulamasını kullanan milyonlarca kişinin korunmasına yardımcı olabilirsiniz. Getcontact, gücünü milyonlarca kullanıcısından alır. Diğer kullanıcılar tarafından raporlanan istenmeyen çağrılardan, “Spam Koruma” özelliğini aktif ederek otomatik olarak korunabilirsiniz.
