@@ -22,7 +22,7 @@ layout: default
                     </div>
                 </div>
                 <div class="excerpt">
-                    {{post.excerpt}}
+                    {{ post.content | strip_html | truncatewords: 32 }}
                 </div>
                 <div class="read-all">
                     <a  href="{{ post.url | prepend: site.baseurl }}">Devamını Oku</a>
