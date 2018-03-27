@@ -17,9 +17,7 @@ layout: default
                     <div class="label-card">
                         <i class="fa fa-calendar"></i>{{ post.date | date: "%d/%m/%Y" }}
                     </div>
-                    <div class="label-card">
-                    {% include tag.html %}
-                    </div>
+                  
                 </div>
                 <div class="excerpt">
                     {{ post.content | strip_html | truncatewords: 32 }}
