@@ -3,7 +3,7 @@ layout: post
 title:  "Trigliserid Nedir?"
 date:   2018-03-28 00:05:00
 categories: nedir
-tags: [trigliserid nedir,trigliserid,trigliserid kan tahlili,trigliserid değerleri]
+tags: [trigliserid nedir,trigliserid,nedir]
 excerpt: Trigliserid nedir? Trigliserid Kan Tahlili Neden Yapılır, Trigliseridin Görevleri Nelerdir? Trigliserid Normal ve Yüksek Değerleri
 mathjax: false
 ---

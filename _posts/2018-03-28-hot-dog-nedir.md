@@ -3,9 +3,7 @@ layout: post
 title:  "Hot Dog Nedir?"
 date:   2018-03-28 00:00:00
 categories: nedir
-tags: [hot dog nedir,hot dog,hot dog sosisli,hot dog nedir nasıl yapılır,hot dog köpek,hot dog içindekiler,hot dog türkçe anlamı,hot dog ekşi,hot dog nereden gelir,hot dog makinesi
-
-]
+tags: [hot dog nedir,nedir]
 excerpt: Hot Dog nedir? Hot Dog Neden Yapılır, Hot Dog Nasıl Yapılır? Hot Dog İçindekiler Nelerdir, Hot Dog Türkçe, Hot Dog Besin Değeri
 mathjax: false
 ---

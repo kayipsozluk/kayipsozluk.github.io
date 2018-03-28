@@ -3,7 +3,7 @@ layout: post
 title:  "İnterfaz Nedir?"
 date:   2018-03-28 00:10:00
 categories: nedir
-tags: [interfaz nedir,interfaz,interfaz hücre,interfaz hüce bölünme,interfaz evresi,G1 Evresi, Sentez (S) evresi, Büyüme (G2) evresi]
+tags: [interfaz nedir,interfaz,nedir]
 excerpt: İnterfaz nedir? İnterfaz Evresi Nedir?, İnterfaz özellikleri nelerdir? İnterfaz hakkında bilgi. G1 Evresi, Sentez (S) evresi, Büyüme (G2) evresi
 mathjax: false
 ---
