@@ -15,13 +15,13 @@
 <loc>http://localhost:4000/category/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/search/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/googlec92d9915e4818a78.html</loc>

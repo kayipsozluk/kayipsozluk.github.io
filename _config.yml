@@ -38,7 +38,7 @@ kramdown:
 
 # url
 category_dir: category/
-tag_dir: tag/
+tag_dir: search/
 
 # excerpt
 excerpt_separator: "\n\n\n\n"

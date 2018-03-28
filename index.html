@@ -72,7 +72,19 @@ layout: default
                     {% endfor %}
                 </ul>
             </div>
-
+            <div class="side">
+                <div>
+                    <i class="fa fa-search" aria-hidden="true"></i>
+                    Arama
+                </div>
+                <ul class="content-ul" recent>
+                  <form action="../search" method="get">
+                    <!-- <label for="search-box">Arama</label> -->
+                    <input type="text" id="search-box" placeholder="birşeyler arayabilirsin..." name="query">
+                  </form>
+                </ul>
+            </div>
+    
             <!-- Content -->
             <div class="side ">
                 <div>
@@ -138,7 +150,7 @@ layout: default
                       {% else %}
                         {% assign color = 8 | minus: base %}
                       {% endif %}
-                      <a href="{{ root_url }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
+                      <a href="{{ root_url }}/search?query={{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
                     {% endfor %}
                 </div>
             </div>

@@ -3,7 +3,7 @@ layout: post
 title:  "Pusat Nedir?"
 date:   2018-03-26 15:14:54
 categories: nedir
-tags: [pusat nedir,pusat ne demek,pusat ne demek tdk,pusat silah,pusat kelimesinin kökeni,pusat kılıç,pusat ismi kuranda geçiyormu,pusat kuranı kerimde geçiyormu,pusat dizisi]
+tags: [pusat nedir,pusat dizisi,pusat kelime anlamı]
 excerpt: Pusat kelime anlamı nedir? Pusat İsminin Kabala Hesabına Göre Analizi, Pusat İsmi Kur’an-ı Kerim’de Geçiyormu 
 mathjax: false
 ---
