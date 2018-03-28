@@ -3,7 +3,7 @@ layout: post
 title:  "Sportif Direktör Nedir?"
 date:   2018-03-28 20:09:00
 categories: nedir
-tags: [soprtif direktör nedir,futbol direktörüifutbol,nedir]
+tags: [soprtif direktör nedir,futbol direktörü,futbol,nedir]
 excerpt: Sportif Direktör Nedir?, Futbol Direktörü Ne İş Yapar
 mathjax: false
 ---
