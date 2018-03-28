@@ -61,6 +61,13 @@ title: home
     <!-- <button class="anchor"><i class="fa fa-anchor"></i></button> -->
     <div class="right">
         <div class="wrap">
+                <div class="side">
+                        {% if site.data.settings.development %}
+                        close-advertisements
+                        {% else %}
+                        {% include advertisements.html %}
+                        {% endif %}
+                    </div>
             <div class="side">
                 <div>
                     <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
@@ -104,13 +111,7 @@ title: home
                     {% endfor %}
                 </ul>
             </div>
-            <div class="side">
-                {% if site.data.settings.development %}
-                close-advertisements
-                {% else %}
-                {% include advertisements.html %}
-                {% endif %}
-            </div>
+            
             <div class="side">
                 <div>
                     <i class="fa fa-tags"></i>
