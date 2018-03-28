@@ -7,7 +7,7 @@
 
 # Site settings
 title: Kayıp Sözlük
-brief-intro: Aradığınız her şey bu sözlükte
+brief-intro: Aradığınız her şey bu sözlükte!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kayipsozluk.com" # the base hostname & protocol for your site
 
