@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mitomani nedir?"
-date:   2018-03-28 00:00:00
+title:  "Mitomani Nedir?"
+date:   2018-03-28 00:10:00
 categories: nedir
 tags: [mitomani nedir,mitomani,Mitomani yalancı,Mitomani hastalığı,yalanına inanma Mitomani]
 excerpt: mitomani nedir? Trigliserid Kan Tahlili Neden Yapılır, Mitomani özellikleri nelerdir? Yalancılık ve Mitomani
