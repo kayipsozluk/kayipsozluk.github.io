@@ -3,7 +3,7 @@ layout: post
 title:  "Bolşevik Nedir?"
 date:   2018-03-30 21:47:00
 categories: nedir
-tags: [bolşevik ne demek, bolşevik nedir,ne demek]
+tags: [bolşevik ne demek, bolşevik nedir,ne demek,nedir]
 excerpt: Bolşevik ne demek, bolşevik nedir, bolşevik nedir kısaca, bolşevik ne demek kısaca, bolşevizm nedir, Vatanım Sensin Dizisi, Bolşevik anlamı nedir
 mathjax: false
 ---
