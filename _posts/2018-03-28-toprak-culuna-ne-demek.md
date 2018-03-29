@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Toptak Çuluna Ne Demek?"
+title:  "Toprak Çuluna Ne Demek?"
 date:   2018-03-28 22:30:00
 categories: nedir
 tags: [toprak çuluna ne demek,ne demek]
