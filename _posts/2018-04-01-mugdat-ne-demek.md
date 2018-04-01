@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Muğdat Ne Demek?"
-date:   2018-03-31 21:47:00
+date:   2018-04-01 21:47:00
 categories: nedir
 tags: [Muğdat ne demek, Muğdat nedir,ne demek]
 excerpt: Muğdat ne demek, Muğdat nedir, Muğdat nedir kısaca, Muğdat ne demek kısaca, Muğdat anlamı nedir, ne demek
