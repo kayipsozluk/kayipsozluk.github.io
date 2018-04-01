@@ -18,6 +18,7 @@ Kızamık virüsü ile meydana gelen akut, döküntülü bir enfeksiyon hastalı
 
 >Göz konjunktivası iltihabı (konjunktivit) görülebilir. Gözler ışığa karşı hassaslaşır.
 
+{% include advertisements-word.html %}
 
 **Kızamık hastalığı neden önemlidir?**
 
@@ -49,6 +50,8 @@ Nefes yoluyla bulaşır.
 
 Öksürük, nezle, ateş gibi belirtilerin başladığı dönemden 2 gün önce başlar ve döküntü başladıktan 5 gün sonraya kadar bulaştırıcıdır.
 
+{% include advertisements-word.html %}
+
 **Kızamık geçirirken ne yapmalıdır?**
 
 Kızamık geçirmeyen çocuklara yaklaştırılmamalıdır. A vitamini doktor tavsiyesi ile verilmelidir.
@@ -64,6 +67,8 @@ Türkiye’de kızamık aşısı kızamık-kızamıkçık-kabakulak aşısı ola
 **Kızamık aşısından sonra çocuğum kızamık hastalığı geçirmez mi?**
 
 % 95 etkilidir. % 5 oranında kızamık geçirebilir. Ancak hafif geçirir. Kanda antikor %5 oranında bilinmeyen nedenlerle oluşmayabilir. Aşının soğuk zincire uygun olmaması veya immunolojik nedenlerle gelişmediği düşünülmektedir.
+
+{% include advertisements-word.html %}
 
 **Kızamık aşısının içinde ilave olarak neler var?**
 
@@ -87,6 +92,7 @@ PPD negatifleşmesi: Hücresel immüniteyi geçici baskılayarak PPD negatifleş
 
 Parestezi: Bacakta parestezi (Duyu kaybı) yapabilir.
  
+{% include advertisements-word.html %}
 
 **Kızamık aşısından sonra çok nadiren şu hastalıklar gelişebilir;**
 
