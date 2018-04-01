@@ -18,30 +18,132 @@ Kızamık virüsü ile meydana gelen akut, döküntülü bir enfeksiyon hastalı
 
 >Göz konjunktivası iltihabı (konjunktivit) görülebilir. Gözler ışığa karşı hassaslaşır.
 
-**Kızamık başka hastalıklara neden olabilir mi?**
 
-Kızamık enfeksiyonu tüberküloz enfeksiyonunun tekrar aktif hale geçmesine, zatürreye, boyundaki lenf bezlerinin iltihaplanmasına, orta kulak iltihabına ve beyin iltihabına neden olabilir.
+**Kızamık hastalığı neden önemlidir?**
 
-**Kızamığın tedavisi nasıldır?**
+Her 10 kızamıklı çocuğun birinde kulak iltihabı (otitis media), Her 100 kızamıklı çocuğun birinde zaturre gibi (Hect pnömoni)  önemli hastalıklara neden olabilir. İshal, krup da sık görülen yan etkileridir. Ayrıca çok nadir bazı önemli hastalıklar gelişebilir;
 
->Hastanın 10 gün süreyle izole edilmesi uygundur.
+Beyin iltihabı (ensefalit),
 
->Ateş düşünceye kadar yatak istirahati gerekir.
+Hepatit,
 
->Şikayetlere yönelik tedavi uygulanır. Ağrı kesici, ateş düşürücü ilaçlar ve öksürük şurupları kullanılabilir.
+Apandisit,
 
->Bakterilere bağlı komplikasyon gelişmediği sürece antibiyotik tedavisi verilmemelidir.
+Kalp iltihabı (perikardit, miyokardit),
 
->Kızamıklı bir çocukla temas eden kişilere (örn; aile üyelerine) gamma globülin yapılarak hastalık önlenebilir veya hastalığın seyri hafifletilebilir.
+Böbrek iltihabı (glomerulonefrit),
 
-**Kızamıktan korunma nasıl olur?**
+Trombositopeni (Kanı pıhtılaştıran maddenin eksikliği),
 
-Zayıflatılmış canlı virüs aşıcı 15 aylık çocuklara tek doz uygulanır. Beslenme veya bağışıklık sistemi bozukluğu olan çocuklarda 6 ay sonra bir destek dozu daha yapılır. Salgın dönemlerinde 9 aylıktan büyük tüm çocuklara aşı uygulanabilir. Bu takdirde 15 ay tamamlanınca bir destek dozu daha yapılır.
+Cilt ve ağızda ciddi yaralar (Stevens Johnson sendromu),
 
-**Doktora başvurulması gereken durumlar nelerdir?**
+SSPE denilen beynin ilerleyici iltihaplanması gelişebilir. 
 
->Çocuğunuz kızamık geçiriyor ve öksürüğü giderek kötüleşiyor veya balgam çıkarıyorsa. Bu durumda virüslere bağlı zatürree (pnömoni) gelişmiş olabilir.
+Her 1000 kızamıklı çocuğun birisi tedavi edilmediği takdirde akciğer ve nörolojik sorunlardan dolayı ölümle sonuçlanır. 
 
->Çocuğunuz kızamık geçiriyor ve döküntü başladıktan sonraki hafta içinde sürekli uyku eğilimindeyse, huzursuz ve gerginse, sayıklıyorsa veya şiddetli kasılmaları varsa. Bu durumda beyin iltihabı gelişmiş olabilir.
+**Kızamık nasıl bulaşır?**
 
->Çocuğunuz kızamık geçiriyor ve aynı zamanda da işitme güçlüğü veya kulak ağrısı çekiyorsa. Bu durumda orta kulak iltihabı gelişmiş olabilir.
+Nefes yoluyla bulaşır.
+
+**Kızamık ne zaman bulaştırıcıdır?**
+
+Öksürük, nezle, ateş gibi belirtilerin başladığı dönemden 2 gün önce başlar ve döküntü başladıktan 5 gün sonraya kadar bulaştırıcıdır.
+
+**Kızamık geçirirken ne yapmalıdır?**
+
+Kızamık geçirmeyen çocuklara yaklaştırılmamalıdır. A vitamini doktor tavsiyesi ile verilmelidir.
+
+**Kızamık geçiren biriyle çocuğum temas ederse ne yapmalıyım?**
+
+Temastan sonra 6 gün içinde doktorunuza başvurmanız halinde kızamık gamaglobulin uygulanabilir. İlk 3 gün içinde ise aşı yapılırsa etkili olabilir.
+
+**Kızamık aşısı nasıl yapılır?**
+
+Türkiye’de kızamık aşısı kızamık-kızamıkçık-kabakulak aşısı olarak üçlü aşı 1 yaşında uygulanmaktadır. Daha sonra ilkokul 1. sınıfta tekrarlanmaktadır. 2 doz aşının hayat boyu bağışıklık sağladığı düşünülmektedir.
+
+**Kızamık aşısından sonra çocuğum kızamık hastalığı geçirmez mi?**
+
+% 95 etkilidir. % 5 oranında kızamık geçirebilir. Ancak hafif geçirir. Kanda antikor %5 oranında bilinmeyen nedenlerle oluşmayabilir. Aşının soğuk zincire uygun olmaması veya immunolojik nedenlerle gelişmediği düşünülmektedir.
+
+**Kızamık aşısının içinde ilave olarak neler var?**
+
+Neomisin, sukroz, insan albumini
+
+**Penisilin alerjisi olanda yapılabilir mi?**
+
+Evet
+
+**Kızamık aşısının yan etkileri nelerdir?**
+
+Ateş %10-15 oranında gelişir ve aşıdan 5-6 gün sonra başlar ve 1-2 gün sürer.
+
+Kızamık gibi hafif döküntü gelişebilir ve bu aşı yapıldıktan 7-10 gün sonra gelişir ve 2 gün sürer.
+
+Kızamıkçık benzeri döküntü ve LAP (Lenf bezinde şişme): Yapabilir
+
+Artrit ve artralji: Yetişkinlerde sık görülür (%25). Aşıdan 1 hafta sonra ile 1.5 ay arasında gelişir.
+
+PPD negatifleşmesi: Hücresel immüniteyi geçici baskılayarak PPD negatifleşmesi yapar.
+
+Parestezi: Bacakta parestezi (Duyu kaybı) yapabilir.
+ 
+
+**Kızamık aşısından sonra çok nadiren şu hastalıklar gelişebilir;**
+
+Febril konvulsiyonları artırabilir
+
+SSPE (İlerleyici beyin iltihaplanması çok nadiren gelişebilir ancak kızamık hastalığında gelişen riske göre çok düşüktür.
+
+Gullen Barre (Aniden yürüyememe)
+
+Reye sendromu (Böbrek hastalığı)
+
+Okuler motor paralizi
+
+Optik nörit (Göz siniri iltihabı)
+
+Retinopati
+
+İşitme kaybı
+
+Serebeller ataksi
+
+Artralji (Eklem ağrısı)
+
+Artrit
+
+Allerjik reaksiyonlar
+
+Trombositopeni
+
+Cilt ve yumuşak doku enfeksiyonu
+
+**PPD testi kızamık aşısı yapılanda yapılır mı?**
+
+Sonucu negatifleştirebildiği için ya aşıyla birlikte ya da aşıdan 6 hafta sonra yapılmalıdır.
+
+**Hangi durumlarda kızamık aşı yapılmaz?**
+
+Semptomatik AIDS vakalarında,
+
+Topik veya sistemik neomisine anaflaksi hikayesi (tek kesin kontraendikasyon)
+
+İmmun supresyon varsa (kısa süreli immun supresif tedavide yapılabilir)
+
+Hamilelikte yapılmamalıdır
+
+**Lösemili çocuğa kızamık aşısı yapılır mı?**
+
+Remisyona girdikten sonra ve en az 3 aydır tedavi almayanlarda uygulanır.
+
+**Yumurta alerjisi olanlarda kızamık aşısı yapılabilir mi?**
+
+Allerji doktorları tarafından test yapılarak yapılmalıdır.
+
+**IVIG veya kan ürünleri kullananlarda ne zaman kızamık aşısı yapılabilir?**
+
+3 ay sonra
+
+**Aşıdan sonra IVIG ne zaman verilir?**
+
+2 hafta sonra
