@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kızamık Nedir? Tedavisi ve İlacı Nedir?"
-date:   2018-04-10 21:47:00
+date:   2018-04-01 21:47:00
 categories: nedir
 tags: [kızamık nedir,kızamık tedavisi, kızamık aşısı]
 excerpt: kızamık nedir, kızamık nasıl anlaşılır, kızamık nasıl geçer, yetişkinlerde kızamık, kızamık ilacı, kızamık aşısı, kızamık kaşıntı yaparmı, kızamık olan çocuğa ne yapmalı
