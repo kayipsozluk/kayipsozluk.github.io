@@ -1,0 +1,97 @@
+---
+layout: default
+title: Home
+---
+
+
+<section class="home">
+        <div class="container">
+        <div class="row">
+           <div class="col-md-8 col-sm-12 col-xs-12">
+                <div class="headline">
+                        <div class="nav" id="headline-nav">
+                                <a class="left carousel-control" role="button" data-slide="prev">
+                                        <span class="ion-ios-arrow-left" aria-hidden="true"></span>
+                                        <span class="sr-only">Previous</span>
+                                </a>
+                                <a class="right carousel-control" role="button" data-slide="next">
+                                        <span class="ion-ios-arrow-right" aria-hidden="true"></span>
+                                        <span class="sr-only">Next</span>
+                                </a>
+                        </div>
+                        <div class="owl-carousel owl-theme" id="headline">	
+                                {% for post in site.posts limit:3 %}	
+                                <div class="item">
+                                  <a href="{{ post.url }}">{% if post.badge %}<div class="badge">{{ post.badge }}</div>{% endif %}{{ post.title }}</a>
+                                </div>
+                                {% endfor %}                                
+                        </div>
+                </div>
+                <div class="owl-carousel owl-theme slide" id="featured">
+                        {% for post in site.posts limit:3 %}	
+                        <div class="item">
+                                <article class="featured">
+                                        <div class="overlay"></div>
+                                        <figure>
+                                                <img src="../assets/images/news/{{ post.image }}" alt="{{ post.title }}">
+                                        </figure>
+                                        <div class="details">
+                                                {% if post.category %}
+                                                {% assign category_url = post.category | downcase | strip | replace: ' ','-' %}
+                                                <div class="category"><a href="{{ category_url }}">{{ post.category }}</a></div>
+                                                {% endif %}
+                                                <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                                                <div class="time">{{ post.date | date: '%d.%m.%Y' }}</div>
+                                        </div>
+                                </article>
+                        </div>
+                        {% endfor %}    
+                </div>
+               
+                <div class="line top">
+                                <div>Kategorilerden Yazılar</div>
+                        </div>
+                        <div class="row">
+                        {% for category in site.categories %}
+                        {% for posts in category %}
+                        {% for post in posts limit:1 %}
+                        {% if post.title %}
+                        <article class="col-md-12 article-list">
+                                <div class="inner">
+                                        <figure>
+                                                <a href="{{ post.url }}">
+                                                        <img src="../assets/images/news/{{ post.image }}" alt="{{ post.title }}">
+                                                </a>
+                                        </figure>
+                                        <div class="details">
+                                                <div class="detail">
+                                                        {% if post.category %}
+                                                        {% assign category_url = post.category | downcase | strip | replace: ' ','-' %}
+                                                        <div class="category"><a href="{{ category_url }}">{{ post.category }}</a></div>
+                                                        {% endif %}
+                                                        <div class="time">{{ post.date | date: '%d.%m.%Y' }}</div>
+                                                </div>
+                                                <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                                                <p>
+                                                 {{ post.content | truncatewords: 24 }}
+                                                </p>
+                                                <footer>
+                                                        <a class="btn btn-primary more" href="{{ post.url }}">
+                                                                <div>Devamı</div>
+                                                                <div><i class="ion-ios-arrow-thin-right"></i></div>
+                                                        </a>
+                                                </footer>
+                                        </div>
+                                </div>
+                        </article>
+                        {% endif %}
+                        {% endfor %}
+                        {% endfor %}
+                        {% endfor %}
+                        </div>
+           </div>
+           {% include sidebar.html %}
+        </div>
+</section>
+
+{% include last-month-posts.html %}

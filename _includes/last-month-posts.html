@@ -1,0 +1,52 @@
+
+<section class="best-of-the-week">
+        <div class="container">
+                <h1><div class="text">Geçen Ayın Yazıları</div>
+                        <div class="carousel-nav" id="best-of-the-week-nav">
+                                <div class="prev">
+                                        <i class="ion-ios-arrow-left"></i>
+                                </div>
+                                <div class="next">
+                                        <i class="ion-ios-arrow-right"></i>
+                                </div>
+                        </div>
+                </h1>
+                <div class="owl-carousel owl-theme carousel-1">
+                        {% assign latestPost_year = site.posts.first.date | date: "%Y"  %}
+                        {% assign latestPost_week = site.posts.first.date | date: "%m"  %}
+                        
+                        {%- for post in site.posts -%}
+                        
+                                {% assign postYear = post.date | date: "%Y" %}
+                                {% assign postWeek = post.date | date: "%m" %}
+                        
+                                {%- if latestPost_year == postYear and latestPost_week == postWeek -%}
+                                <article class="article">
+                                                <div class="inner">
+                                                        <figure>
+                                                                <a href="{{ post.url }}">
+                                                                        <img src="../assets/images/news/{{ post.image }}" style="width:270px; height:162px;" alt="Sample Article">
+                                                                </a>
+                                                        </figure>
+                                                        <div class="padding">
+                                                                <div class="detail">
+                                                                                <div class="time">{{ post.date | date: '%d.%m.%Y' }}</div>
+                                                                                {% if post.category %}
+                                                                                {% assign category_url = post.category | downcase | strip | replace: ' ','-' %}
+                                                                                <div class="category"><a href="{{ category_url }}">{{ post.category }}</a></div>
+                                                                                {% endif %}
+                                                                </div>
+                                                                <h2><a href="single.html">{{ post.title }}</a></h2>
+                                                                <p>{{ post.summary | truncate: 100 }}</p>
+                                                        </div>
+                                                </div>
+                                        </article>
+                                
+                                {%- endif -%}
+                        
+                        {%- endfor -%}
+                        
+                </div>
+        </div>
+</section>
+

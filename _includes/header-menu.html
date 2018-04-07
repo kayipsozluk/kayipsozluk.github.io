@@ -1,0 +1,36 @@
+<!-- Start nav -->
+<nav class="menu">
+        <div class="container">
+            <div class="brand">
+                <a href="#">
+                    <img src="{{ site.url }}/assets/images/logo.png" alt="Magz Logo">
+                </a>
+            </div>
+            <div class="mobile-toggle">
+                <a href="#" data-toggle="menu" data-target="#menu-list"><i class="ion-navicon-round"></i></a>
+            </div>
+            <div class="mobile-toggle">
+                <a href="#" data-toggle="sidebar" data-target="#sidebar"><i class="ion-ios-arrow-left"></i></a>
+            </div>
+            <div id="menu-list">
+                <ul class="nav-list">
+                    <li class="for-tablet nav-title"><a>Menu</a></li>
+                    {% for item in site.data.navigation.menu %}
+                        {% if  item.subItems[0] %}
+                        <li class="dropdown magz-dropdown">
+                        <a href="#">{{ item.title }} <i class="ion-ios-arrow-right"></i></a>
+                        <ul class="dropdown-menu">
+                                {% for child in item.subItems %}
+                                <li><a href="{{ child.url }}">{% if child.icon %}<i class="icon {{child.icon}}"></i>{% endif %}{{ child.page }}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        {% else %}
+                        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- End nav -->

@@ -1,0 +1,43 @@
+
+<header class="primary">
+    <div class="firstbar">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-12">
+                    <div class="brand">
+                        <a href="index.html">
+                            <img src="{{ site.url }}/assets/images/logo.png" alt="Magz Logo">
+                        </a>
+                    </div>						
+                </div>
+                <div class="col-md-6 col-sm-12">                                   
+                    <form action="https://google.com/search" target="_blank" rel="noopener" class="search" autocomplete="off">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <input type="hidden" name="sitesearch" value="http://kayipsozluk.com" />
+                                <input type="text" name="q" class="form-control" placeholder="buradan arayabilirsin" value="">									
+                                <div class="input-group-btn">
+                                    <button class="btn btn-primary"><i class="ion-search"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="help-block">
+                                {% if site.news %}
+                                <marquee scrollamount="5">                                
+                                <div>Haberler:</div>
+                                <ul>
+                                    {% for n in site.news %}
+                                    <li><a href="#">{{ n }}</a></li>                                    
+                                    {% endfor %}
+                                </ul>
+                            </marquee>
+                                {% endif %}
+                            </div>
+                    </form>								
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% include header-menu.html %}
+</header>
