@@ -23,7 +23,7 @@ news:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: :title
-development: true
+development: false
 
 # Social Media Accounts
 twitter_username: kayipsozluk
