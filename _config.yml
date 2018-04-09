@@ -38,37 +38,4 @@ feedburner: "kayipsozluk"
 
 # Build settings
 markdown: kramdown
-plugins: [jekyll-feed,jekyll-paginate,jekyll-paginate-multiple,jekyll-sitemap]
-
-# Main paginate
-paginate: 5
-
-#Category paginate
-paginate_multiple:
-  - paginate: 10
-    paginate_path: '/merak-edilenler/:num/'
-    sub_dir: '/merak-edilenler'
-  - paginate: 10
-    paginate_path: '/sinema/:num/'
-    sub_dir: '/sinema'
-  - paginate: 10
-    paginate_path: '/televizyon/:num/'
-    sub_dir: '/televizyon'
-  - paginate: 10
-    paginate_path: '/tiyatro/:num/'
-    sub_dir: '/tiyatro'
-  - paginate: 10
-    paginate_path: '/kitap/:num/'
-    sub_dir: '/kitap'
-  - paginate: 10
-    paginate_path: '/teknoloji/:num/'
-    sub_dir: '/teknoloji'
-  - paginate: 10  
-    paginate_path: '/tarih/:num/'
-    sub_dir: '/tarih'
-  - paginate: 10  
-    paginate_path: '/psikoloji/:num/'
-    sub_dir: '/psikoloji'
-  - paginate: 10  
-    paginate_path: '/saglikveyasam/:num/'
-    sub_dir: '/saglikveyasam'
+plugins: [jekyll-feed,jekyll-sitemap]
