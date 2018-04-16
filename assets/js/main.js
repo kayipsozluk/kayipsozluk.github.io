@@ -11,3 +11,19 @@ $('#return-to-top').click(function() {      // When arrow is clicked
         scrollTop : 0                       // Scroll to top of body
     }, 500);
 });
+
+
+$(function () {
+    var sidebar = $('#sidebar');
+    var top = sidebar.offset().top - parseFloat(sidebar.css('margin-top'));
+  
+    $(window).scroll(function (event) {
+      var y = $(this).scrollTop();
+      if (y >= top) {
+        sidebar.addClass('adventure-fixed');
+      } else {
+        sidebar.removeClass('adventure-fixed');
+        
+      }
+    });
+});

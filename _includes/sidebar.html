@@ -1,4 +1,4 @@
-<div class="col-xs-6 col-md-4 sidebar" id="sidebar">
+<div class="col-xs-6 col-md-4 sidebar" >
 
                 <h1 class="title-col">
                         SON YAZILAR                                
@@ -36,16 +36,7 @@
                                
                         </div>
 
-                        <aside>
-                                <div class="aside-body">
-                                          <figure class="ads">
-                                                  <a href="#">
-                                                    <img src="{{ site.url }}/assets/images/ad.png">
-                                                  </a>
-                                            <figcaption>Reklam</figcaption>
-                                          </figure>
-                                        </div>
-                                      </aside>
+                        
                         <div class="sidebar-title for-tablet">SideBar</div>
                         
                         <aside>
@@ -88,4 +79,15 @@
                         </div>
                 </div>
         </aside>
+        
+        <aside>
+                <div class="aside-body">
+                          <figure class="ads">
+                                  <a href="#">
+                                        {% include advertisements.html %}
+                                  </a>
+                            <figcaption>Reklam</figcaption>
+                          </figure>
+                        </div>
+       </aside>
 </div>

@@ -38,4 +38,8 @@
     color: #fff;
     top: 5px;
 }
-
+.adventure-fixed {  
+    position: fixed; 
+    top: 120px; 
+    width: 360px;
+}
