@@ -136,7 +136,6 @@ Bu makalede **en iyi yabancı diziler IMDB puanlarına** göre listelenmiştir.
 
 En iyi yabancı diziler listesine Lethal Weapon'u ekleyebiliriz. Lethal Weapon konusu; polis memuru Martin Riggs eşini ve çocuğunu  trafik kazasında kaybettikten sonra yeni bir hayat kurar ve kendisini suçluları yakalamaya adar. Ortağı Roger Murtaugh ise yaşamayı seven sağlığına dikkat eden biridir. Dizi birbirlerine zıt iki karakterin maceralarını konu alıyor.
 
-{% include advertisements-word.html %}
 
 ## 94-The Flash
 
@@ -150,7 +149,6 @@ En iyi yabancı diziler listesine Lethal Weapon'u ekleyebiliriz. Lethal Weapon k
 
 En iyi yabancı diziler sıralamamıza The Flash ile başlıyoruz. The Flash konusu, annesi gizemli şekilde kaybetmiş ve babasınıda annesini öldürmek suçlamasıyla hapse girmiştir. Ailesinin yokluğunda dedektif Joe West gözetiminde yetişen Barry Allen, S.T.A.R Endüstrilerinin parçacık hızlandırıcısı denemesi sırasında büyük bir hata nedeniyle oluşan patlamada bir şimşek ile yüzleşmek durumunda kalmıştır. Hava durumunu değiştirerek Allen’a şimşek çarptıran hızlandırıcı, Barry Allen yani The Flash’ın bir anda değişmesine, çeşitli özellikler kazanmasına ve çok hızlı hücre yenilenmesine neden olmuştur.
 
-{% include advertisements-word.html %}
 
 ## 93- Lie To Me
 
@@ -168,7 +166,6 @@ Yalan makinelerinin bile çözemediği vakalarda Dr. Lightman ve ekibi ele aldı
 
 Suç dünyasında olayların çözülmesi için gerekli olan araştırmalara, yalanların çözümü için beden dilinden yararlanması üzerinden bakan Lie to Me kesinlikle izlenmesi gereken diziler listesine eklemekte fayda var.
 
-{% include advertisements-word.html %}
 
 ## 92- Gallipoli
 
@@ -184,7 +181,6 @@ En iyi yabancı diziler listemize Avusturalyalıların Gelibolu cephesinde verdi
 
 2015 yılında yayınlana ve 3 yıl süren Çanakkale savaşının gelibolu cephesindeki savaşın yüzünü Avusturalyalı 4 genç askerin gözünden izlemek için en iyi yabancı diziler listenize Gallipoli yi de eklemenizi tavsiye ederim.
 
-{% include advertisements-word.html %}
 
 ## 91- iZombie
 
@@ -198,7 +194,6 @@ En iyi yabancı diziler listemize Avusturalyalıların Gelibolu cephesinde verdi
 
 En popüler yabancı diziler listemize iZombie dizisi ile devam ediyoruz. 2015 yılında yayına başlayan iZombie DC Comics’in aynı ismi taşıyan çizgi romanından uyarlandı. Zombiye dönüşen bir tıp öğrencisi olan Liv, insan vüzudunu koruyabilmek için beyin yemesi gerekmtedir. Bu nedenle adli tıpta iş bulur. Ancak zamanla fark eder ki; yediği her beyin, cesedin sahibinin anılarını kafasının içinde duymasına sebep olmaktadır. Bu durumu kullanmaya karar veren genç kız, kim tarafından işlendiği bilinmeyen cinayet vakalarını patronu ve bir polis dedektifinin yardımlarıyla çözecektir.
 
-{% include advertisements-word.html %}
 
 ## 90- Da Vinci's Demons
 
@@ -212,7 +207,7 @@ En popüler yabancı diziler listemize iZombie dizisi ile devam ediyoruz. 2015 y
 
 En iyi yabancı diziler sıralamamıza Da Vinci’s Demons ile devam edelim. Leonardo Da Vinci’nin bilinmeyen gençliğinin konu alındığı dizide tarihi kurgulayarak bir tarihsel fantazi olarak ele alınıp 25 yaşında geleceği şekillendirmeye çalışan bir genç olarak karşımıza çıkıyor. Tek başına mücadele verdiği bu savaşta aklını yitirmenin sınırlarına yaklaşırken gerçek ve yalan, geçmiş ve gelecek gibi olgular arasındaki çelişkileri çözmeye uğraşıyor. Kahramanımız inanç ve fikir kavramlarının belli kişilerce tanımlandığı, aykırı düşüncelere izin verilmeyen bir dönemde bu baskıya karşı geliyor ve insanların düşüncelerini özgür bırakmaya çalışıyor.
 
-{% include advertisements-word.html %}
+
 
 ## 89- The Good Place
 
@@ -228,7 +223,6 @@ En iyi filmler listesine fantezi-komedi türü ile devam edelim. 2016 yılında 
 
 Dizi, erektil disfonksiyon ürünleri taşıyan bir traktörün çarpması sonucu ölen ve öbür tarafta yeniden canlandırılan Eleanor Shellstrop ([Kristen Bell](http://www.imdb.com/name/nm0068338/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"}) isimli sıradan bir kadın üzerinde hikayeye başlar. Ahiretteki yaşantısında kendisinin çok da iyi bir insan olmadığının farkına varır. Ahiret hocası Michael'ın yardımıyla içindeki iyi insanı bulmaya ve yeniden sıradan hayatına dönmeye çalışır. Amerikan yapımı sitcom türündeki fantezi-komedi dizisini beğeneceğinizi umuyorum.
 
-{% include advertisements-word.html %}
 
 ## 88- Marco Polo
 
@@ -244,7 +238,6 @@ En iyi tarihi yabancı diziler sıralamasında yer almak için Netflix in projes
 
 Ümit Burnu'na adını veren Marco Polo'nun gençlik yıllarını konu alan dizi, Marco Polo'nun Venedikli bir tüccar olan babasıyla beraber Kubilay Han'ın egemenliğindeki Moğolistan'a gelişiyle başlıyor. O dönemdeki İpek Yolu ticareti hayatını etkilemesiyle birlikte dünyanın keşfedilmemiş topraklarına doğru zorlu bir yolculuğa çıkıp dünyanın güç dengelerini değiştirecektir. 13. yüzyılda geçen bu tarihi dizide dönemin savaşları, güç kavgaları ve saray entrikaları yanında sonradan adını dünyaya duyuracak bir gencin aşkları ve ümitleri ekrana geliyor.
 
-{% include advertisements-word.html %}
 
 ## 87- Preacher
 
@@ -260,7 +253,6 @@ En iyi tarihi yabancı diziler sıralamasında yer almak için Netflix in projes
 
 Doğaüstü ve komik olayları içeren diziler seviyorsanız izlemenizi tavsiye ederim.
 
-{% include advertisements-word.html %}
 
 ## 86- American Gods
 
@@ -289,7 +281,6 @@ Ancak hapisaneden çıkmadan birkaç gün önce, Laura ve Shadow’un en yakın 
 
 Yabancı dizi tavsiyeleri listesinde yine yeni yabancı dizi önerileri arasında yer alan bir başyapıt daha olan The Deuce yer alır. Dizi new York’da 1970’li yıllarda yasal hale gelen porno sektörünün 1980’li yıllardaki yükselişini konu alıyor. Aldığı puanla IMDB nin en iyi yabancı diziler listesine girebilen bir yapıttır.  
 
-{% include advertisements-word.html %}
 
 ## 84- The Leftovers
 
@@ -303,7 +294,6 @@ Yabancı dizi tavsiyeleri listesinde yine yeni yabancı dizi önerileri arasınd
 
 En iyi yabancı diziler arasında final yapmış diğer yapım ise The Leftovers'dir. Dizinin konusu; dünyada bir anda anlaşılmayan bir nedenden dolayı dünya nüfusunun bir bölümü ortadan kaybolur. Kaybolan insanların yakınları olan biteni anlayamadığı için şaşkınlık ve trejedi içerisinde kalırlar. The Leftovers’da bu insaların gizem dolu yeni dünya yaşamlarını konu alsın. Bilimkurgu ve gizem dolu The Leftovers aldığı puanlarla IMDB nin en iyi yabancı diziler listesine girmeyi başarmıştır.
 
-{% include advertisements-word.html %}
 
 ## 83- Orange Is the New Black
 
@@ -317,7 +307,6 @@ En iyi yabancı diziler arasında final yapmış diğer yapım ise The Leftovers
 
 Dizi Piper Chapman’ın gençliğinde yaptığı bir hata yüzünden hapse düşmesi ve karşılaştığı bu farklı dünyada yaşama çabasını konu almaktadır. Dizi içerisinde kahramanların geçmişlerindeki birçok zamandan olaylar işleniyor. Komedi türünde olan dizi içerisinde dramda barındırıyor.En iyi yabancı diziler listesine ekleyebileceğimiz bir yapıt.
 
-{% include advertisements-word.html %}
 
 ## 82- Bates Motel
 
@@ -333,7 +322,6 @@ Gerilim konusunda dünyanın en iyi diziler listesine girebilecek bir dizide Bat
 
 Kasaba şerifinin ve yardımcısının eski motel sahibinin ortadan kaybolmasından şüphelenir. Norma ve kızı cinayetin ortaya çıkmaması için ellerinden geleni yaparlar. Norman okula kayıt olur ve sıradışı davranışları öğretmeninin dikkatini çeker. Ve olaylar örgüsü bunun üzerine devam eder.
 
-{% include advertisements-word.html %}
 
 ## 81- Lucifer
 
@@ -349,7 +337,6 @@ Fantazi ve polisiyenin bir arada olduğu Lucifer en popüler diziler listesine g
 
 Lucifer Los Angeles’de yaşamaya devam ederke Chloe isminde bir polis ile tanışır ve aşık olur. İnsan üstü özellikleri sayesinde aşık olduğu polise olayları çözmek için danışman olarak yardım eder. Aynı zamanda cehennemde bıraktığı hayatının sorunlarıyla da uğraşmak zorunda kalacaktır.
 
-{% include advertisements-word.html %}
 
 ## 80- The End of the F***ing World
 
@@ -363,7 +350,6 @@ Lucifer Los Angeles’de yaşamaya devam ederke Chloe isminde bir polis ile tan�
 
 En iyi yabancı diziler listesine ekleyebileceğiniz bir diğer dizi de Netflix dizilerinden The End Of The F*** World. Dizinin konusu ; 17 yaşında sürekli hayvanlara zarar verip öldüren bir psikopat çocuğun artık hayvanlardan sıkılıp insan öldürmek istemesiyle, tanıştığı bir kızın kayıp babasını bulmak için çıktıkları yolda kızı öldürme planları yaparken karşılaştıkları olayları işleyen bir dizi. Kara mizah türlerini izlemeyi seviyorsanız en popüler yabancı diziler listenize eklemek isteyeceğiniz bir yapıt.
 
-{% include advertisements-word.html %}
 
 ## 79- 11.22.63
 
@@ -377,7 +363,6 @@ En iyi yabancı diziler listesine ekleyebileceğiniz bir diğer dizi de Netflix 
 
 En iyi yabancı diziler listemize bilim kurgu, gizem ve dram türünde olan 11.22.63 ekleyebiliriz. Dizinin konusu, Bir lisede ingilizce öğretmeni olan Jake Epping (James Franco) etrafında gelişen olayları ele almaktadır. Bir lokantanın depo kısmındaki bir kapının kendisini geçmişe götürdüğünü öğrenen Jake Epping, 22 Kasım 1963’te gerçekleşen John F. Kennedy’nin suikastini önlemeye çalışacak.
 
-{% include advertisements-word.html %}
 
 ## 78- Ray Donovan
 
@@ -391,7 +376,6 @@ En iyi yabancı diziler listemize bilim kurgu, gizem ve dram türünde olan 11.2
 
 En iyi yabancı diziler listesine ekleyeceğimiz suç ve dram kategorisindeki Netflix projesi Ray Donovan'ı inceleyelim. Dizinin konusu, zengin ve ünlü ailelerin sorunlarını hallederken bir yandan da aile sorunlarını çözmeye çalışan adamın hikayesini konu alıyor. Bir hukuk şirketinde çalışan Ray Donovan girdiği tüm işler başını belaya sokmaya başlıyor. Bir süre sonra gittikçe bataklığa saplanmaya başlaması üzerine hayatını, karısı ve çocuklarını etkilemeye başlayacaktır. Suç dünyasında bol aksiyon seyri seviyorsanız en popüler yabancı diziler listesine ekleyebilirsiniz.
 
-{% include advertisements-word.html %}
 
 ## 77- 13 Reasons Why
 
@@ -405,7 +389,6 @@ En iyi yabancı diziler listesine ekleyeceğimiz suç ve dram kategorisindeki Ne
 
 En popüler yabancı diziler listesine Netflix’de yayınlanan bir cinayetin ardından olan olayları konu alan 13 Reasons Why dizisini ekleyebiliriz. Dizinin konusu inceleyelim. 17 yaşındaki Hannah Baker ortada bir sebep yokken intihar etmiştir. Aynı okula giden okulun parlak öğrencisi Clay Jensen cinayetin üstünden bir süre geçtikten sonra evinin kapısında içinde eski kasetler olan bir kutu buluyor. Olaylar bu kasetlerin izlenmesiyle başlıyor.En iyi yabancı diziler listenize eklemenizi tavsiye ederim.
 
-{% include advertisements-word.html %}
 
 ## 76- The Bing Bang Theory
 
@@ -433,7 +416,6 @@ Dizi tavsiyemize en iyi yabancı dizilerden The Bing Bang Theory ekleyebiliriz. 
 
 En popüler dizi listesine ekleyeceğimiz halen devam eden bilimkurgu türündeki Altered Carbons’u inceleyelim. Dizinin konusu, insan bilincinin disklere kaydederek istenildiği gibi yeni vücutlara nakledilip yaşama devam edilmesini konu alır. Dizi eski bir mahkumun buzda geçen 250 yıl sonrasında akıl almaz bir cinayeti çözmesi için yeni bir bedende diriltilmesiyle başlıyor. Bilim kurgu türündeki bu diziyi en iyi yabancı diziler listesine eklemenizi tavsiye ederim.
 
-{% include advertisements-word.html %}
 
 ## 74- The Pacific
 
@@ -447,7 +429,6 @@ En popüler dizi listesine ekleyeceğimiz halen devam eden bilimkurgu türündek
 
 Savaş konulu en iyi yabancı dizilerden biri de final yapmış The Pacific dir. 10 bölümden oluşan 2. Dünya savaşını konu alan dizide Amerikan Deniz Piyade Kolordusu'nun Pasifik Cephesi'nde Japon İmparatorluk Deniz Kuvvetleri birliklerine karşı verdiği mücadeleyi konu almaktadır. Savaş dizilerini seviyorsanız en popüler diziler listenize ekleyebilirsiniz.
 
-{% include advertisements-word.html %}
 
 ## 73- Ozark
 
@@ -461,8 +442,6 @@ Savaş konulu en iyi yabancı dizilerden biri de final yapmış The Pacific dir.
 
 Dizi tavsiyelerine en iyi yabancı dizilerden biri Ozark’ı ekleyebiliriz. Dizinin konusu bir finans danışmanı, ailesini Chicago'dan Missouri'deki Ozarks'a sürükler. Burada, bir uyuşturucu patronunu memnun etmek için beş yılda 500 milyon dolar aklamalıdır. Finans danışmanının eşi ve çocuklarıyla işler sarpa sardığı için Ozark Platosu olarak bilinen Güney Missouri’ye taşınmasının hikayesini anlatıyor. 
 
-{% include advertisements-word.html %}
-
 ## 72- The Last Kingdom
 
 ![En İyi Yabancı Diziler - İngilizce Diziler - The Last Kingdom]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-last-kingdom.jpg){: .align-center}{:id="72_The_Last_Kingdom"}
@@ -475,7 +454,6 @@ Dizi tavsiyelerine en iyi yabancı dizilerden biri Ozark’ı ekleyebiliriz. Diz
 
 The Last Kingdom, savaş ve krallık konulu sahneleri olsada, din, aşk, politika ve sadakat merkezli bir dizidir. Birçok krallığın Vikinglerin istilasına uğradığı o dönemde Kral Büyük Alfred, bu saldırılara karşı koyacak, diğer krallıkları birleştirmek arzusu ile ayakta durarak "Son Krallık" adını alacaktır. Toz duman bir ortamda, kendi özgürlük alanlarını tekrar kazanıp, hak ettikleri yurdu kurmaya çalışan insanların en görkemli krallık çatısı altında savaştığı bir öyküdür. En iyi yabancı diziler listesine eklemenizi tavsiye ederim.
 
-{% include advertisements-word.html %}
 
 ## 71- Orphan Black
 
@@ -489,7 +467,6 @@ The Last Kingdom, savaş ve krallık konulu sahneleri olsada, din, aşk, politik
 
 En iyi yabancı diziler listesine ekleyeceğimiz Orphan Black’ı inceleyelim. Orphan Black konusu, koruyucu aile tarafından büyütülen Sarah Manning yaşadığı şehirden kaçıp başka bir şehire geldiği sırada tren istasyonun da kendisine çok benzeyen Beth Childs'ın intiharına tanık olur. Beth Childs'ın çantasını alarak onun yerine geçen Sarah Manning bir anda kendisini görünüş olarak ikiz kardeşi kadar benzeyen bir sürü farklı kişiyle tanışmaya başlar. Bu garip durum karşısında kafasında oluşan soru işaretlerini gidermek için açıklayıcı cevaplar aramaya koyulur, her bölümde heyecan ve merak katsayısı biraz daha artar. En popüler diziler listesine eklemenizi tavsiye ederim.
 
-{% include advertisements-word.html %}
 
 ## 70- The Originals
 
@@ -503,7 +480,6 @@ En iyi yabancı diziler listesine ekleyeceğimiz Orphan Black’ı inceleyelim. 
 
 Vampir ve kurt adamları işleyen dizileri izlemeyi seviyorsanız en popüler yabancı diziler listenize The Originals dizisini ekleyebilirsiniz. Dizinin konusu , 1000 yıl önceye dayanan ailenin cadı annesi çocuklarını korumak için büyü ve çocukları ölümsüz olur. Ancak çocukların kana karşı duyarlılıkları babaları tarafından nefretle karşılanır. Köken vampir aile, binlerce yıl önce sonsuza dek bir arada kalacaklarına dair birbirlerine söz verir. Fakat gelişen olaylar ve güç savaşları, dengeleri değiştirerek birbirlerinden kopmalarına neden olur.
 
-{% include advertisements-word.html %}
 
 ## 69- Fringe
 
@@ -517,7 +493,6 @@ Vampir ve kurt adamları işleyen dizileri izlemeyi seviyorsanız en popüler ya
 
 En iyi yabancı diziler listesine Amerikan bilim kurgu dizisi Fringe ekleyebiliriz. Fringe nin konusunda paralel evrenden kuantum fiziğine kadar bir çok konuya değinmesi ve zekice kurgusuyla belki de tüm zamanların bilim kurgu alanında en iyi yabancı dizi olabilir. Fringe tüm dünyayı etkileyecek belki de kıyamete neden olacak olayları bilimsel yöntemlerle değerlendiren FBI soruşturma tekniklerini kullanan bir inceleme bölümüdür. 
 
-{% include advertisements-word.html %}
 
 ## 68- Prison Break
 
@@ -531,7 +506,6 @@ En iyi yabancı diziler listesine Amerikan bilim kurgu dizisi Fringe ekleyebilir
 
 En iyi yabancı diziler listesine hapisaneden kaçışın muhteşem kurgulandığı Prison Break dizisini ekleyebiliriz. IMDB puanının az olduğunu düşündüğüm dizilerden bir tanesi Prison Break dir. Dizi bir inşaat mühendisi olan Michael Scofield (Wentworth Miller) Başkan Yardımcısı'nın kardeşini öldürmek suçuyla idam cezasına çarptırılan ağabeyi Lincoln Burrows'u (Dominic Purcell) kurtarmak yasal yolların kalmadığını farkedince bir banka soygunu düzenleyip abisinin bulunduğu hapisaneye girmesiyle başlıyor. Zekice kurgulanmış senaryoda her bölümde kaçışa bir adım daha yaklaşıldığını hissediyor ve birçok kez hayal kırıklığı yaşıyorsunuz. En popüler yabancı diziler listesine mutlaka eklemelisiniz.
 
-{% include advertisements-word.html %}
 
 ## 67- Genius
 
@@ -545,7 +519,6 @@ En iyi yabancı diziler listesine hapisaneden kaçışın muhteşem kurgulandı�
 
 National Geographic projesi olan Genius dizisi her bölümde farklı bir dahinin hayatını konu alıyor. En iyi yabancı diziler listenize her bölüm yeni bir dahinin hayatını inceleyebileceğiniz diziyi ekleyebilirsiniz.
 
-{% include advertisements-word.html %}
 
 ## 66- Lost
 
@@ -573,7 +546,6 @@ Lost dizisini duymayan kalmamıştır diye düşünüyorum. Bir dönemi kasıp k
 
 En iyi yabancı diziler listesine ekleyebileceğimiz tavsiye dizimiz Netflix yapımı Sense8. Dizinin konusu dünyanın farklı yerlerinde 8 farklı kişi birbirlerinin hafızalarına, dillerine, zihinlerine ve yeteneklerine sahip olur ve hayatta kalmaya çalışmaktadır. Bu durumu farkettiklerinde kimileri bir araya gelmek isteyecek kimileri ise birbirlerini öldürmek isteyeceklerdir. 
 
-{% include advertisements-word.html %}
 
 ## 64- How I Met Your Mother
 
@@ -588,7 +560,6 @@ En iyi yabancı diziler listesine ekleyebileceğimiz tavsiye dizimiz Netflix yap
 
 En iyi yabancı dizilerden How I met your mother konusu 2030 yılında ana karakterimiz Ted Mosby karşına çocuklarını karşısına alıp “Size annenizle nasıl tanıştığımızı anlayacağım” der ve dizi 2005 yılına döner. Dünyada çok popüler olan durum komedisi türündeki How I Met Your Mother en popüler yabancı diziler listesine ekleyebilirsiniz.
 
-{% include advertisements-word.html %}
 
 ## 63- Homeland
 
@@ -607,7 +578,6 @@ Yıllardır kayıp olduğu ve öldüğü düşünülen Çavuş Nicholas Brody, A
 
 CIA, Brody’nı bir kahraman olarak ilan ederken Ajan Mathison duruma şüpheyle bakacaktır. Ancak Brody’nin taraf değiştirmiş bir terörist olarak ABD için tehdit olduğunu ispat etmesi hiç de kolay olmayacaktır.
 
-{% include advertisements-word.html %}
 
 ## 62- Legion
 
@@ -622,7 +592,6 @@ CIA, Brody’nı bir kahraman olarak ilan ederken Ajan Mathison duruma şüpheyl
 
 En iyi yabancı diziler listemize Legion u ekleyebiliriz. Dizinin konusu, ana kahramanımız David Haller çocukluğundan itibaren kafasında belirli sesler duymaktadır. David Haller çok güçlü telepati yeteneği olan bir mutanttır. Bu neden birçok psikolojik tedavi görmektedir. Bir süre sonra kendisinin farkına varmaya başlayacaktır. Hükümet yetkilileri peşine düşer ve artık olağan üstü güçlerini tanımaya başlayacaktır.
 
-{% include advertisements-word.html %}
 
 ## 61- Billions
 
@@ -637,7 +606,6 @@ En iyi yabancı diziler listemize Legion u ekleyebiliriz. Dizinin konusu, ana ka
 
 Amerika’nın en önemli ve ünlü avukatlarından biri olan Chuck Rhoades kariyerinin en parlak dönemini geçirmektedir. Dünyaca ünlü bir mirasyedinin avukatlığını yapması hayatının en büyük yanlış kararı olacaktır. Müvekkilinin yaptığı kötülükleri engellemek için işi kabul eden Chuck Rhoades engellemede başarısız olacaktır. Chuck için hayat bu saatten sonra çok daha zorlu ve macera dolu bir hale gelecektir. En iyi yabancı diziler listesine ekleyebilirsiniz.
 
-{% include advertisements-word.html %}
 
 ## 60- The Good Doctor
 
@@ -652,7 +620,6 @@ Amerika’nın en önemli ve ünlü avukatlarından biri olan Chuck Rhoades kari
 
 Dizi Otizm ve Savant sendromu olan bir cerrahın çalıştığı hastanede yaşadıklarını konu alıyor. En popüler yabancı diziler listenize ekleyebilirsiniz. 
 
-{% include advertisements-word.html %}
 
 ## 59- The Walking Dead
 
@@ -667,7 +634,6 @@ Dizi Otizm ve Savant sendromu olan bir cerrahın çalıştığı hastanede yaşa
 
 En iyi ve en popüler yabancı diziler listenize eklemeniz gereken yabancı dizilerden biride The Walking Death dır. Dünya üzerinde bir salgın sonrasında ölülerin ayaklanıp canlıları yemeleriyle başlayan dizide başroldeki kahramanların zombilere rağmen hayatta kalmaya çalışmalarını konu alıyor. Dizinin ilerleyen bölümlerinde yaşayan insan gruplarının zombilerden daha tehlikeli olabileceklerini göreceksiniz. En iyi dizi listenizde yer alması gereken bir yapıttır.
 
-{% include advertisements-word.html %}
 
 ## 58- Supernatural
 
@@ -682,7 +648,6 @@ En iyi ve en popüler yabancı diziler listenize eklemeniz gereken yabancı dizi
 
 Dizi konusu : Dean Winchester ve Sam Winchester kardeşlerin insanların gerçekte var olmadığını zannettiği birçok tür yaratık, hayalet, şeytan vb. varlığın avcılığını yaptıkları ve bu maceraları sırasında yaşadıklarını anlatır. 
 
-{% include advertisements-word.html %}
 
 ## 57- Carnivale
 
@@ -697,7 +662,6 @@ Dizi konusu : Dean Winchester ve Sam Winchester kardeşlerin insanların gerçek
 
 Hikaye, 1930’lu yıllar boyunca tüm dünyada sürmüş olan ekonomik buhran ve büyük kuraklık dönemlerinde geçmektedir. 1934 yılında başlayan hikayemiz, gezici bir karnaval çalışanı Ben Hawkins ile California’da rahiplik yapan Justin Crow’un hikayesini anlatan iki ayrı konu barındırır. Bu iki karakter, birbirine benzer, gizemli ve şifreli rüyalar görmektedirler. Daha sonra tahmin edileceği üzere iki karakterin kaderleri kesişecektir. En iyi yabancı diziler listesine ekleyebileceğiniz bir yapıttır.
 
-{% include advertisements-word.html %}
 
 ## 56- Ash vs Evil Dead
 
@@ -727,7 +691,6 @@ En iyi yabancı diziler sıralamasına Ash vs Evil Dead 80’lerin korku filmi s
 
 En popüler diziler sıralamasına ekleyeceğimiz suç,dram, gizem kategorisindeki Luther’i inceleyelim. Ana karakter John Luther, başarılı ve idealist bir dedektiftir. Ancak Luther, dürtülerine yenik düşerek bir hata yapar ve 7 ay gibi bir süre görevinden uzaklaştırılır. İşine döndüğünde ise hiçbir şey eskisi gibi olmayacaktır.
 
-{% include advertisements-word.html %}
 
 ## 54- Outlander
 
@@ -742,7 +705,6 @@ En popüler diziler sıralamasına ekleyeceğimiz suç,dram, gizem kategorisinde
 
 Dizinin kahramanı Claire kocası Frank ile birlikte 1945 yılında İskoçyanın Inverness şehrini ziyaret ederken yüzyıllar öncesi zamana dönüyor. O dönemde kocası  asker Jonathan olarak karşısına çıkar. Jonathan’ın saldırısından İskoç Jamie Fraser tarafından kurtarılır. Claire daha sonra Jonathan’ın aslında kocası Frank’ın atalarından olduğunu anlar. Leoch Şatosunda şifacı olarak yer edinir ama kendi zamanına da dönememektedir. Claire ve Jamie zamanla yakınlaşır ve evlenir. Claire Jamie’ye aşıktır ama yine de Frank’ı düşünerek suçluluk hissetmektedir. Bu arada 1945 yılında Frank artık Claire’den ümidi kesmiştir. Ancak olaylar hiç kimsenin sandığı gibi gelişmeyecektir. The Outlander en iyi yabancı diziler listemize ekleyebiliriz.
 
-{% include advertisements-word.html %}
 
 ## 53- Modern Family
 
@@ -757,7 +719,6 @@ Dizinin kahramanı Claire kocası Frank ile birlikte 1945 yılında İskoçyanı
 
 En popüler yabancı diziler listemize kaldığımız yerden devam ediyoruz. Modern Family 3 akraba ailenin ilişkilerini bize belgesel tadında aktarıyor. Ailelerden biri Vietnamlı bir çocuğu evlat edinmiş gay bir çift. Bu enteresan ailelerin komedi türündeki hikayelerini aktaran Modern Family IMDB puanı 8.5 olarak karşımıza çıkıyor. En popüler yabancı diziler listenize bu aile komedi türündeki diziyi ekleyebilirsiniz.
 
-{% include advertisements-word.html %}
 
 ## 52- Unsere Mütter, unsere Väter
 
@@ -776,7 +737,6 @@ Greta hayalleri olan yetenekli bir şarkıcıyken, Yahudi erkek arkadaşı Vikto
 
 Milyonlarca kişi onlar gibi kahraman olmak istemiştir ama hiçbiri savaşın onlara neler yapabileceğini düşünmemiştir.
 
-{% include advertisements-word.html %}
 
 ## 51- Twin Peaks
 
@@ -791,7 +751,6 @@ Milyonlarca kişi onlar gibi kahraman olmak istemiştir ama hiçbiri savaşın o
 
 Twin Peaks, Laura Palmer isimli genç bir kızın öldürülmesi sonrası gelişen olayları konu alır. FBI, bu cinayeti araştırması için Dale Cooper isimli bir Ajanını Twin Peaks isimli kasabaya gönderir. Küçük ve neredeyse herkesin birbirini tanıdığı bu kasaba, içerisine girdikçe daha da komplike bir hâle bürünmektedir. Kasabadaki en masum görünümlü insanların bile birçok sırrı vardır ve bu sırların açığa çıkmaması için her şeyi yapacaklardır… FBI ajanının ve Laura Palmer’ın katilinin bulunmasını isteyenlerin işi çok zordur… En popüler yabancı dizi listesine ekleyebilirsiniz.
 
-{% include advertisements-word.html %}
 
 ## 50- Utopia
 
@@ -806,7 +765,6 @@ Twin Peaks, Laura Palmer isimli genç bir kızın öldürülmesi sonrası geliş
 
 Düşünün ki yaşanmış felaketleri önceden bilen bir şeye sahipsiniz. Neler yaşardınız. İşte en iyi yabancı diziler listemize ekleyeceğimiz Utopia tam da yaşayacaklarınızı anlatıyor.Birbiriyle alakasız bir grup insan, internetteki çizgi roman forumlarının birinde tanışır. Grup; Utopia adında, keşfedilmemiş bir çizgi roman taslağı bulur. Çok geçmeden fark ederler ki, bu çizgi roman, son yüzyılda yaşanmış felaketleri önceden bilmektedir. Olaylar giderek karışacak ve kahramanlarımız kendilerini adı The Network olarak bilinen bir organizasyonun hedefi olarak bulacaklardır.
 
-{% include advertisements-word.html %}
 
 ## 49- Taboo
 
@@ -821,7 +779,6 @@ Düşünün ki yaşanmış felaketleri önceden bilen bir şeye sahipsiniz. Nele
 
 James Delaney (Tom Hardy), annesinin mensup olduğu bir Afrika kabilesinde geçirdiği on yıllık sürenin ardından, babasının ölümü ile memleketi İngiltere’ye geri döner.  Bu sırada, dönemin meşhur ve çok tehlikeli Doğu Hindistan Şirketi’nin göz koyduğu kritik bir arazinin, babası tarafından sadece oğlu James’e bırakıldığı ortaya çıkar. Bu işe dünden razı olan ve şirket ile pazarlıklarda sona yaklaşan James’in üvey kız kardeşi ve onun kocasının hain planları bir anda suya düşer. İngiltere’de ortalık karışmaya başlayacaktır.
 
-{% include advertisements-word.html %}
 
 ## 48- Justified
 
@@ -836,7 +793,6 @@ James Delaney (Tom Hardy), annesinin mensup olduğu bir Afrika kabilesinde geçi
 
 Justified konusu Kansas’ın bir kasabası olan Harlan’da geçiyor. Burada Federal Şerif görevini üstlenen Raylan Givens olayların merkezinde yer alan isim. Raylan Givens aslında Mimai’de görev yapmakta olan bir isimdir. Önemli bir görev sırasında halkın yoğun olduğu bir sırada kendini korumak için bir suçluyu öldürür. Bu durum da büyük tepki çeker ve Raylan hakkında soruşturma açılmasına karar verir. Basın da işin içine girince patronu Raylan’ı ortalık yatışıncaya kadar Harlan’a gönderir. Bu kırsal kesinde görevine başlayan Raylan, suçluları eski usullere göre yakalamasıyla ün salacaktır. Suçluların üzerine kararlı şekilde giden Raylan’ın yaşadıkları izleyenleri adeta ekrana kilitlemektedir.
 
-{% include advertisements-word.html %}
 
 ## 47- Boardwalk Empire
 
@@ -851,7 +807,6 @@ Justified konusu Kansas’ın bir kasabası olan Harlan’da geçiyor. Burada Fe
 
 Boardwalk Empire, 1920-1933 yılları arasında ABD'de tüketime yönelik içki satışının, üretiminin ve dağıtımının yasak olduğu "İçki Yasağı Yasası" döneminde gangsterler ve politikacılar arasındaki karmaşık ilişkileri konu almaktadır.
 
-{% include advertisements-word.html %}
 
 ## 46- The Night Of
 
@@ -881,7 +836,6 @@ Amerika Birleşik Devletlerinde doğup büyüyen Pakistan asıllı Nasir Khan, b
 
 Atlanta konusu; 20’li yaşlarının ortasına gelmiş ve tabiri caizse bir baltaya sap olamamış olan iki kuzen, Earnest ve Alfred, hayatlarına yeni bir yol çizmenin eşiğindedir. Eğitim gördükleri Princeton Üniversitesi’nden atılan, parasız ve evsiz kalan, ailesinin ve sevgilisinin gözünden tamamıyla düşmüş olan karakterler, ya ailelerinin yanında kalmak ya da hayatlarına sıfırdan başlamak şeklinde iki seçeneğe sahiptirler. Rap dünyasına fazlasıyla merak salan ve bu alanda ilerlemek isteyen kuzenler, soluğu rap dünyasının merkezi halinde olan Atlanta’da alırlar. Şehre gelmedeki ilk amaçları kendilerini geçindirmek ve ailelerine yardım etmek olan iki kuzen, Hem şehir yaşantısıyla, hem de rap dünyasıyla tanıştıktan sonra çeşitli bağlantıları da kullanarak birden yıldız haline gelirler. Kuzenlerin bu değişik hikayesi ise komik olduğu kadar garip ve eğlencelidir de.
 
-{% include advertisements-word.html %}
 
 ## 44- Spartacus
 
@@ -898,7 +852,6 @@ Starz kanalı tarafından 2010 yılında yayınlanmaya başlayan bir Amerikan di
 
 Spartacus konusu; Trakya ve Roma arasında geçen bir çatışma sırasında esir düşen Spartacus’un eşi güzel Sura da Romalılar tarafından köle olarak satılmıştır. Özgür bir adam ve büyük bir savaşçı olan Spartacus kendini birden bire kendini bir arenada vahşi gladyatörlerle karşı karşıya bulan Spartacus, büyük aşkı Sura’yı kurtarmaya ve özgürlüğünü kazanmaya and içer.Capua şehrinde Batiatus hanesi tarafından satın alınan Spartacus, böylece tarihin gördüğü en büyük gladyatörlerden biri olma yolunda ilk adımı atacaktır. Gladyatör okulu olan ludos’ta yeni dostluklar kuran ve yeni düşmanlar edinen Spartacus’u bir köle olarak zorlu bir mücadele beklemektedir. Spartacus Blood and Sand özgürlüğünü kaybeden güçlü ve gururlu bir savaşçı olan Spartacus’un özgürlüğünü ve eşini kurtarmak için geçirdiği zorlu mücadelenin yanı sıra, Antik Roma’da kölelerin karşılaştığı zorlukları ve çektikleri acıları, aristokratların toplumsal basamakları atlamak için girdiği mücadeleleri anlatan yan hikayeleri ile izleyicinin ilgisini her daim ekranda tutmayı başarıyor. En iyi yabancı diziler listesine ekleyebilirsiniz.
 
-{% include advertisements-word.html %}
 
 ## 43- Silicon Valley
 
@@ -913,7 +866,6 @@ Spartacus konusu; Trakya ve Roma arasında geçen bir çatışma sırasında esi
 
 Silicon Valley. 1980′lerin sonunda Silikon Vadisi'nde çalışan bir bilgisayar programcısının yaşadıklarını konu edinecek dizinin merkezinde; içine kapalı, asosyal bilgisayar programcısı Richard ve onun beş arkadaşının öyküsü yer alacak. Her şey Richard’ın çok önemli bir algoritma bulması ile başlıyor. Peşine düşen büyük şirketler, fikirlerini çalmak isteyen firmalara rağmen Richard ve arkadaşları kendi şirketleri Pied Piper’ı kurar. Silicon Valley Dizisi, bu rekabetçi piyasada genç girişimcilerin hayatta kalma çabasını hem gerçekçi hem de eğlenceli bir açıdan anlatmaktadır.
 
-{% include advertisements-word.html %}
 
 ## 42- Suits
 
@@ -928,7 +880,6 @@ Silicon Valley. 1980′lerin sonunda Silikon Vadisi'nde çalışan bir bilgisaya
 
 En popüler yabancı diziler listemize Suits ile devam ediyoruz. Suits’i muhtemelen birçok kişi duymuştur. Suits dizisinde iki Mike Ross ve Harvey Specter isminde iki kahramanımız vardır. Mike Ross bir dahi olarak karşımıza çıkıyor. Eğitimini yarıda bırakmış ve çocukken birçok talihsiz olay yaşamıştır. Geçimini ise başkaları yerine LSAT sınavlarına girerek sağlamakta ve zor bir hayat yaşamaktadır. Harvey Specter ise, New York içerisinde yaşayan en başarılı avukatlardan birisidir. Çalıştığı şirkette mertebe yükselmesi yaşayınca kendisi için bir asistan arar ve şans eseri Mike ile tanışır. Mike’ın dahi olmasına ve zekasına hayran kalınca, kendisine asistanlık teklifini götürür. Ancak şirkette sadece Harvard mezunları olabildiği için, Mike’ı herkese oradan mezun olmuş gibi tanıtmaya karar verirler. Şirket içerisinde yaşanan birçok olay ve Mike’ın hayatına giren kadın ile birlikte olaylar gelişmeye başlar. En iyi yabancı diziler listesine ekleyebiliriz.
 
-{% include advertisements-word.html %}
 
 ## 41- Hannibal
 
@@ -947,8 +898,6 @@ Bir gün Hannibal Lecter’ın yolu FBI’da çalışan Will Graham ile kesişir
 
 Ancak Will Graham’ın aradığı son katil kendisini biraz zorlamıştır ve bu katili yakalamak için Hannibal Lecter’den yardım almaya karar verir ve ikisi birlikte çalışırlar. Ancak ileride çok garip gerçekler öğrenecektir Will Graham.
 
-{% include advertisements-word.html %}
-
 ## 40- Sons of Anarchy
 
 
@@ -962,7 +911,6 @@ Ancak Will Graham’ın aradığı son katil kendisini biraz zorlamıştır ve b
 
 Sons of anarchy konusu;  babası Clay Teller’ın ölümünün ardından kendini liderlik koltuğunda bulan Jax Teller’ın aile ve çete hayatını birlikte sürdürmeye çalışmasıdır. Çetedeki çeşitli karakterlerin liderlik çatışmaları ve çeşitli oyunları devreye girince işler motosikletli ekip işinden çıkmakta ve daha da büyümektedir. Zaman içinde kendini illegal işler içinde bulan çete, liderleri Jax’in isteğinin aksine bu yönde ilerlemeye devam eder ve kendini başta devlet güçleri, ITA ve çeşitli diğer mafya örgütleriyle çatışma içinde bulur. Zaman içinde çetenin çeşitli yönetim kadrolarındaki çeşitli üyeleri, işleri kendilerine özgü yollarla çözmeye çalışacaklardır ve bu işlerin biraz daha karışmasına sebep olacaktır.
 
-{% include advertisements-word.html %}
 
 ## 39- Mindhunter
 
@@ -977,7 +925,6 @@ Sons of anarchy konusu;  babası Clay Teller’ın ölümünün ardından kendin
 
 Mindhunter konusu, 1970’lerin sonunda FBI Ajanı Holden Ford arabulucukul görevi yapmaktaıdır. Ancak suçlu psikolojisini daha iyi anlamak istemesinden sonra olaylar Ford’un seri katillerin kapsına kadar gitmesine neden olacaktır. En iyi yabancı diziler listesine ekleyebilirsiniz.
 
-{% include advertisements-word.html %}
 
 ## 38- The Handmaid's Tale
 
@@ -992,7 +939,6 @@ Mindhunter konusu, 1970’lerin sonunda FBI Ajanı Holden Ford arabulucukul gör
 
 The Handmaid’s Tale; kadınların neredeyse bütün haklarının elinden alındığı, sadece çocuk doğurmak ve hizmetçi olarak varlıklarını sürdürdükleri, erkeklerin egemen olduğu dindar bir kesim tarafından totaliter tarzda yönetilen bir ülkeyi anlatıyor. Dizi, distopik yapısıyla karanlık bir hikaye sunuyor.
 
-{% include advertisements-word.html %}
 
 ## 37- Vikings
 
@@ -1007,7 +953,6 @@ The Handmaid’s Tale; kadınların neredeyse bütün haklarının elinden alın
 
 Vikings konusu, basit bir çiftçilikten en büyük krallığa giden Ragnar’ ın hayatını anlatırken yaşadığı savaşları ve olaylara yer veriyor. Savaşta ölenlerin onurlu bir şekilde Valhala denilen ölümden sonraki tanrıların bulunduğu yere gideceklerine inanmaktadırlar. Savaşçıların ölüme karşı hiçbir korkusu bulunmamakta Valhala’ya ve tanrılarına öyle bağlılar ki ölüm onlar için basit bir olay gibi.
 
-{% include advertisements-word.html %}
 
 ## 36- Big Little Lies
 
@@ -1037,7 +982,6 @@ Big Little Lies’da; dışardan mükemmel hayatlara sahipmiş gibi gözüken ü
 
 En iyi yabancı diziler listesine ekleyebileceğiniz Mr.Robot, gündüzleri genç bir siber güvenlik mühendisi ve geceleri hackerlık yapan bir siber korsan olan Elliot’un, yer altı hacker grubunun (fsociety) onunla irtibata geçmek için şirketininin sistemine zarar vermesi üzerine büyük bir karmaşıklığın içine girmesini konu alıyor.
 
-{% include advertisements-word.html %}
 
 ## 34- Better Call Saul
 
@@ -1052,7 +996,6 @@ En iyi yabancı diziler listesine ekleyebileceğiniz Mr.Robot, gündüzleri gen�
 
 En iyi yabancı dizi önerileri listesinde tüm zamanların en iyi dizileri arasında yer alan, en az breaking bad kadar iyi olduğu düşünülen bir diğer yapım ise Better Call Saul.Better Call Saul breaking bad dizisinde avukat rolunü oynayan Saul Goodman’ın Breaking Bad’den önceki hayatını işliyor. En popüler diziler arasına Breaking Bad ile birlikte eklenebilir.
 
-{% include advertisements-word.html %}
 
 ## 33- Daredevil
 
@@ -1067,7 +1010,6 @@ En iyi yabancı dizi önerileri listesinde tüm zamanların en iyi dizileri aras
 
 Daredevil hikyayesi New York’un Hell’s Kitchen bölgesinde geçiyor. Matt Murdock 9 yaşında radyoaktif bir kaza geçirir ve gözlerine radyoaktif bir madde dökülür. Geçirdiği kaza görme duyusunu kaybetmesine neden olur. Ancak hala etrafındaki her şeyin şeklini ve yerini rahatça tespit edebilmektedir. Başına gelen bu kaza diğer 4 duyusunun daha hassas ve güçlü olmasına neden olmuştur. Matt’in eski boksör olan babası, oğlunun başına gelen bu kazadan dolayı kendini suçlamaktadır. Bu sebepten işini bırakır ve kendini yeniden boksa verir. Yaptığı bir dövüş esnasında, kendine söyleneni yapmadığı için öldürülür. Artık Matt’in baş düşmanı, babasının ölümüne sebep olan Kingpin’dir. Bunun üzerine babasının intikamını almak isteyen Daredevil (Matt Murdock), gündüzleri avukat olarak adalet dağıtırken, geceleri ise Daredevil olarak Hell’s Kitchen’da adaleti sağlamaya başlar. Kingpin’in aşkı, yaşamı ve Hell’s Kitchen üzerinde kurmak istediği egemenlik, Daredevil’in ortaya çıkmasıyla bozulacaktır.
 
-{% include advertisements-word.html %}
 
 ## 32- Shameless
 
@@ -1082,7 +1024,6 @@ Daredevil hikyayesi New York’un Hell’s Kitchen bölgesinde geçiyor. Matt Mu
 
 Shameless bir aile babası ve 6 çocuğun maceraları konu ediyor. Aile babası Frank Gallagher alkolden kendini alamayan utanmaz bir adamın tekidir. Evin çocuklarından en büyüğü ise kardeşlerini okutma ve evi geçindirme derdiyle boğuşmaktadır. Gallagher ailesinin başına dizide çoğu zaman eğlenceli olaylar gelecek, bazen ise gerçekten dramatik olaylar gelecektir. Ancak Gallagher  ailesi her zaman bu sıkıntılarla baş etmeyi bilecektir.
 
-{% include advertisements-word.html %}
 
 ## 31- Gomorra: La serie
 
@@ -1097,8 +1038,6 @@ Shameless bir aile babası ve 6 çocuğun maceraları konu ediyor. Aile babası 
 
 En iyi yabancı diziler listesine ekleyebileceğiniz Gomorra bir İtalyan suç dramasıdır. Roberto Saviano’nun Gomorra kitabından uyarlanan Gomorra La Serie konusunu inceleyelim. 19. Yüzyılda Napoli ve Naopilten topluluklarının oluşturduğu suç örgütü olan Camorra klanına bağlı Napolideki en güçlü ailesi olan Savastano ailesinin reisi Don Pietro nun kurduğu bu suç örgütünün olaylarını konu alıyor. Uyuşturucu satışı başta olmak üzere her türlü yasa dışı suç ailenin kontrolündedir. Fakat Don Pietro’nun yaşlandığı, gücünün artık azaldığı düşünmesinden sonra ailenin yeniden varolma çabasını izleyeceksiniz. 
 
-{% include advertisements-word.html %}
-
 ## 30- The Punisher
 
 
@@ -1112,7 +1051,6 @@ En iyi yabancı diziler listesine ekleyebileceğiniz Gomorra bir İtalyan suç d
 
 Marvel ve Netflix in projesi The Punisher Marvel karakterinin uyarlaması olarak karşımıza çıkıyor.  The Punisher kimliğini karısının ve çocuklarının öldürülmesinden sonra intikamını alarak bir kenara bırakan Frank Castle yanlız hayatına devam etmektedir. Gözlerden uzak bir şekilde yaşamına devam eden Frank geçmişinde yaşadığı bir olay nedeniyle tekrar ortaya çıkmak zorunda kalır. Yıllar önce aldığı intikama aslında yeni başlayacağını öğrenecektir. En iyi yabancı diziler listenize eklemenizi tavsiye ederim.
 
-{% include advertisements-word.html %}
 
 ## 29- Dexter
 
@@ -1127,7 +1065,6 @@ Marvel ve Netflix in projesi The Punisher Marvel karakterinin uyarlaması olarak
 
 Miami Metro Polis Departmanı’nda kan analizcisi görevinde çalışan Dexter Morgan, normal ve herkesin bildiği hayatının dışında farklı bir hayatıda yaşamaktadır. Aslında bir seri katil olan Dexter’ın çözülemeyen cinayetlerini konu alan Dexter en iyi yabancı diziler listesine kesinlikle eklenmesi gerekiyor. 
 
-{% include advertisements-word.html %}
 
 ## 28- The Crown
 
@@ -1142,8 +1079,6 @@ Miami Metro Polis Departmanı’nda kan analizcisi görevinde çalışan Dexter 
 
 Netflixin projelerinden birtaneside 1947 yılında savaştan yeni çıkan İngiltere'de II. Elizabeth in gençlik yıllarını Buckingam Sarayında yaşanan siyasi olayları ve entrikaları çarpıcı şekilde işleyen The Crown en iyi yabancı diziler listesine IMDB den yüksek puan almasıyla eklenmesi gerektiğini gösteriyor. 
 
-{% include advertisements-word.html %}
-
 ## 27- Deadwood
 
 
@@ -1156,8 +1091,6 @@ Netflixin projelerinden birtaneside 1947 yılında savaştan yeni çıkan İngil
 ***Oyuncular: [(Timothy Olyphant),](http://www.imdb.com/name/nm0648249/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"}[ (Ian McShane),](http://www.imdb.com/name/nm0574534/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"}[ (Molly Parker)](http://www.imdb.com/name/nm0662504/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"} (Devamını, Full listeyi [buradan](http://www.imdb.com/title/tt0348914/fullcredits/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"} görebilirsiniz)***
 
 1870 yıllarında Amerika'nın Güney Dakota bölgesinde küçük bir altın madenin gelişerek büyük bir komplekse dönüşmesini ve Amerika'daki doğu ve batı sermayesi ile kapitalizme değinilen örneklerle Western türündeki Deadwood en iyi yabancı diziler listesine aldığı puanla girebileceğini göstermiştir. 
-
-{% include advertisements-word.html %}
 
 ## 26- The Terror
 
@@ -1187,7 +1120,6 @@ The Terror 1845 yılında Sir John Franklin komutasında Arktik’i geçmeye ça
 
 En iyi yabancı diziler listesine ekleyebileceğiniz bir anime serisi Attack on Titanın konusuna bakıcak olursak, Yüzyıllar önce insanlık, en büyük avcısıyla tanışmış; nereden geldikleri bilinmeyen devler tarafından saldırılara uğrayarak yok olmanın eşiğine gelmiştir. Bu katliamdan da sadece kendilerini yüksek duvarların ardına hapsederek dışarıdaki devlerden korunabilen az bir nüfus kurtulmuştur. Yüz yıl bu şekilde yaşadıktan sonra duvarları yıkıp insanları yok etmeye çalışan bir dev ortaya çıkar.
 
-{% include advertisements-word.html %}
 
 ## 24- The Office
 
@@ -1202,7 +1134,6 @@ En iyi yabancı diziler listesine ekleyebileceğiniz bir anime serisi Attack on 
 
 Amerika’da bir kağıt şirketi olan Mifflin’in Scraton şubesindeki ofisinde gerçekleşen olaylar mizahi yönü ile diziye aktarılmış. Dizide ofis müdürü Michael Scott ve elemanlarının yaşadıkları olaylar anlatılmaktadır.
 
-{% include advertisements-word.html %}
 
 ## 23- House
 
@@ -1217,7 +1148,6 @@ Amerika’da bir kağıt şirketi olan Mifflin’in Scraton şubesindeki ofisind
 
 New Jersey eyaletindeki bir hastanede bulaşıcı hastalıklar bölümünde Gregory House ve üç kişilik ekibinin başından geçenler anlatılıyor. Gregory House başarılı operasyonlar yürütmesine rağmen fazla risk aldığından dolayı hastane yönetimi tarafından hastaneden kovuluyor. Başka hastanelerde aşırı risk almasından dolayı işe almak istemezler. En iyi diziler listesine 8.8 puanlık House eklenebilir.
 
-{% include advertisements-word.html %}
 
 ## 22- Peaky Blinders
 
@@ -1232,8 +1162,6 @@ New Jersey eyaletindeki bir hastanede bulaşıcı hastalıklar bölümünde Greg
 
 En iyi yabancı diziler listesine ekleyeceğimiz Peaky Blinders konusu, Shelby ailesine bağlı Peaky Blinders çetesi şehirde soygunculuk ve at yarışı bahisleri yöneten zamanın en acımasız çetesidir. Tüm işlerin yolunda gitmesini sağlamak için şehirdeki birçok polisi rüşvet ağına bağlamışlar Herşey yolunda giderken yanlış bir soygun ile şehre tüm işleri mahvedek yeni bir müfettiş atanır.
 
-{% include advertisements-word.html %}
-
 ## 21- The is US
 
 
@@ -1246,8 +1174,6 @@ En iyi yabancı diziler listesine ekleyeceğimiz Peaky Blinders konusu, Shelby a
 ***Oyuncular: [(Milo Ventimiglia),](http://www.imdb.com/name/nm0893257/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"}[ (Mandy Moore),](http://www.imdb.com/name/nm0601553/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"}[ (Sterling K. Brown)](http://www.imdb.com/name/nm1250791/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"} (Devamını, Full listeyi [buradan](http://www.imdb.com/title/tt5555260/fullcredits/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"} görebilirsiniz)***
 
 Aynı tarihte dünyaya gelmiş 5 farklı kişinin hayatlarının kesit olarak işlendiği dizide günlük hayattaki yaşamlarının birbiriyle kesiştiğini göreceğiz.  Aile türündeki dizi en iyi yabancı diziler listesine 8.8 IMDB puanıyla girmeyi hakediyor.
-
-{% include advertisements-word.html %}
 
 ## 20- Oz
 
@@ -1262,7 +1188,6 @@ Aynı tarihte dünyaya gelmiş 5 farklı kişinin hayatlarının kesit olarak i�
 
 En iyi yabancı diziler listesine bir hapishane dizisini ekleyebiliriz. Hapishane de yer alan mahkumlar arasında yaşanan güç savaşı, çeteleşme, rüşvet, uyuşturucu, kumar ve sex olaylarının gardiyanlar ile mahkumların çıkar ilişkilerini çok çarpıcı bir şekilde gözler önüne seriyor. Hapisanede çıkan isyanlar sonrasında gardiyanlar ve yönetimin işleri yeniden düzene sokmak için gösterdikleri gayreti göreceksiniz.
 
-{% include advertisements-word.html %}
 
 ## 19- Rome
 
@@ -1277,7 +1202,6 @@ En iyi yabancı diziler listesine bir hapishane dizisini ekleyebiliriz. Hapishan
 
 En iyi yabancı diziler listesine bir hapishane dizisini ekleyebiliriz. Hapishane de yer alan mahkumlar arasında yaşanan güç savaşı, çeteleşme, rüşvet, uyuşturucu, kumar ve sex olaylarının gardiyanlar ile mahkumların çıkar ilişkilerini çok çarpıcı bir şekilde gözler önüne seriyor. Hapisanede çıkan isyanlar sonrasında gardiyanlar ve yönetimin işleri yeniden düzene sokmak için gösterdikleri gayreti göreceksiniz.
 
-{% include advertisements-word.html %}
 
 ## 18- La casa de papel
 
@@ -1292,7 +1216,6 @@ En iyi yabancı diziler listesine bir hapishane dizisini ekleyebiliriz. Hapishan
 
 2017 yılına damgasını vuran La casa de papel en iyi yabancı diziler arasında yerini buldu. La casa de papel konusunu inceleyelim; Profesör lakaplı takım liderinin birbirinden farklı suçlara bulaşmış ekibi bir araya getirip alışılmışın dışında tarihe geçebilecek bir soygun planlamaktadır.Profesör, İspanya merkez bankasını yani ispanya darphanesini soymak istemektedir. Kurgu olarak güzel ancak bazı olaylarda saçmaladıklarını düşündüğüm La casa de papel izleyicisinden iyi not alara en popüler yabancı diziler listesine eklenebilecek bir dizi.
 
-{% include advertisements-word.html %}
 
 ## 17- Seinfeld
 
@@ -1309,7 +1232,6 @@ En iyi yabancı diziler listesine dokuz sezon süren eski ve klasikleşmiş bir 
 
 Dizi, Jerry Seinfeld ve arkadaşları George Costanza, Elaine Benes ve Cosmo Kramer'ın günlük hayatta ki komik maceralarını konu alıyor. Komeden olan Jerry ve yalancı, her işi mahveden sürekli problemli biri olan George yakın arkadaştır. Zamanında Jerry ile çıkan ancak arkadaş olarak kalan diğer kahramanımız Elaine dürüstlüğü sayesinde başını bir türlü beladan kurtaramaz. Dizideki en abuk sabuk tip Jerry in komşusu Kremer dir. Çok sayıda Emmy ödülü alan Seinfeld kesinlikle listenize girmeye adaydır.
 
-{% include advertisements-word.html %}
 
 ## 16- Friends
 
@@ -1339,7 +1261,6 @@ IMDB puanları yükseldikçe karşımıza eski diziler çıkmaya başladı. En i
 
 Narcos konusu; Çiftçi bir baba ve öğretmen bir annesi olan fakir bir ailede 6 kardeşi arasında dünyaya gelen Pablo Escobar en parlak çocuk olmasını çalışkanlığı ve zekiliğine borçluydu. Ancak çalışarak zengin olamayacağı fikrine kapılan Pablo Escobar araba ve karaborsa ürünlerle suç dünyasına adım atar. 1970 ‘li yıllarda uyuşturucu dünyasında Pablo Escobar güçlenerek bir uyuşturucu baronu olmaya başlar. En iyi yabancı diziler arasına mutlaka eklenmesi gereken bir suç dizisi Narcos.
 
-{% include advertisements-word.html %}
 
 ## 14- House of Cards
 
@@ -1354,7 +1275,6 @@ Narcos konusu; Çiftçi bir baba ve öğretmen bir annesi olan fakir bir ailede 
 
 House of Cards Amerika Dış İşleri Bakanı olarak atanmayı bekleyen fakat verdiği çabanın karşılığını alamayan Frank Underwood’un bu durum karşısında hayal kırıklığı yaşaması ve beklenmedik planlar içine girmesini konu alıyor.
 
-{% include advertisements-word.html %}
 
 ## 13- Westworld
 
@@ -1369,7 +1289,6 @@ House of Cards Amerika Dış İşleri Bakanı olarak atanmayı bekleyen fakat ve
 
 En iyi yabancı dizilerden bir taneside 8.9 IMBD puanıyla Westworld. Yapay zekanın kontrolden çıkmasını Western temalı bir konuyla ele alıyor. Westworld konusu; Zengin müşterilerin oyunlar oynayabileceği yapay zekalarla donatılmış Westworld Park’ta işlerin kontrolden çıkmasıyla müşterilerin hedef konumuna gelmesini konu almaktadır. 
 
-{% include advertisements-word.html %}
 
 ## 12- Stranger Things
 
@@ -1384,7 +1303,6 @@ En iyi yabancı dizilerden bir taneside 8.9 IMBD puanıyla Westworld. Yapay zeka
 
 En iyi Netflix dizisi olduğu düşünülen Stranger Things Will isminde 12 yaşındaki bir kızın ortadan kaybolmasından sonra ortaya çıkan gizemli bir kızın yıllar önce Will gibi ortadan kaybolup yıllar sonra geri dönmesiyle Will’in bulunması için umut olacak iken devletin yaptırdığı gizli deneyler ile olağanüstü güçlerin ortaya çıkmasını konu alıyor.
 
-{% include advertisements-word.html %}
 
 ## 11- Black Mirror
 
@@ -1399,7 +1317,6 @@ En iyi Netflix dizisi olduğu düşünülen Stranger Things Will isminde 12 yaş
 
 Her bölümün birbirinden farklı konuların işlendiği Black Mirror en iyi yabancı diziler listesine 8.9 IMBD puanıyla giriyor. Tüm bölümlerde işlenen konuların farklı olmasının yanı sıra tek ortak noktası, hayatımızı kolaylaştıran yeni teknolojilerin bizi nasıl tutsak ettiği ve hayatımızı alt üst ettiiğini işlemektedir.
 
-{% include advertisements-word.html %}
 
 ## 10- Black Mirror
 
@@ -1415,7 +1332,6 @@ Her bölümün birbirinden farklı konuların işlendiği Black Mirror en iyi ya
 En iyi yabancı diziler listemizde IMDB puanı 9.0 ve üzerindeki dizilere sıra geldi.
 Fargo dizisi Coen Kardeşler‘in aynı Fargo filminden esinlenerek yaratılmıştır. Forgo konusu, Ana karakter olan Lester’in okuldayken kendisine zorbalık yapan Sam Hess ile tekrar karşılaşınca çıkan kavgada Lester yaralanır ve hastaneye gider ve Lorna ile karşılaşır. Lorna’dan Sam’i öldürmesini ister ve daha sonra olaylar karşışmaya başlar.
 
-{% include advertisements-word.html %}
 
 ## 9- True Detective
 
@@ -1430,7 +1346,6 @@ Fargo dizisi Coen Kardeşler‘in aynı Fargo filminden esinlenerek yaratılmı�
 
 IMDB puanı 9.0 olan ikinci en iyi yabancı dizi True Detective’dir. Konusu ; Cinayet masasında görevli iki dedektif yıllarca bir seri katili yakayamayıp emekli olduklarından sonra cinayet soruşturmasının yeniden açılmasıyla bu dedektiflerin sorgulanmaya başlamasıyla olaylar karışıyor. En popüler yabancı dizilerden True Detective’i izlenme listesine almanızı tavsiye ederim.
 
-{% include advertisements-word.html %}
 
 ## 8- The Mechanism
 
@@ -1445,8 +1360,6 @@ IMDB puanı 9.0 olan ikinci en iyi yabancı dizi True Detective’dir. Konusu ; 
 
 2018 yapımı Netflix projesi olan The Mechanism 9.1 IMBD puanıyla izleyicilerin beğenisini kazanmış gibi görünüyor. The Mechanism konusu, Brezilyada petrol ve inşaat şirketleri üzerinde kurulu kamu ve özel sektörde yapılan büyük bir yolsuzluğun takibini yapan bir grup araştırmacıyı konu alıyor. en popüler diziler listesine ekleyebileceğiniz The Mechanism Netflix dünyasında izleyicilerin beğenisini kazandı.
 
-{% include advertisements-word.html %}
-
 ## 7- Sherlock
 
 
@@ -1460,7 +1373,6 @@ IMDB puanı 9.0 olan ikinci en iyi yabancı dizi True Detective’dir. Konusu ; 
 
 IMDB puanı 9.2 olan Sherlock Şehirde cinayetlerin peşine düşen polis teşkilatının dahi bir beyne sahip olan Sherlock Holmes ve ev arkadaşı Doktor Watson'dan aldığı yardımlarla cinayetlerin çözümlenmesini konu almaktadır. Arthur Conan Doyle’nin hikayeleri için büyük beğeni sağlayan birçok Sherlock filmleri yapılmıştır. Aynı beğeniyi 9.2 puanlık dizisinde görmekteyiz. En iyi yabancı diziler listesine eklenmesini tavsiye ederim. 
 
-{% include advertisements-word.html %}
 
 ## 6- The Sopranos
 
