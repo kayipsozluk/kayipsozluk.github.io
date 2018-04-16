@@ -1402,7 +1402,6 @@ IMDB puanı 9,2 olan The Sopranos konusu New Jersey deki Amerika-İtalyan mafta 
 
 En iyi yabancı çizgi diziler arasında olan Rick And Morty IMDB deki 9.3 puanıyla izleyicilerin büyük beğenisini kazanmış görünüyor. Rick And Morty konusu , çılgın bir bilim adamı olan dede Rick ile torunu Morty bin maceradan maceraya koymalarını konu alıyor. 
 
-{% include advertisements-word.html %}
 
 ## 4- The Wire
 
@@ -1417,7 +1416,6 @@ En iyi yabancı çizgi diziler arasında olan Rick And Morty IMDB deki 9.3 puan�
 
 Her sezonda aynı şehirde ve aynı karakterler ile farklı konular işleyen dizinin konuları, uyuşturucu, işçi ve sendikalar, politika, eğiitm sistemi, medya konuları işleniyor. En iyi yabancı diziler listesine 9.3 puanla girebilecek bir dizi The Wire.
 
-{% include advertisements-word.html %}
 
 ## 3- Band of Brothers
 
@@ -1432,7 +1430,6 @@ Her sezonda aynı şehirde ve aynı karakterler ile farklı konular işleyen diz
 
 ABD hava kuvvetlerine bağlı Easy bölüğünün savaş eğitim kamplarından savaş bitimine ve savaş sonrasındaki ordudan ayrılmaları konusuna kadar geniş süreci işliyor. Bu süreç içerisinde ölüm ve acıyla tanışan bölük üyeleri savaşın nasıl bir cehennem olduğunun farkına varıp yaşadıklarının gerçekten gerekli olup olmadığını sorguluyorlar. En iyi yabancı diziler listesine 9.5 IMDB puanı ile en iyi 3 yabancı diziden biri olduğunu gösteriyor. Mutlaka listenize eklemeniz gereken bir yapıt.
 
-{% include advertisements-word.html %}
 
 ## 2- Breaking Bad
 
