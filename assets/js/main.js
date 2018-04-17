@@ -15,15 +15,16 @@ $('#return-to-top').click(function() {      // When arrow is clicked
 
 $(function () {
     var sidebar = $('#sidebar');
+    var main = $('#lolo');
     var top = sidebar.offset().top - parseFloat(sidebar.css('margin-top'));
-  
+    var mainbottom= main.prop("scrollHeight");//parseFloat(main.css('height'));
     $(window).scroll(function (event) {
       var y = $(this).scrollTop();
       if (y >= top) {
         sidebar.addClass('adventure-fixed');
+        console.info("mainbottom:"+mainbottom+" top:"+top+" y:"+y);
       } else {
         sidebar.removeClass('adventure-fixed');
-        
       }
     });
 });
