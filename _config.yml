@@ -21,7 +21,7 @@ siteimage:
 description: Aradığınız herşey bu sözlükte
 news: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kayipsozluk.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kayipsozluk.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: :title
 development: false
 
