@@ -55,29 +55,43 @@ $(function(){
 
 		setInterval(function() {
 			if(didScroll) {
-				hasScrolled();
+				//hasScrolled();
 				didScroll = false;
 			}
 		},250);
 
-		var hasScrolled = function() {
-			var scrollTop = $(this).scrollTop();
-			var toTop = 0;
-			$("header.primary > :not(.menu)").each(function(){
-				toTop += $(this).outerHeight();
+		if ($(window).width() < 960) {
+			$("header.primary").addClass("up").css({
+				top: -208
 			});
 
-			if(scrollTop > 100) {
-				$("header.primary").addClass("up").css({
-					top: -toTop
+			$("section.home").css({
+				paddingTop : 60
+			});
+		 }
+		 else {
+			
+			var hasScrolled = function() {
+				var scrollTop = $(this).scrollTop();
+				var toTop = 0;
+				$("header.primary > :not(.menu)").each(function(){
+					toTop += $(this).outerHeight();
 				});
+	
+				if(scrollTop > 100) {
+					$("header.primary").addClass("up").css({
+						top: -toTop
+					});
+				}
+				if(scrollTop < 300) {
+					$("header.primary").removeClass("up").css({
+						top: 0
+					});
+				}
 			}
-			if(scrollTop < 300) {
-				$("header.primary").removeClass("up").css({
-					top: 0
-				});
-			}
-		}
+		 }
+
+		
 	}
 
 	// love
@@ -564,6 +578,8 @@ $(function(){
 			}
 			return false;
 		});
+
+		$("[data-toggle=sidebar]").hide();
 
 		if(!$("#sidebar").length) {
 			$("[data-toggle=sidebar]").hide();
