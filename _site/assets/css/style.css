@@ -537,7 +537,7 @@ header.primary {
   -moz-transition: all 0.5s;
 }
 header.primary.up {
-  top: -172px;
+  top: -144px;
 }
 header.primary.up nav.menu {
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
@@ -570,7 +570,7 @@ header.primary.up nav.menu .dropdown-menu .dropdown-menu {
 }
 
 section {
-  padding-top: 20px;
+  padding-top: 60px;
   padding-bottom: 40px;
 }
 section.first {
@@ -2877,7 +2877,7 @@ aside .ads figcaption {
   }
 
   header.primary.up {
-    top: -286px;
+    top: -209px;
   }
 
   .firstbar {

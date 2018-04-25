@@ -32,16 +32,16 @@ $(function(){
 	}
 
 	var sectionFirstPadding = function() {
-		if($("header.primary").length) {
+		/* if($("header.primary").length) {
 			$("section").eq(0).addClass("first");
 			$("section.first").css({
-				paddingTop: $("header.primary").outerHeight() + 15
+				//paddingTop: $("header.primary").outerHeight() + 15
 			})			
-		}
+		} */
 		$(window).on("resize",function(){
 			if($("header.primary").length) {
 				$("section.first").css({
-					paddingTop: $("header.primary").outerHeight() + 15
+					//paddingTop: $("header.primary").outerHeight() + 15
 				})
 			}
 		});
@@ -69,16 +69,16 @@ $(function(){
 				toTop += $(this).outerHeight();
 			});
 
-			if(scrollTop > 100) {
+			/* if(scrollTop > 100) {
 				$("header.primary").addClass("up").css({
-					top: -toTop
+					top: -177
 				});
 			}
 			if(scrollTop < 300) {
 				$("header.primary").removeClass("up").css({
-					top: 0
+					top: 60
 				});
-			}
+			} */
 		}
 	}
 
