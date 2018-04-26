@@ -1318,7 +1318,7 @@ En iyi Netflix dizisi olduğu düşünülen Stranger Things Will isminde 12 yaş
 Her bölümün birbirinden farklı konuların işlendiği Black Mirror en iyi yabancı diziler listesine 8.9 IMBD puanıyla giriyor. Tüm bölümlerde işlenen konuların farklı olmasının yanı sıra tek ortak noktası, hayatımızı kolaylaştıran yeni teknolojilerin bizi nasıl tutsak ettiği ve hayatımızı alt üst ettiiğini işlemektedir.
 
 
-## 10- Black Mirror
+## 10- Fargo
 
 
 ![En İyi Yabancı Diziler - İngilizce Diziler - Fargo]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-fargo.jpg){: .align-center}{:id="10_Fargo"}
