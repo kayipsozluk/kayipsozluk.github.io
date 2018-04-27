@@ -1438,7 +1438,7 @@ ABD hava kuvvetlerine bağlı Easy bölüğünün savaş eğitim kamplarından s
 
 ***IMDB Puanı : [9.5](http://www.imdb.com/title/tt0903747/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=apZQlqPp6Hs){:target="_blank"}{:rel="nofollow"}***
 
-***Yayın tarihi: 20 Ocak 2008 / Sezon sayısı: 1***  
+***Yayın tarihi: 20 Ocak 2008 / Sezon sayısı: 5***  
 
 ***Oyuncular: [(Scott Grimes),](http://www.imdb.com/name/nm0922035/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"}[ (Damian Lewis),](http://www.imdb.com/name/nm0714698/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"}[ (Ron Livingston)](http://www.imdb.com/name/nm0515296/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"} (Devamını, Full listeyi [buradan](http://www.imdb.com/title/tt0185906/fullcredits/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"} görebilirsiniz)***
 
