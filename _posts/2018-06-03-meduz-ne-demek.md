@@ -20,6 +20,6 @@ Medüz denizanası anlaını taşır. Sölenterlerden, yassı bir diske benzeyen
 1. Denizanası
 
 
-
+{% include advertisements-word.html %}
 
 
