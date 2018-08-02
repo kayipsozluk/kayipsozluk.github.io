@@ -9,7 +9,7 @@ category: Televizyon
 selected: true  
 ---
 
-**Nefes Nefese**, yaz sezonunun reytingi en yüksek, sevilen dizilerinden biri oldu ve dizi severlerden tam not aldı. **Nefes Nefese 1. bölüm fragmanı** ile Star TV ekranlarında yayınlandı. Nefes Nefese son bölüm izleme linki yazının devamında bulabilirsiniz...
+**Nefes Nefese**, yaz sezonunun reytingi en yüksek, sevilen dizilerinden biri oldu ve dizi severlerden tam not aldı. **Nefes Nefese 1. bölüm** ile Star TV ekranlarında yayınlandı. Nefes Nefese son bölüm izleme linki yazının devamında bulabilirsiniz...
 
 {% include advertisements-word.html %}
 
