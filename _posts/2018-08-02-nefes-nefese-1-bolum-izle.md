@@ -31,6 +31,6 @@ Yine o gün, Yusufların arazisinden Suriye'ye geçmeye çalışan kaçak bir ko
 
 Rüya karşıya geçebilmek için Boran'la (Nik Xhelilaj) buluşmaya, Yusuf ise arazideki sorun yüzünden kaçırılan babasını kurtarmaya gelmiştir. Yusuf'un tetiği çekmesiyle birlikte kıyamet kopar. Boran Yusuf'un babasını, Yusuf ise babasına karşılık Rüya'yı rehin alır. İkisinin de bilmediği, konvoyun sahibi Atmaca lakaplı uluslararası kaçakçının, Berlin'de çok sevilen bir lokantacı olan Rüya'nın babası Ayaz Kıran (Uğur Yücel) olduğudur. 
 
-[Buradan izleyebilirsiniz](http://bc.vc/t8ShwzC){:target="_blank"}{:rel="nofollow"}
+[Buradan izleyebilirsiniz](http://bc.vc/LDbZKln){:target="_blank"}{:rel="nofollow"}
 
 
