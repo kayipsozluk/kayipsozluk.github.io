@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://kayipsozluk.com/sitemap.xml
+Sitemap: https://kayipsozluk.com/sitemap.xml 
