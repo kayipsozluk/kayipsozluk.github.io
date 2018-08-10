@@ -21,6 +21,5 @@ Demet Özdemir, Can Yaman, Öznur Serçeler, Özlem Tokaslan, Berat Yenilmez, Bi
 
 Sanem sabahları birkaç saat babasının bakkalında çalıştıktan sonra bütün gününü hayal kurarak ve kitabı üzerinde çalışarak geçirmektedir ve hayatından son derece mutludur. Ta ki anne babası kendisine doğru düzgün bir iş bulmazsa evlenmek zorunda olduğunu söyleyene kadar! Sanem bunun üzerine mecburen ablasının iş yerinde çalışmaya başlar. Hayallerini süsleyen büyük aşkının kendisini orada beklediğinden habersizdir henüz, üstelik bilmeden Can'a ve şirkete kurulan bir tuzağın parçası olur... Yalanlar üzerine kurulan bir aşk olabilir mi? Ya Sanem? Nefret ettiği Can'a kalbini kaptırabilir mi?
 
-[Buradan izleyebilirsiniz](http://bc.vc/nuamCHN){:target="_blank"}{:rel="nofollow"}
-
+[Diziyi Buradan izleyebilirsiniz](https://www.startv.com.tr/dizi/erkenci-kus/bolumler/1-bolum){:target="_blank"}{:rel="nofollow"}
 

@@ -22,6 +22,6 @@ Demet Özdemir, Can Yaman, Öznur Serçeler, Özlem Tokaslan, Berat Yenilmez, Bi
 Sanem’in başı büyük belada!
 Can'ın evine izinsiz giren Sanem, fotoğrafik hafızasını kullanarak o an için kurtulmayı başarır, ancak başını hiç düşünmediği bir başka belaya sokmuştur, üstelik bu defa kurtulması o kadar kolay olmayacaktır. Üstelik mahalleye döndüğünde Aysun ve Mevkıbe'yi birbirine girmiş bulur ve elbette buna da farkında olmadan kendisi neden olmuştur. Can, büyük bir havayolu şirketinden iş bağlamak üzeredir, Aylin ise bunu bozmak için elinden geleni yapacaktır. Sanem istemeden bu olayın merkezinde bulur kendini. 
 
-[Buradan izleyebilirsiniz](http://bc.vc/1eSo2iq){:target="_blank"}{:rel="nofollow"}
+[Diziyi Buradan izleyebilirsiniz](https://www.startv.com.tr/dizi/erkenci-kus/bolumler/2-bolum){:target="_blank"}{:rel="nofollow"}
 
 

@@ -25,6 +25,6 @@ Ajans çalışanları ve eşleri o hafta sonu markanın çalıştığı diğer a
 
 Mahallede ise Nihat, bakkalı kaybetmenin huzursuzluğu içindedir, Mevkibe ise bu duruma çare olmaya kararlıdır.
 
-[Buradan izleyebilirsiniz](http://bc.vc/sJoiFzI){:target="_blank"}{:rel="nofollow"}
+[Diziyi Buradan izleyebilirsiniz](https://www.startv.com.tr/dizi/erkenci-kus/bolumler/6-bolum){:target="_blank"}{:rel="nofollow"}
 
 

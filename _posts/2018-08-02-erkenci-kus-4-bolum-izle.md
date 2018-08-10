@@ -25,6 +25,6 @@ Nihat, bakkalı Çakal İhsan’a devrederek aldığı paralarla, Toptancı Hali
 
 Önemli bir müşteri o hafta ajansı denetlemeye gelecektir. Aylin de Emre’nin yardımıyla denetimi baltalamanın ve markayı kapmanın derdine düşer.
 
-[Buradan izleyebilirsiniz](http://bc.vc/G9hPAyw){:target="_blank"}{:rel="nofollow"}
+[Diziyi Buradan izleyebilirsiniz](https://www.startv.com.tr/dizi/erkenci-kus/bolumler/4-bolum){:target="_blank"}{:rel="nofollow"}
 
 

@@ -22,6 +22,6 @@ Demet Özdemir, Can Yaman, Öznur Serçeler, Özlem Tokaslan, Berat Yenilmez, Bi
 Sanem, kendini hiç beklemediği bir görevde buluyor...
 Canların evindeki partide havuza düşen Sanem, kıyafetlerini kurutucudan alıp giyene kadar akla karayı seçer. Ünlü manken Arzu Taş, büyük bir markanın yüzü olmuştur. Onunla çalışan ajans, kallavi bir müşteriye de kavuşacaktır. Arzu, Fikr-i Harika ile çalışmayı tercih eder ama Aylin’in tehditini elbette hesaba katmamıştır. Sanem, kendini hiç beklemediği bir görevin içinde bulur. Can'la yalnız kalan Sanem, kendini bile şaşırtacak şeyler yaşayacaktır.
 
-[Buradan izleyebilirsiniz](http://bc.vc/PXozxBE){:target="_blank"}{:rel="nofollow"}
+[Diziyi Buradan izleyebilirsiniz](https://www.startv.com.tr/dizi/erkenci-kus/bolumler/3-bolum){:target="_blank"}{:rel="nofollow"}
 
 
