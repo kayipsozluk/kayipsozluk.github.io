@@ -30,7 +30,7 @@ layout: default
                 <div class="details">
                   <div class="detail">
                       {% if post.category %}
-                      {% assign category_url = post.category | downcase | strip | replace: ' ','-' %}
+                      {% assign category_url = post.category | downcase | strip | replace: ' ','-' | replace: 'Ş','s' | replace: 'ş','s' | replace: 'ğ','g' | replace: 'ı','i' | replace: 'İ','I' | replace: 'ö','o' | replace: 'Ö','O' | replace: 'Ü','U' | replace: 'ü','u' | replace: 'Ç','C' | replace: 'ç','ç' %}
                       <div class="category"><a href="{{ site.url }}/{{ category_url }}" target="_blank">{{ post.category }}</a></div>
                       {% endif %}
                     <div class="time">{{ post.date | date: '%d.%m.%Y' }}</div>
