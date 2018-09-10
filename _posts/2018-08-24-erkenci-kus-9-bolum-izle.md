@@ -6,7 +6,7 @@ tags: [erkenci kuş,erkenci kuş 9. bölüm, erkenci kuş yeni bölüm]
 image: erkenci-kus-9-bolum.jpg
 summary: "Erkenci Kuş İzle. Erkenci Kuş Yeni Bölüm İzle. Erkenci Kuş Son Bölüm İzle. Erkenci Kuş 9. Bölüm İzle"
 category: Televizyon
-selected: true  
+selected: false  
 ---
 
 **Erkenci Kuş**, yaz sezonunun reytingi en yüksek, sevilen dizilerinden biri. Özellikle Can Yaman ve Demet Özdemir ikilisinin yakaladığı uyum ve oyun performansları dizi severlerden tam not aldı. **Erkenci Kuş 9. bölüm** ile Star TV ekranlarında yayınlandı. Erkenci Kuş son bölüm izleme linki yazının devamında bulabilirsiniz...

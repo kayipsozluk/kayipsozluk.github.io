@@ -6,7 +6,7 @@ tags: [bayram ikramiyesi nedir,ramazan bayramı ikramiyesi, kurban bayramı ikra
 image: bayram-ikramiyesi-ne-zaman-odenecek.jpg
 summary: "Bayram ikramiyesi nedir,Bayram ikramiyesi ne zaman ödenecek. Emeklilere bayram ikramiyesi ne zaman ödenecek"
 category: Merak Edilenler
-selected: true
+selected: false
 ---
 
 **Emeklilere bayram ikramiyesi** ne zaman ödenecek? Bayram ikramiyeleri ne kadar ödenecek? Bayramda ikramiye ne verilecek mi? Emeklilere ikramiye ne zaman verilecek? sorularını arıyorsanız doğru adrestesiniz. Kurban bayramında da verilecek ikramiyelerin ne zaman yatacağı merak konusu. 1.000 TL'lik bayram ikramiyesi için tarih belli oldu mu? İşte merak edilen soruların cevabı... 

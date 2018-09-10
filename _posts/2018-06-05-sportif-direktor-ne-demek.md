@@ -6,7 +6,7 @@ tags: [sportif direktör ne demek,sportif direktör nedir,futbol direktörlüğ�
 image: sportif-direktor-ne-demek.jpg
 summary: "Sportif Direktör Ne Demek? Sportif Direktör Nedir? Sportif Direktör Anlamı Nedir? Sportif Direktör Nedir?, Futbol Direktörü Nedir?"
 category: Merak Edilenler
-selected: true
+selected: false
 ---
 
 **Sportif Direktör** nedir? **sportif direktör kelime anlamı** ne demek? **sportif direktör anlamı sözlükte** nedir? **sportif direktör kullanım anlamı** nedir? gibi sorular için **sportif direktör ne demek diye** arıyorsanız doğru adrestesiniz.

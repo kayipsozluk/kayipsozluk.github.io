@@ -6,7 +6,7 @@ tags: [nefes nefese,erknefes nefeseenci 2. bölüm, nefes nefese yeni bölüm]
 image: nefes-nefese-2-bolum.jpg
 summary: "Nefes Nefese İzle. Nefes Nefese Yeni Bölüm İzle. Nefes Nefese Son Bölüm İzle. Nefes Nefese 2. Bölüm İzle"
 category: Televizyon
-selected: true  
+selected: false  
 ---
 
 **Nefes Nefese**, yaz sezonunun reytingi en yüksek, sevilen dizilerinden biri oldu ve dizi severlerden tam not aldı. **Nefes Nefese 2. bölüm** ile Star TV ekranlarında yayınlandı. Nefes Nefese son bölüm izleme linki yazının devamında bulabilirsiniz...

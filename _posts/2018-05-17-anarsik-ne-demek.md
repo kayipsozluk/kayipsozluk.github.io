@@ -6,7 +6,7 @@ tags: [anarşik ne demek,anarşist nedir]
 image: anarsik-ne-demek.jpg
 summary: "Anarşik Ne Demek? Anaşi Nedir? Anarşik Anlamı Nedir? Arşist Nedir?"
 category: Merak Edilenler
-selected: true
+selected: false
 ---
 
 **ANARŞİZM NEDİR**
