@@ -5,7 +5,7 @@ author: "kayipsozluk"
 tags: [Stagflasyon nedir, türkiye krizi, türkiye Stagflasyon, ekonomi Stagflasyon, enflasyon Stagflasyon]
 image: stagflasyon-nedir-ekonominin-gundemindeki-stagflasyon-kelimesinin-anlami-nedir.jpg
 summary: "Stagflasyon nedir? Stagflasyon kelime anlamı nedir? Stagflasyon ekonomik kriz. Stagflasyon yüksek enflasyon belirteci."
-category: Merak Edilenler
+category: Güncel
 selected: true
 ---
 

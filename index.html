@@ -48,50 +48,13 @@ title: Home
                         {% endfor %}    
                 </div>
                
-                <div class="line top" id="main">
-                                <div>Kategorilerden Yazılar</div>
-                        </div>
-                        <div class="row">
-                        {% for category in site.categories %}
-                        {% for posts in category %}
-                        {% for post in posts limit:1 %}
-                        {% if post.title %}
-                        <article class="col-md-12 article-list">
-                                <div class="inner">
-                                        <figure>
-                                                <a href="{{ post.url }}">
-                                                        <img src="../assets/images/news/{{ post.image }}" alt="{{ post.title }}">
-                                                </a>
-                                        </figure>
-                                        <div class="details">
-                                                <div class="detail">
-                                                        {% if post.category %}
-                                                        {% assign category_url = post.category | downcase | strip | replace: ' ','-' %}
-                                                        <div class="category"><a href="{{ category_url }}">{{ post.category }}</a></div>
-                                                        {% endif %}
-                                                        <div class="time">{{ post.date | date: '%d.%m.%Y' }}</div>
-                                                </div>
-                                                <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-                                                <p>
-                                                 {{ post.content | truncatewords: 24 }}
-                                                </p>
-                                                <footer>
-                                                        <a class="btn btn-primary more" href="{{ post.url }}">
-                                                                <div>Devamı</div>
-                                                                <div><i class="ion-ios-arrow-thin-right"></i></div>
-                                                        </a>
-                                                </footer>
-                                        </div>
-                                </div>
-                        </article>
-                        {% endif %}
-                        {% endfor %}
-                        {% endfor %}
-                        {% endfor %}
-                        </div>
-           </div>
+           {% include category-posts.html %}                 
            {% include sidebar.html %}
+           <div class="col-md-8 col-sm-12 col-xs-12">                   
+           {% include bilim-teknoloji-posts.html %} 
+           {% include yasam-posts.html %} 
+           {% include guncel-posts.html %} 
+        </div>
         </div>
 </section>
 
-{% include last-month-posts.html %}

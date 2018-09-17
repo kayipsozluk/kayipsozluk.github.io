@@ -5,7 +5,7 @@ author: "kayipsozluk"
 tags: [en iyi yabancı diziler,imdb 8.0 üzeri,en popüler yabancı diziler]
 image: en-iyi-yabanci-diziler.jpg
 summary: "En Çok İzlenen Yabancı Diziler Sıralaması ve IMDB Puanına Göre En İyi Yabancı Diziler: 2018 IMDB İyi Yabancı Diziler ve Mutlaka İzlenmesi Gereken Yabancı Diziler - Sadece IMDB Puanı 8.0 ve Üzeri Yabancı Dizi Tavsiyeleri. En Popüler Yabancı Diziler Sıralaması"
-category: Televizyon
+category: Güncel
 selected: true
 ---
 

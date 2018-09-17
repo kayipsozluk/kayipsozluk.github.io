@@ -1,27 +1,19 @@
 menu:
-- title : Ana Sayfa
+- title : Main
   url   : /
-- title : Merak Edilenler
-  url   : /merak-edilenler
-- title : Eğlence
-  subItems:
-  - page : Sinema
-    url : /sinema
-    icon : ion-film-marker
-  - page : Televizyon
-    url : /televizyon
-    icon : ion-monitor
-  - page : Tiyatro
-    url : /tiyatro
-    icon : ion-bowtie
-  - page : Kitap
-    url : /kitap
-    icon : ion-ios-book
-- title : Teknoloji
-  url   : /teknoloji
+- title : Kültür Sanat
+  url   : /kultur-sanat
+- title : Bilim Teknoloji
+  url   : /bilim-teknoloji
 - title : Tarih
   url   : /tarih
-- title : Psikoloji
-  url   : /psikoloji
-- title : Sağlık ve Yaşam
-  url   : /saglik-ve-yasam
+- title : Eğitim
+  url   : /egitim
+- title : Yaşam
+  url   : /yasam
+- title : Spor
+  url   : /spor
+- title : Çevre
+  url   : /cevre
+- title : Güncel
+  url   : /guncel
