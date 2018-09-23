@@ -1,19 +1,5 @@
 menu:
 - title : Main
   url   : /
-- title : Kültür Sanat
-  url   : /kultur-sanat
-- title : Bilim Teknoloji
-  url   : /bilim-teknoloji
-- title : Tarih
-  url   : /tarih
-- title : Eğitim
-  url   : /egitim
-- title : Yaşam
-  url   : /yasam
-- title : Spor
-  url   : /spor
-- title : Çevre
-  url   : /cevre
 - title : Güncel
   url   : /guncel

@@ -5,7 +5,7 @@ author: "kayipsozluk"
 tags: [george orwell,kitap,klasikler, paris ve londra'da beş parasız]
 image: paris-ve-londrada-bes-parasiz.JPG
 summary: "Paris ve Londra'da Beş Parasız | George Orwell"
-category: Kültür Sanat
+category: Güncel
 selected: true  
 ---
 

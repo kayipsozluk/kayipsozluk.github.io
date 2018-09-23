@@ -5,7 +5,7 @@ author: "kayipsozluk"
 tags: [hocalı katliamı, hocalı katliamı tarihi,soykırım,tarih]
 image: hocali-katliami.jpg
 summary: "Hocalı katliamı Karabağ Savaşı sırasında 26 Şubat 1992 Azerbaycan Cumhuriyeti’nin Hocalı kasabasında yaşanan ve Azeri sivillerin Ermenistan’a bağlı kuvvetler tarafından toplu şekilde öldürülmesi olayıdır."
-category: Tarih
+category: Güncel
 selected: false  
 ---
 

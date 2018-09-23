@@ -18,7 +18,7 @@ site_name: Kayıp Sözlük
 title: Kayıp Sözlük
 email: kayipsozlukcom@gmail.com
 siteimage:
-description: Kültür Sanat, Bilim Teknoloji, Tarih, Eğitim, Yaşam, Spor, Çevre kısacası bizi biz yapan herşey hakkında bilgi içeren kayıp sözlük.
+description: Bizi biz yapan herşey hakkında bilgi içeren kayıp sözlük.
 news: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kayipsozluk.com" # the base hostname & protocol for your site, e.g. http://example.com

@@ -5,7 +5,7 @@ author: "kayipsozluk"
 tags: [iPhone XS, iPhone XS MAX,iPhone XR]
 image: iphone-9-ve-iphone-xs-plus-fiyatlari.jpg
 summary: "iPhone xs, iPhone XS max ve iPhone xr Fiyatları Belli Oldu!"
-category: Bilim Teknoloji
+category: Güncel
 selected: true  
 ---
 

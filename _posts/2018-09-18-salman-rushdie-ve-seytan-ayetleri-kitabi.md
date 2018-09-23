@@ -5,7 +5,7 @@ author: "kayipsozluk"
 tags: [şeytan ayetleri, şeytan ayetleri nelerdir,Salman Rushdie,Ölüm fetvası,humeyni,iran,aziz nesin]
 image: salman-rushdie-seytan-ve-ayetleri.jpg
 summary: "Salman Rushdie 1989 yılında Şeytan Ayetleri romanını yayınladıktan sonra Humeyni’nin ölüm fetvası vermesi.."
-category: Tarih
+category: Güncel
 selected: true  
 ---
 

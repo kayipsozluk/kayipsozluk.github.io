@@ -5,7 +5,7 @@ author: "kayipsozluk"
 tags: [tiyatro,tiyatro oyun programı,istanbul şehir tiyatroları,ekim 2018 oyunlar]
 image: tiyatro-oyun-programi.jpg
 summary: "2018-2019 İstanbul Şehir Tiyatroları Ekim 2018 Oyun Programı Yayınlandı."
-category: "Kültür Sanat"
+category: Güncel
 selected: true  
 ---
 
