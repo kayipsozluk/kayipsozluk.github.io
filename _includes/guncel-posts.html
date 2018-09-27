@@ -7,7 +7,7 @@
             {% for category in site.categories %}
             {% for posts in category %}
             {% for post in posts limit:5 %}
-            {% if post.category == 'Güncel' %}                                                                                
+            {% if post.category == 'Güncel' and post.hide == false %}                                                                                
             <article class="article-mini">
                     <div class="inner">
                             <figure>

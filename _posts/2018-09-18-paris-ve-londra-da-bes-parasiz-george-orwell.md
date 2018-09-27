@@ -6,7 +6,8 @@ tags: [george orwell,kitap,klasikler, paris ve londra'da beş parasız]
 image: paris-ve-londrada-bes-parasiz.JPG
 summary: "Paris ve Londra'da Beş Parasız | George Orwell"
 category: Güncel
-selected: true  
+selected: true
+hide: false  
 ---
 
 Birçoğumuz yaşamını sürdürebilmek için çalışıyor ve karşılığında para kazanıyoruz. Kimimiz çok daha iyi kazanıyor kimimiz kendimize yetecek kadar kazanıp yaşamını devam ettiriyor. Peki bir gün yaşamımızı dahi devam ettiremeyecek şekilde parasız kalırsak!. Evet bir çoğumuz **"sağlığımız yerinde olduğu sürece çalışırım ne olacak!"** diyecektir. İşte George Orwell'ın hayatının bir döneminde sağlığı yerinde olmasına rağmen yaşadığı bu durumu anlatan Londra ve Paris'te Beş Parasız kitabını inceleyelim.

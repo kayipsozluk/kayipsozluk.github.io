@@ -7,6 +7,7 @@ image: stagflasyon-nedir-ekonominin-gundemindeki-stagflasyon-kelimesinin-anlami-
 summary: "Stagflasyon nedir? Stagflasyon kelime anlamı nedir? Stagflasyon ekonomik kriz. Stagflasyon yüksek enflasyon belirteci."
 category: Güncel
 selected: true
+hide: false
 ---
 
 **STAGFLASYON** nedir? **Stagflasyon kelime anlamı** ne demek? **Stagflasyon anlamı sözlükte** nedir? **Stagflasyon kullanım anlamı** nedir? gibi sorular için **Stagflasyon ne demek diye** arıyorsanız doğru adrestesiniz.

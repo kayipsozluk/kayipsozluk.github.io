@@ -7,6 +7,7 @@ image: hocali-katliami.jpg
 summary: "Hocalı katliamı Karabağ Savaşı sırasında 26 Şubat 1992 Azerbaycan Cumhuriyeti’nin Hocalı kasabasında yaşanan ve Azeri sivillerin Ermenistan’a bağlı kuvvetler tarafından toplu şekilde öldürülmesi olayıdır."
 category: Güncel
 selected: false  
+hide: false
 ---
 
 İnsanlık dramı olarak bilinen Hocalı katliamı Karabağ Savaşı sırasında 26 Şubat 1992 Azerbaycan Cumhuriyeti’nin Hocalı kasabasında yaşanan ve Azeri sivillerin Ermenistan’a bağlı kuvvetler tarafından toplu şekilde öldürülmesi olayıdır. Karabağ Savaşı öncesinde bölgedeki gerilimin artması 1988 yılında Dağlık Karabağ bölgesindeki Ermenilerin Azerbaycan’dan ayrılarak Ermenistan’a katılmak istemeleri ile başladı. Dağlık Karabağ Meclisi karar alarak Ermenistan’a bağlandığını ilan etti. Bu gelişme sonrasında Azerbaycan, Dağlık Karabağ bölgesinin özerk statüsünü kaldırdığını ve kendine bağladığı şeklinde bir kara aldı. Daha sonra Dağlık Karabağ bölgesi bölgede yaşayan Azerilerin katılmadığı bir bağımsızlık referandumu yaptı. Bu referandum sonrasında 6 Ocak 1992’de Dağlık Karabağ Cumhuriyeti resmen ilan edildi.

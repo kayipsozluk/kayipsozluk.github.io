@@ -12,7 +12,8 @@
                                 </div>
                         </h1>
                         <div class="body-col vertical-slider" data-max="5" data-nav="#hot-news-nav" data-item="article">
-                                        {% for post in site.posts limit:10 %}                                        
+                                        {% for post in site.posts limit:10 %}   
+                                        {% if post.selected and post.hide == false %}                                          
                                         <article class="article-mini">
                                                 <div class="inner">
                                                         <figure>
@@ -31,7 +32,8 @@
                                                                 </div>
                                                         </div>
                                                 </div>
-                                        </article>                                        
+                                        </article>          
+                                        {% endif %}	                                
                                         {% endfor %}
                                
                         </div>
@@ -43,7 +45,7 @@
                                 <h1 class="aside-title">Editörün Seçtikleri</h1>
                                 <div class="aside-body">
                                         {% for post in site.posts %}
-                                        {% if post.selected %}                                                                                
+                                        {% if post.selected and post.hide == false %}                                                                                
                                         <article class="article-mini">
                                                 <div class="inner">
                                                         <figure>

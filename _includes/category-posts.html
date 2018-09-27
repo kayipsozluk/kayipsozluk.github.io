@@ -4,8 +4,8 @@
 <div class="row">
 {% for category in site.categories %}
 {% for posts in category %}
-{% for post in posts limit:1 %}
-{% if post.title && post.selected %}
+{% for post in posts limit:3 %}
+{% if post.title and post.selected  and post.hide == false %}
 <article class="col-md-12 article-list">
     <div class="inner">
             <figure>

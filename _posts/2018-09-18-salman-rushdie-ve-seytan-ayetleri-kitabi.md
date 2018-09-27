@@ -7,6 +7,7 @@ image: salman-rushdie-seytan-ve-ayetleri.jpg
 summary: "Salman Rushdie 1989 yılında Şeytan Ayetleri romanını yayınladıktan sonra Humeyni’nin ölüm fetvası vermesi.."
 category: Güncel
 selected: true  
+hide: false
 ---
 
 Salman Rushdie 1989 yılında **Şeytan Ayetleri** romanını yayınladıktan sonra islam dünyasından büyük tepkiler almıştı. İran Devrimi Muhafızları'na yakın haber ajansı haberine göre devlet tarafından idare edilen 40 İranlı basın kuruluşu yazar Salman Rushdie'nin öldürülmesi için başına 600.000 dolar ödül koyulduğunu açıkladı. Bu ödül içerisinde 30 Bin dolar ile en büyük desteği veren İran yarı resmi haber ajansı Fas olmuştur.

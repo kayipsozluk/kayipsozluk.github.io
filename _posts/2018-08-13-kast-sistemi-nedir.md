@@ -6,6 +6,7 @@ tags: [kast sistemi nedir,kast sistemi ne demek,kast sistemi özellikleri,kast s
 image: caste-system.jpg
 summary: "Kast Sistemi Nedir? Gandi'nin Paryalara Desteği Nedir? Brahman Nedir? Ksatriyalar Nedir? Vayşiya Nedir? Sudralar Nedir? Manu Yasaları. kast sistemi özellikleri kast sistemi nedir kısaca  kast sistemi hakkında bilgi kast sistemi sınıfları kast sistemi ne demek"
 category: Güncel
+hide: false
 ---
 
 Hindistan tarihi denildiğinde aklımıza ilk gelen kast sistemidir. Hindistan’ın ve Afrika’nın bazı bölgelerinde günümüzde halen uygulanmaya devam etmektedir. İnsanların sınıflandırılarak hayatlarını devam ettirdikleri bu sistemi tanıyalım. **"Kast"** kelimesi Portekizce ve İspanyolcada casta yani ırk/soy anlamına, Latincede castus saf soy anlamına gelmektedir.  

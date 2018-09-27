@@ -21,14 +21,17 @@ title: Home
                         </div>
                         <div class="owl-carousel owl-theme" id="headline">	
                                 {% for post in site.posts limit:3 %}	
+                                {% if post.hide == false %}                                
                                 <div class="item">
                                   <a href="{{ post.url }}">{% if post.badge %}<div class="badge">{{ post.badge }}</div>{% endif %}{{ post.title }}</a>
                                 </div>
+                                {% endif %} 
                                 {% endfor %}                                
                         </div>
                 </div>
                 <div class="owl-carousel owl-theme slide" id="featured">
                         {% for post in site.posts limit:3 %}	
+                        {% if post.hide == false %}
                         <div class="item">
                                 <article class="featured">
                                         <div class="overlay"></div>
@@ -45,6 +48,7 @@ title: Home
                                         </div>
                                 </article>
                         </div>
+                        {% endif %} 
                         {% endfor %}    
                 </div>
                
@@ -52,7 +56,7 @@ title: Home
            {% include sidebar.html %}           
            <div class="col-md-8 col-sm-12 col-xs-12">  
            {% include guncel-posts.html %}           
-            
+           
         </div>
         </div>
 </section>

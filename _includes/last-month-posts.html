@@ -16,7 +16,7 @@
                         {% assign latestPost_week = site.posts.first.date | date: "%m"  %}
                         
                         {%- for post in site.posts -%}
-                        
+                                {% if post.hide == false %}
                                 {% assign postYear = post.date | date: "%Y" %}
                                 {% assign postWeek = post.date | date: "%m" %}
                         
@@ -41,7 +41,7 @@
                                                         </div>
                                                 </div>
                                         </article>
-                                
+                                {% endif %} 
                                 {%- endif -%}
                         
                         {%- endfor -%}
