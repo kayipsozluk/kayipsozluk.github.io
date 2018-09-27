@@ -3,7 +3,7 @@ layout: post
 title: "Bedelli Askerlik Hakkında Herşey"
 author: "kayipsozluk"
 tags: [bedelli askerlik nedir,bedelli askerlik, bedelli askerlik son dakika, asal, bedelli,bedelli askerlik celp dönemleri,]
-image: tiyatro-oyun-programi.jpg
+image: bedelli-askerlik.jpg
 summary: "Bedelli askerlik celp dönemleri, bedelli askerlik ücreti, bedelli askerlik başvuru, bedelli askerlik yaşı, bedelli askerlik nedir"
 category: Güncel
 selected: true  
