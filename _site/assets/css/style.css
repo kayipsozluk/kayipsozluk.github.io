@@ -1401,6 +1401,8 @@ article .detail {
 .article .padding {
   padding: 15px;
   padding-top: 0;
+  min-height: 273px;
+  max-height: 273px;
 }
 .article h2 {
   text-transform: capitalize;
