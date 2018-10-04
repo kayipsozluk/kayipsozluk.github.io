@@ -6,7 +6,7 @@ title: Home
 
 <section class="home">
         <div class="container">
-        <div class="row">
+        <div class="row">         
            <div class="col-md-8 col-sm-12 col-xs-12">
                 <div class="headline">
                         <div class="nav" id="headline-nav">
@@ -31,7 +31,7 @@ title: Home
                 </div>
                 <div class="owl-carousel owl-theme slide" id="featured">
                         {% for post in site.posts limit:3 %}	
-                        {% if post.hide == false %}
+                        {% if post.slider == true %}
                         <div class="item">
                                 <article class="featured">
                                         <div class="overlay"></div>
@@ -52,12 +52,8 @@ title: Home
                         {% endfor %}    
                 </div>
                
-           {% include category-posts.html %}                 
+           {% include last-posts.html %}                 
            {% include sidebar.html %}           
-           <div class="col-md-8 col-sm-12 col-xs-12">  
-           {% include guncel-posts.html %}           
-           
-        </div>
         </div>
 </section>
 

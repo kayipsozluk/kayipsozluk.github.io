@@ -1,0 +1,17 @@
+<aside>
+    <h1 class="aside-title">Etiketler</h1>
+                    <div class="aside-body">
+        <p>
+            {% for tag in site.tags %}
+            <!-- Here's a hack to generate a "tag cloud" where the size of
+            the word is directly proportional to the number of posts with
+            that tag. -->
+            <a href="https://www.google.com/search?sitesearch={{ site.url }}&q={{ category_url }}/" target="_blank"
+            style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px">
+                {{ tag[0] }} | 
+            </a>
+            {% endfor %}
+          </p>
+          
+    </div>
+</aside>

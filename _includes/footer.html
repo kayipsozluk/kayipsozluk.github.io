@@ -15,41 +15,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="block">
-                    <h1 class="block-title">Kategoriler</h1>
-                    <div class="block-body">
-                        <ul class="tags">
-                           {% for category in site.categories %}
-                           {% capture category_name %}{{ category | first }}{% endcapture %}                           
-                           {% assign category_url = category_name | downcase | strip | replace: ' ','-' %}
-                           <li><a href="{{ site.url }}/{{ category_url }}" target="_blank">{{ category_name }}</a></li> 
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="block">
-                    <h1 class="block-title">Son Yazılar</h1>
-                    <div class="block-body">
-                        {% for post in site.posts limit:3 %}
-                        <article class="article-mini">
-                            <div class="inner">
-                                <figure>
-                                    <a href="{{ site.url }}{{ post.url }}" target="_blank">
-                                        <img src="{{ site.url }}/assets/images/news/{{ post.image }}" alt="{{ post.title }}">
-                                    </a>
-                                </figure>
-                                <div class="padding">
-                                    <h1><a href="{{ site.url }}{{ post.url }}" target="_blank">{{ post.title }}</a></h1>
-                                </div>
-                            </div>
-                        </article>
-                        {% endfor %}
-                    </div>
-                </div>
-            </div>
+            
+            
             <div class="col-md-3 col-xs-12 col-sm-6">
                 <div class="block">
                     <h1 class="block-title">Takip Edin</h1>

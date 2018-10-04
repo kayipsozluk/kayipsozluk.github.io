@@ -8,6 +8,7 @@ summary: "GTA 5 Hileleri (Grand Theft Auto 5 Hileleri)"
 category: Güncel
 selected: false  
 hide: true
+slider: true
 ---
 
 İnternette aranan GTA 5 Hileleri nedir? Grand Theft Auto 5 Hileleri nedir sorularının cevabını bu yazıda bulabilirsiniz. 

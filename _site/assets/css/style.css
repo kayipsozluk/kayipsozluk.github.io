@@ -230,10 +230,11 @@
  */
 /* Colors */
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-weight: 300;
   color: #191E21;
   font-size: 1.4em;
+  background: url(../images/bg.png) repeat;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -1375,8 +1376,11 @@ section.search .search-result {
   margin-bottom: 35px;
 }
 
-article figure {
-  height: 250px;
+.article .details h1 {
+  font-size: 10px;
+}
+
+article figure {  
   width: 100%;
   overflow: hidden;
   margin-bottom: 10px;
@@ -2251,7 +2255,6 @@ section .container {
 .line {
   display: inline-block;
   width: 100%;
-  height: 4px;
   background-color: #f2f2f2;
   margin: 30px 0;
   position: relative;
@@ -2266,7 +2269,17 @@ section .container {
   margin: 10px 0;
 }
 .line.top {
-  margin-top: 50px;
+  width: 100%;
+  border-bottom: 3px solid #C65D45;
+}
+.line.top-h {
+  padding: 4px 8px;
+  margin: 0;
+  width: max-content;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.4rem;
+  color: #ffffff;
+  background-color: #C65D45;
 }
 .line div {
   margin: 0;
@@ -2321,13 +2334,15 @@ section .container {
 .article-mini figure {
   float: left;
   display: inline-block;
-  width: 80px;
+  width: 100px;
   height: 60px;
   overflow: hidden;
   margin: 0;
+  margin-right: .5rem!important;
 }
 .article-mini figure img {
   width: 100%;
+  height: 100%;
 }
 .article-mini h1 {
   margin: 0;
@@ -2337,7 +2352,13 @@ section .container {
   font-size: 14px;
 }
 .article-mini h1 a {
-  color: #000;
+  width: fit-content;
+  display: block;
+  font-size: 1.24rem;
+  font-family: 'Righteous', cursive;
+  color: #463D3C;
+  text-decoration: none;
+  transition: all 0.3s;
 }
 .article-mini .detail {
   margin-top: 5px;
@@ -2429,8 +2450,9 @@ aside .aside-title:after {
 }
 aside .article-mini {
   margin-bottom: 10px;
-  padding-bottom: 10px;
+  overflow: hidden;
 }
+
 aside .article-mini figure {
   margin-bottom: 0;
 }
@@ -2444,6 +2466,7 @@ aside .nav li a {
   font-size: 14px;
   border-radius: 0 !important;
 }
+
 aside .nav li a i:before {
   font-size: 18px;
   margin-right: 5px;
@@ -4134,3 +4157,4 @@ blockquote {
 }
 
 /*# sourceMappingURL=style.css.map */
+
