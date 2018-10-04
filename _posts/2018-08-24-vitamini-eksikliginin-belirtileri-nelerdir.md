@@ -6,7 +6,7 @@ tags: [vitamin eksikliği, vitamin eksikliği belirtileri, a vitamini, b vitamin
 image: vitamin-eksikligi-belirtileri-nelerdir.jpg
 summary: "Vitamin eksikliği neden olur? Vitamin eksikliğinin belirtileri nelerdir? Vitamin eksikliğine dair bilmeniz gerekenler"
 category: Güncel
-selected: true  
+selected: false  
 hide: false
 ---
 

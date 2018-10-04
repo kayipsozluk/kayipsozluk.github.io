@@ -6,7 +6,7 @@ tags: [şeytan ayetleri, şeytan ayetleri nelerdir,Salman Rushdie,Ölüm fetvas�
 image: salman-rushdie-seytan-ve-ayetleri.jpg
 summary: "Salman Rushdie 1989 yılında Şeytan Ayetleri romanını yayınladıktan sonra Humeyni’nin ölüm fetvası vermesi.."
 category: Güncel
-selected: true  
+selected: false  
 hide: false
 ---
 

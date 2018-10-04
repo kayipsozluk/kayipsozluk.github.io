@@ -6,8 +6,8 @@ tags: [bedelli askerlik nedir,bedelli askerlik, bedelli askerlik son dakika, asa
 image: bedelli-askerlik.jpg
 summary: "Bedelli askerlik celp dönemleri, bedelli askerlik ücreti, bedelli askerlik başvuru, bedelli askerlik yaşı, bedelli askerlik nedir"
 category: Güncel
-selected: true  
-hide: false
+selected: false  
+hide: true
 ---
 
 İnternette aranan bedelli askerlik nedir? bedelli askerlik celp dönemleri bedelli askerlik ücreti, bedelli askerlik başvurusu, bedelli askerlik yaşı nasıl ve nedir sorularının cevabını bu yazıda bulabilirsiniz. Bedelli askerlik nedir, ne demektir, kimler yapabilir, yaşı kaçtır, şartları nelerdir, kaç kere, ne zaman çıktı? Bedelli askerlik ücreti, yaşı, şartları, açıklaması, anketi, dönemleri, düzenlemesi, hakkında bilgi, kaç yaş, koşulları nelerdir, yasası, hakkında detaylı bilgiler. Cumhuriyet tarihinde 10 kez bedelli askerlik çıkartılmıştır.
