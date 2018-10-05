@@ -11,13 +11,7 @@ hide: false
 slider: false
 ---
 
-İnternette aranan rakı fiyatları 2018,20 lik rakı fiyatları, zamlı rakı fiyatları,yeni rakı fiyatları 2018,beylerbeyi rakı fiyatları,migros rakı fiyatları, carrefour rakı fiyatı,carrefour alkol fiyatı,migros alkol fiyatları sorularının cevabını bu yazıda bulabilirsiniz. 
-
-{% include advertisements-word.html %}
-
-Rakı fiyatları üzerinden alınan Özel Tüketim Vergisi (ÖTV), asgari maktu vergi tutarının 184,3 liradan **213,00** liraya yükselmesi ile beraber artış gösterdi. 3 Temmuz 2018 itibarı ile rakı fiyatları dahil bazı alkol fiyatlarına tekrar zam yapıldı.
-
-Bununla beraber alkolde, Özel Tüketim Vergisi’nin üzerinden %18’lik KDV kesintisi de yapılıyor. Yani verginin de vergisi alınıyor. Alınan bu KDV miktarı ile birlikte 70’lik rakının yüzde **74’ü** vergi olacak.
+Rakı fiyatları üzerinden alınan Özel Tüketim Vergisi (ÖTV), asgari maktu vergi tutarının 184,3 liradan **213,00** liraya yükselmesi ile beraber artış gösterdi. 3 Temmuz 2018 itibarı ile rakı fiyatları dahil bazı alkol fiyatlarına tekrar zam yapıldı. Bununla beraber alkolde, Özel Tüketim Vergisi’nin üzerinden %18’lik KDV kesintisi de yapılıyor. Yani verginin de vergisi alınıyor. Alınan bu KDV miktarı ile birlikte 70’lik rakının yüzde **74’ü** vergi olacak.
 
 İçkide yapılan bu artışın perakende satış fiyatını %2,5-3 civarında artırabileceği tahmin ediliyor.
 
