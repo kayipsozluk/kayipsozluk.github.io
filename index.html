@@ -20,18 +20,16 @@ title: Home
                                 </a>
                         </div>
                         <div class="owl-carousel owl-theme" id="headline">	
-                                {% for post in site.posts limit:3 %}	
-                                {% if post.hide == false %}                                
+                                {% for post in site.posts limit:3 %}
                                 <div class="item">
                                   <a href="{{ post.url }}">{% if post.badge %}<div class="badge">{{ post.badge }}</div>{% endif %}{{ post.title }}</a>
                                 </div>
-                                {% endif %} 
                                 {% endfor %}                                
                         </div>
                 </div>
                 <div class="owl-carousel owl-theme slide" id="featured">
-                        {% for post in site.posts limit:3 %}	
-                        {% if post.slider == true %}
+                        {% for post in site.posts limit:10 %}	
+                        {% if post.category != "Yerli Dizi" %}
                         <div class="item">
                                 <article class="featured">
                                         <div class="overlay"></div>

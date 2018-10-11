@@ -7,7 +7,7 @@ image: dizi-dunyasi.jpg
 summary: "Sen Anlat Karadeniz İzle. Sen Anlat Karadeniz Yeni Bölüm İzle. Sen Anlat Karadeniz Son Bölüm İzle. Sen Anlat Karadeniz 24. Bölüm İzle"
 category: "Yerli Dizi"
 selected: false  
-hide: false
+hide: true
 ---
 
 **Sen Anlat Karadeniz**, yaz sezonunun reytingi en yüksek, sevilen dizilerinden biri. **Sen Anlat Karadeniz son bölümü** ile ATV ekranlarında yayınlandı. Sen Anlat Karadeniz son bölüm ve fragmanı izleme linki yazının devamında bulabilirsiniz...
