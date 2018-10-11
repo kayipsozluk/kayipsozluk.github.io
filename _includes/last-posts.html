@@ -1,7 +1,7 @@
-<div class="line top" id="main">
+<div class="line top">
     <div class="line top-h">Son Yazılar</div>
 </div>
-<div class="row">
+<div class="row" id="main">
     {% for post in site.posts limit:10 %}
 <article class="col-md-6 col-sm-6 col-xs-12">
         <article class="article col-md-12">
@@ -21,7 +21,7 @@
                                                 </div>
                                                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                                                 <p>
-                                                 {{ post.content | truncatewords: 24 }}
+                                                 {{ post.content | truncate: 200 }}
                                                 </p>
                                                 <footer>
                                                         <a class="btn btn-primary more" href="{{ post.url }}">

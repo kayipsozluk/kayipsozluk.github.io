@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-
 <section class="home">
         <div class="container">
         <div class="row">         
@@ -19,8 +18,14 @@ title: Home
                                         <span class="sr-only">Next</span>
                                 </a>
                         </div>
+<<<<<<< HEAD
                         <div class="owl-carousel owl-theme" id="headline">	
                                 {% for post in site.posts limit:3 %}
+=======
+                        <div class="owl-carousel owl-theme" id="headline">                                
+                                {% for post in site.posts limit:3 %}	
+                                {% if post.hide == false and post.category != "Yerli Dizi" %}                                
+>>>>>>> d119947ac3f4ba5487ccf489c492200ac6a6b7ed
                                 <div class="item">
                                   <a href="{{ post.url }}">{% if post.badge %}<div class="badge">{{ post.badge }}</div>{% endif %}{{ post.title }}</a>
                                 </div>

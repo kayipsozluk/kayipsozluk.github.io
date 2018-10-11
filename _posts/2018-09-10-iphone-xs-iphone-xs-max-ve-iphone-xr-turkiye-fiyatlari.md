@@ -10,13 +10,7 @@ selected: true
 hide: false
 ---
 
-**iPhone XS, iPhone XS MAX ve iPhone XR Fiyatları** ne kadar? **iPhone XS, iPhone XS MAX ve iPhone XR Türkiye Fiyatları** ne kadar? gibi sorular için **iPhone XS, iPhone XS MAX ve iPhone XR Türkiye Fiyatları** arıyorsanız doğru adrestesiniz.
-
-{% include advertisements-word.html %}
-
-12 Eylül'de lansmanı yapılacak 3 yeni iPhone modeli olan: iPhone XS, iPhone XS MAX ve iPhone XR'ın Türkiye stop fiyatına ulaşıldı!
-
-Son aylarda gündemi sıkça meşgul eden Apple’ın, 12 Eylül’de lansmanını yapıldığı 3 yeni iPhone modelinin merakla beklenen resmi fiyatları şu şekilde;  
+12 Eylül'de lansmanı yapılacak 3 yeni iPhone modeli olan: iPhone XS, iPhone XS MAX ve iPhone XR'ın Türkiye stop fiyatına ulaşıldı! Son aylarda gündemi sıkça meşgul eden Apple’ın, 12 Eylül’de lansmanını yapıldığı 3 yeni iPhone modelinin merakla beklenen resmi fiyatları şu şekilde;  
 
 **iPhone XR - 749 dolar**
 
