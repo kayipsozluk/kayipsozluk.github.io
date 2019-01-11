@@ -22,101 +22,101 @@ Bu makalede **en iyi yabancı diziler IMDB puanlarına** göre listelenmiştir.
   <div class="collapse" id="collapseExample" style="">
   <div class="card card-body">
 
-<ul class="list-group">
-  <li class="list-group-item"><a href="#95_Lethal_Weapon">95-Lethal Weapon (IMDB 8.0)</a></li>
-  <li class="list-group-item"><a href="#94_The_Flash">94-The Flash (IMDB 8.0)</a></li>
-  <li class="list-group-item"><a href="#93_Lie_To_Me">93-Lie To Me (IMDB 8.0)</a></li>
-  <li class="list-group-item"><a href="#92_Gallipoli">92-Gallipoli (IMDB 8.0)</a></li>
-  <li class="list-group-item"><a href="#91_iZombie">91-iZombie (IMDB 8.0)</a></li>
-  <li class="list-group-item"><a href="#90_DaVincis_Demons">90-Da Vinci's Demons (IMDB 8.0)</a></li>
-  <li class="list-group-item"><a href="#89_The_Good_Place">89-The Good Place (IMDB 8.1)</a></li>
-  <li class="list-group-item"><a href="#88_Marco_Polo">88-Marco Polo (IMDB 8.1)</a></li>
-  <li class="list-group-item"><a href="#87_Preacher">87-Preacher (IMDB 8.1)</a></li>
-  <li class="list-group-item"><a href="#86_American_Gods">86-American Gods (IMDB 8.1)</a></li>
-  <li class="list-group-item"><a href="#85_The_Deuce">85-The Deuce (IMDB 8.2)</a></li>
-  <li class="list-group-item"><a href="#84_The_Leftovers">84-The Leftovers (IMDB 8.2)</a></li>
-  <li class="list-group-item"><a href="#83_Orange_Is_the_New_Black">83-Orange Is the New Black (IMDB 8.2)</a></li>
-  <li class="list-group-item"><a href="#82_Bates_Motel">82-Bates Motel (IMDB 8.2)</a></li>
-  <li class="list-group-item"><a href="#81_Lucifer">81-Lucifer (IMDB 8.2)</a></li>
-  <li class="list-group-item"><a href="#80_The_end_of">80-The End of the F***ing World (IMDB 8.2)</a></li>
-  <li class="list-group-item"><a href="#79_11_22_63">79-11.22.63 (IMDB 8.2)</a></li>
-  <li class="list-group-item"><a href="#78_Ray_Donovan">78-Ray Donovan (IMDB 8.3)</a></li>
-  <li class="list-group-item"><a href="#77_13_Reasons_Why">77-13 Reasons Why (IMDB 8.3)</a></li>
-  <li class="list-group-item"><a href="#76_The_Big_Bang_Theory">76-The Big Bang Theory (IMDB 8.3)</a></li>
-  <li class="list-group-item"><a href="#75_Altered_Carbons">75 Altered Carbons (IMDB 8.3)</a></li>
-  <li class="list-group-item"><a href="#74_The_Pacific">74-The Pacific (IMDB 8.3)</a></li>
-  <li class="list-group-item"><a href="#73_Ozark">73-Ozark (IMDB 8.3)</a></li>
-  <li class="list-group-item"><a href="#72_The_Last_Kingdom">72-The Last Kingdom (IMDB 8.3)</a></li>
-  <li class="list-group-item"><a href="#71_Orphan_Black">71-Orphan Black (IMDB 8.3)</a></li>
-  <li class="list-group-item"><a href="#70_The_Originals">70-The-Originals (IMDB 8.3)</a></li>
-  <li class="list-group-item"><a href="#69_Fringe">69-Fringe (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#68_Prison_Break">68-Prison Break (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#67_Genius">67-Genius (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#66_Lost">66-Lost (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#65_Sense8">65-Sense8 (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#64_How_Mother">64-How I Met Your Mother (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#63_Homeland">63-Homeland (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#62_Legion">62-Legion (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#61_Billions">61-Billions (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#60_The_Good_Doctor">60-The Good Doctor (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#59_The_Walking_Dead">59-The Walking Dead (IMDB 8.4)</a></li>
-  <li class="list-group-item"><a href="#58_Supernatural">58-Supernatural (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#57_Carnivale">57-Carnivale (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#56_Ash_vs_Evil_Dead">56-Ash vs Evil Dead (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#55_Luther">55-Luther (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#54_Outlander">54-Outlander (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#53_Modern_Family">53-Modern Family (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#52_Unsere_Mutter_unsere_Vater">52-Unsere Mütter, unsere Väter (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#51_Twin_Peaks">51-Twin Peaks (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#50_Utopia">50-Utopia (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#49_Taboo">49-Taboo (IMDB 8.5)</a></li>
-  <li class="list-group-item"><a href="#48_Justified">48-Justified (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#47_Boardwalk_Empire">47-Boardwalk Empire (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#46_The_Night_Of">46-The Night Of (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#45_Atlanta">45-Atlanta (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#44_Spartacus">44-Spartacus (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#43_Silicon_Valley">43-Silicon Valley (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#42_Suits">42-Suits (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#41_Hannibal">41-Hannibal (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#40_Sons_of_Anarchy">40-Sons of Anarchy (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#39_Mindhunter">39-Mindhunter (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#38_The_Handmaids_Tale">38-The Handmaid's Tale (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#37_Vikings">37-Vikings (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#36_Big_Little_Lies">36-Big Little Lies (IMDB 8.6)</a></li>
-  <li class="list-group-item"><a href="#34_Better_Call_Saul">34-Better Call Saul (IMDB 8.7)</a></li>
-  <li class="list-group-item"><a href="#33_Daredevil">33-Daredevil (IMDB 8.7)</a></li>
-  <li class="list-group-item"><a href="#32_Shameless">32-Shameless (IMDB 8.7)</a></li>
-  <li class="list-group-item"><a href="#31_Gomorra_La_serie">31-Gomorra La Serie (IMDB 8.7)</a></li>
-  <li class="list-group-item"><a href="#30_The_Punisher">30-The Punisher (IMDB 8.7)</a></li>
-  <li class="list-group-item"><a href="#29_Dexter">29-Dexter (IMDB 8.7)</a></li>
-  <li class="list-group-item"><a href="#28_The_Crown">28-The Crown (IMDB 8.7)</a></li>
-  <li class="list-group-item"><a href="#27_Deadwood">27-Deadwood (IMDB 8.7)</a></li>
-  <li class="list-group-item"><a href="#26_The_Terror">26-The Terror (IMDB 8.7)</a></li>
-  <li class="list-group-item"><a href="#25_Attack_on_Titan">25-Attack on Titan (IMDB 8.8)</a></li>
-  <li class="list-group-item"><a href="#24_The_Office">24-The Office (IMDB 8.8)</a></li>
-  <li class="list-group-item"><a href="#23_House">23-House (IMDB 8.8)</a></li>
-  <li class="list-group-item"><a href="#22_Peaky_Blinders">22-Peaky Blinders (IMDB 8.8)</a></li>
-  <li class="list-group-item"><a href="#21-The_is_US">21-The is US (IMDB 8.8)</a></li>
-  <li class="list-group-item"><a href="#20_Oz">20-Oz (IMDB 8.8)</a></li>
-  <li class="list-group-item"><a href="#19_Rome">19-Rome (IMDB 8.8)</a></li>
-  <li class="list-group-item"><a href="#18_La_casa_de_papel">18-La casa de papel (IMDB 8.8)</a></li>
-  <li class="list-group-item"><a href="#17_Seinfeld">17-Seinfeld (IMDB 8.9)</a></li>
-  <li class="list-group-item"><a href="#16_Friends">16-Friends (IMDB 8.9)</a></li>
-  <li class="list-group-item"><a href="#15_Narcos">15-Narcos (IMDB 8.9)</a></li>
-  <li class="list-group-item"><a href="#14_House_of_Cards">15-House of Cards (IMDB 8.9)</a></li>
-  <li class="list-group-item"><a href="#13_Westworld">13-Westworld (IMDB 8.9)</a></li>
-  <li class="list-group-item"><a href="#12_Stranger_Things">12-Stranger Things (IMDB 8.9)</a></li>
-  <li class="list-group-item"><a href="#11_Black_Mirror">11-Black Mirror (IMDB 8.9)</a></li>
-  <li class="list-group-item"><a href="#10_Fargo">10-Fargo (IMDB 9.0)</a></li>
-  <li class="list-group-item"><a href="#9_True_Detective">9-True Detective (IMDB 9.0)</a></li>
-  <li class="list-group-item"><a href="#8_The_Mechanism">8-The Mechanism (IMDB 9.1)</a></li>
-  <li class="list-group-item"><a href="#7_Sherlock">7-Sherlock (IMDB 9.2)</a></li>
-  <li class="list-group-item"><a href="#6_The_Sopranos">6-The Sopranos (IMDB 9.2)</a></li>
-  <li class="list-group-item"><a href="#5_Rick_And_Morty">5-Rick And Morty (IMDB 9.3)</a></li>
-  <li class="list-group-item"><a href="#4_The_Wire">4-The Wire (IMDB 9.3  )</a></li>
-  <li class="list-group-item"><a href="#3_Band_of_Brothers">3-Band of Brothers (IMDB 9.5)</a></li>
-  <li class="list-group-item"><a href="#2_Breaking_Bad">2-Breaking Bad (IMDB 9.5)</a></li>
-  <li class="list-group-item"><a href="#1_Game_of_Thrones">1-Game of Thrones (IMDB 9.5)</a></li>
+<ul class="list-group"> 
+  <li class="list-group-item"><a href="#Lethal_Weapon">Lethal Weapon (IMDB 8.0)</a></li>
+  <li class="list-group-item"><a href="#The_Flash">The Flash (IMDB 8.0)</a></li>
+  <li class="list-group-item"><a href="#Lie_To_Me">Lie To Me (IMDB 8.0)</a></li>
+  <li class="list-group-item"><a href="#Gallipoli">Gallipoli (IMDB 8.0)</a></li>
+  <li class="list-group-item"><a href="#iZombie">iZombie (IMDB 8.0)</a></li>
+  <li class="list-group-item"><a href="#DaVincis_Demons">Da Vinci's Demons (IMDB 8.0)</a></li>
+  <li class="list-group-item"><a href="#The_Good_Place">The Good Place (IMDB 8.1)</a></li>
+  <li class="list-group-item"><a href="#Marco_Polo">Marco Polo (IMDB 8.1)</a></li>
+  <li class="list-group-item"><a href="#Preacher">Preacher (IMDB 8.1)</a></li>
+  <li class="list-group-item"><a href="#American_Gods">American Gods (IMDB 8.1)</a></li>
+  <li class="list-group-item"><a href="#The_Deuce">The Deuce (IMDB 8.2)</a></li>
+  <li class="list-group-item"><a href="#The_Leftovers">The Leftovers (IMDB 8.2)</a></li>
+  <li class="list-group-item"><a href="#Orange_Is_the_New_Black">Orange Is the New Black (IMDB 8.2)</a></li>
+  <li class="list-group-item"><a href="#Bates_Motel">Bates Motel (IMDB 8.2)</a></li>
+  <li class="list-group-item"><a href="#Lucifer">Lucifer (IMDB 8.2)</a></li>
+  <li class="list-group-item"><a href="#The_end_of">The End of the F***ing World (IMDB 8.2)</a></li>
+  <li class="list-group-item"><a href="#11_22_63">11.22.63 (IMDB 8.2)</a></li>
+  <li class="list-group-item"><a href="#Ray_Donovan">Ray Donovan (IMDB 8.3)</a></li>
+  <li class="list-group-item"><a href="#13_Reasons_Why">13 Reasons Why (IMDB 8.3)</a></li>
+  <li class="list-group-item"><a href="#The_Big_Bang_Theory">The Big Bang Theory (IMDB 8.3)</a></li>
+  <li class="list-group-item"><a href="#Altered_Carbons">Altered Carbons (IMDB 8.3)</a></li>
+  <li class="list-group-item"><a href="#The_Pacific">The Pacific (IMDB 8.3)</a></li>
+  <li class="list-group-item"><a href="#Ozark">Ozark (IMDB 8.3)</a></li>
+  <li class="list-group-item"><a href="#The_Last_Kingdom">The Last Kingdom (IMDB 8.3)</a></li>
+  <li class="list-group-item"><a href="#Orphan_Black">Orphan Black (IMDB 8.3)</a></li>
+  <li class="list-group-item"><a href="#The_Originals">The-Originals (IMDB 8.3)</a></li>
+  <li class="list-group-item"><a href="#Fringe">Fringe (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#Prison_Break">Prison Break (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#Genius">Genius (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#Lost">Lost (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#Sense8">Sense8 (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#How_Mother">How I Met Your Mother (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#Homeland">Homeland (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#Legion">Legion (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#Billions">Billions (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#The_Good_Doctor">The Good Doctor (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#The_Walking_Dead">The Walking Dead (IMDB 8.4)</a></li>
+  <li class="list-group-item"><a href="#Supernatural">Supernatural (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Carnivale">Carnivale (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Ash_vs_Evil_Dead">Ash vs Evil Dead (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Luther">Luther (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Outlander">Outlander (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Modern_Family">Modern Family (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Unsere_Mutter_unsere_Vater">Unsere Mütter, unsere Väter (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Twin_Peaks">Twin Peaks (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Utopia">Utopia (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Taboo">Taboo (IMDB 8.5)</a></li>
+  <li class="list-group-item"><a href="#Justified">Justified (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Boardwalk_Empire">Boardwalk Empire (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#The_Night_Of">The Night Of (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Atlanta">Atlanta (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Spartacus">Spartacus (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Silicon_Valley">Silicon Valley (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Suits">Suits (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Hannibal">Hannibal (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Sons_of_Anarchy">Sons of Anarchy (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Mindhunter">Mindhunter (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#The_Handmaids_Tale">The Handmaid's Tale (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Vikings">Vikings (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Big_Little_Lies">Big Little Lies (IMDB 8.6)</a></li>
+  <li class="list-group-item"><a href="#Better_Call_Saul">Better Call Saul (IMDB 8.7)</a></li>
+  <li class="list-group-item"><a href="#Daredevil">Daredevil (IMDB 8.7)</a></li>
+  <li class="list-group-item"><a href="#Shameless">Shameless (IMDB 8.7)</a></li>
+  <li class="list-group-item"><a href="#Gomorra_La_serie">Gomorra La Serie (IMDB 8.7)</a></li>
+  <li class="list-group-item"><a href="#The_Punisher">The Punisher (IMDB 8.7)</a></li>
+  <li class="list-group-item"><a href="#Dexter">Dexter (IMDB 8.7)</a></li>
+  <li class="list-group-item"><a href="#The_Crown">The Crown (IMDB 8.7)</a></li>
+  <li class="list-group-item"><a href="#Deadwood">Deadwood (IMDB 8.7)</a></li>
+  <li class="list-group-item"><a href="#The_Terror">The Terror (IMDB 8.7)</a></li>
+  <li class="list-group-item"><a href="#Attack_on_Titan">Attack on Titan (IMDB 8.8)</a></li>
+  <li class="list-group-item"><a href="#The_Office">The Office (IMDB 8.8)</a></li>
+  <li class="list-group-item"><a href="#House">House (IMDB 8.8)</a></li>
+  <li class="list-group-item"><a href="#Peaky_Blinders">Peaky Blinders (IMDB 8.8)</a></li>
+  <li class="list-group-item"><a href="#The_is_US">The is US (IMDB 8.8)</a></li>
+  <li class="list-group-item"><a href="#Oz">Oz (IMDB 8.8)</a></li>
+  <li class="list-group-item"><a href="#Rome">Rome (IMDB 8.8)</a></li>
+  <li class="list-group-item"><a href="#La_casa_de_papel">La casa de papel (IMDB 8.8)</a></li>
+  <li class="list-group-item"><a href="#Seinfeld">Seinfeld (IMDB 8.9)</a></li>
+  <li class="list-group-item"><a href="#Friends">Friends (IMDB 8.9)</a></li>
+  <li class="list-group-item"><a href="#Narcos">Narcos (IMDB 8.9)</a></li>
+  <li class="list-group-item"><a href="#House_of_Cards">House of Cards (IMDB 8.9)</a></li>
+  <li class="list-group-item"><a href="#Westworld">Westworld (IMDB 8.9)</a></li>
+  <li class="list-group-item"><a href="#Stranger_Things">Stranger Things (IMDB 8.9)</a></li>
+  <li class="list-group-item"><a href="#Black_Mirror">Black Mirror (IMDB 8.9)</a></li>
+  <li class="list-group-item"><a href="#Fargo">Fargo (IMDB 9.0)</a></li>
+  <li class="list-group-item"><a href="#True_Detective">True Detective (IMDB 9.0)</a></li>
+  <li class="list-group-item"><a href="#The_Mechanism">The Mechanism (IMDB 9.1)</a></li>
+  <li class="list-group-item"><a href="#Sherlock">Sherlock (IMDB 9.2)</a></li>
+  <li class="list-group-item"><a href="#The_Sopranos">The Sopranos (IMDB 9.2)</a></li>
+  <li class="list-group-item"><a href="#Rick_And_Morty">Rick And Morty (IMDB 9.3)</a></li>
+  <li class="list-group-item"><a href="#The_Wire">The Wire (IMDB 9.3  )</a></li>
+  <li class="list-group-item"><a href="#Band_of_Brothers">Band of Brothers (IMDB 9.5)</a></li>
+  <li class="list-group-item"><a href="#Breaking_Bad">Breaking Bad (IMDB 9.5)</a></li>
+  <li class="list-group-item"><a href="#Game_of_Thrones">Game of Thrones (IMDB 9.5)</a></li>
 
 </ul>
     
@@ -125,9 +125,9 @@ Bu makalede **en iyi yabancı diziler IMDB puanlarına** göre listelenmiştir.
 
 {% include advertisements-word.html %}
 
-## 95-Lethal Weapon
+## Lethal Weapon
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Lethal Weapon]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-lethal-weapon.jpg){: .align-center}{:id="95_Lethal_Weapon"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Lethal Weapon]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-lethal-weapon.jpg){: .align-center}{:id="Lethal_Weapon"}
 
 ***IMDB Puanı : [8.0](http://www.imdb.com/title/tt5164196/){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=GUorM4nTX7k){:target="_blank"}{:rel="nofollow"}***
 
@@ -138,9 +138,9 @@ Bu makalede **en iyi yabancı diziler IMDB puanlarına** göre listelenmiştir.
 En iyi yabancı diziler listesine Lethal Weapon'u ekleyebiliriz. Lethal Weapon konusu; polis memuru Martin Riggs eşini ve çocuğunu  trafik kazasında kaybettikten sonra yeni bir hayat kurar ve kendisini suçluları yakalamaya adar. Ortağı Roger Murtaugh ise yaşamayı seven sağlığına dikkat eden biridir. Dizi birbirlerine zıt iki karakterin maceralarını konu alıyor.
 
 
-## 94-The Flash
+## The Flash
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Flash]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-flash.jpg){: .align-center}{:id="94_The_Flash"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Flash]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-flash.jpg){: .align-center}{:id="The_Flash"}
 
 ***IMDB Puanı : [8.0](http://www.imdb.com/title/tt3107288/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=Yj0l7iGKh8g){:target="_blank"}{:rel="nofollow"}***
 
@@ -151,9 +151,9 @@ En iyi yabancı diziler listesine Lethal Weapon'u ekleyebiliriz. Lethal Weapon k
 En iyi yabancı diziler sıralamamıza The Flash ile başlıyoruz. The Flash konusu, annesi gizemli şekilde kaybetmiş ve babasınıda annesini öldürmek suçlamasıyla hapse girmiştir. Ailesinin yokluğunda dedektif Joe West gözetiminde yetişen Barry Allen, S.T.A.R Endüstrilerinin parçacık hızlandırıcısı denemesi sırasında büyük bir hata nedeniyle oluşan patlamada bir şimşek ile yüzleşmek durumunda kalmıştır. Hava durumunu değiştirerek Allen’a şimşek çarptıran hızlandırıcı, Barry Allen yani The Flash’ın bir anda değişmesine, çeşitli özellikler kazanmasına ve çok hızlı hücre yenilenmesine neden olmuştur.
 
 
-## 93- Lie To Me
+## Lie To Me
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Lie To Me]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-lie-to-me.jpg){: .align-center}{:id="93_Lie_To_Me"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Lie To Me]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-lie-to-me.jpg){: .align-center}{:id="Lie_To_Me"}
 
 ***IMDB Puanı : [8.0](http://www.imdb.com/title/tt1235099/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=pbOgHa34Ec8){:target="_blank"}{:rel="nofollow"}***
 
@@ -168,9 +168,9 @@ Yalan makinelerinin bile çözemediği vakalarda Dr. Lightman ve ekibi ele aldı
 Suç dünyasında olayların çözülmesi için gerekli olan araştırmalara, yalanların çözümü için beden dilinden yararlanması üzerinden bakan Lie to Me kesinlikle izlenmesi gereken diziler listesine eklemekte fayda var.
 
 
-## 92- Gallipoli
+## Gallipoli
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Gallipoli]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-gallipoli.jpg){: .align-center}{:id="92_Gallipoli"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Gallipoli]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-gallipoli.jpg){: .align-center}{:id="Gallipoli"}
 
 ***IMDB Puanı : [8.0](http://www.imdb.com/title/tt3577058/?ref_=nv_sr_3){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=j0HTdesvJT0){:target="_blank"}{:rel="nofollow"}***
 
@@ -183,9 +183,9 @@ En iyi yabancı diziler listemize Avusturalyalıların Gelibolu cephesinde verdi
 2015 yılında yayınlana ve 3 yıl süren Çanakkale savaşının gelibolu cephesindeki savaşın yüzünü Avusturalyalı 4 genç askerin gözünden izlemek için en iyi yabancı diziler listenize Gallipoli yi de eklemenizi tavsiye ederim.
 
 
-## 91- iZombie
+## iZombie
 
-![En İyi Yabancı Diziler - İngilizce Diziler - iZombie]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-izombie.jpg){: .align-center}{:id="91_iZombie"}
+![En İyi Yabancı Diziler - İngilizce Diziler - iZombie]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-izombie.jpg){: .align-center}{:id="iZombie"}
 
 ***IMDB Puanı : [8.0](http://www.imdb.com/title/tt3501584/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=9XcjqoJT6Dk){:target="_blank"}{:rel="nofollow"}***
 
@@ -196,9 +196,9 @@ En iyi yabancı diziler listemize Avusturalyalıların Gelibolu cephesinde verdi
 En popüler yabancı diziler listemize iZombie dizisi ile devam ediyoruz. 2015 yılında yayına başlayan iZombie DC Comics’in aynı ismi taşıyan çizgi romanından uyarlandı. Zombiye dönüşen bir tıp öğrencisi olan Liv, insan vüzudunu koruyabilmek için beyin yemesi gerekmtedir. Bu nedenle adli tıpta iş bulur. Ancak zamanla fark eder ki; yediği her beyin, cesedin sahibinin anılarını kafasının içinde duymasına sebep olmaktadır. Bu durumu kullanmaya karar veren genç kız, kim tarafından işlendiği bilinmeyen cinayet vakalarını patronu ve bir polis dedektifinin yardımlarıyla çözecektir.
 
 
-## 90- Da Vinci's Demons
+## Da Vinci's Demons
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Da Vinci's Demons]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-davincis-demons.jpg){: .align-center}{:id="90_DaVincis_Demons"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Da Vinci's Demons]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-davincis-demons.jpg){: .align-center}{:id="DaVincis_Demons"}
 
 ***IMDB Puanı : [8.0](http://www.imdb.com/title/tt2094262/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=vgg9nnALFGA){:target="_blank"}{:rel="nofollow"}***
 
@@ -210,9 +210,9 @@ En iyi yabancı diziler sıralamamıza Da Vinci’s Demons ile devam edelim. Leo
 
 
 
-## 89- The Good Place
+## The Good Place
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Good Place]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-good-place.jpg){: .align-center}{:id="89_The_Good_Place"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Good Place]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-good-place.jpg){: .align-center}{:id="The_Good_Place"}
 
 ***IMDB Puanı : [8.1](http://www.imdb.com/title/tt4955642/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=FMA6-p3V8hY){:target="_blank"}{:rel="nofollow"}***
 
@@ -225,9 +225,9 @@ En iyi filmler listesine fantezi-komedi türü ile devam edelim. 2016 yılında 
 Dizi, erektil disfonksiyon ürünleri taşıyan bir traktörün çarpması sonucu ölen ve öbür tarafta yeniden canlandırılan Eleanor Shellstrop ([Kristen Bell](http://www.imdb.com/name/nm0068338/?ref_=tt_ov_st_sm){:target="_blank"}{:rel="nofollow"}) isimli sıradan bir kadın üzerinde hikayeye başlar. Ahiretteki yaşantısında kendisinin çok da iyi bir insan olmadığının farkına varır. Ahiret hocası Michael'ın yardımıyla içindeki iyi insanı bulmaya ve yeniden sıradan hayatına dönmeye çalışır. Amerikan yapımı sitcom türündeki fantezi-komedi dizisini beğeneceğinizi umuyorum.
 
 
-## 88- Marco Polo
+## Marco Polo
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Marco Polo]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-marco-polo.jpg){: .align-center}{:id="88_Marco_Polo"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Marco Polo]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-marco-polo.jpg){: .align-center}{:id="Marco_Polo"}
 
 ***IMDB Puanı : [8.1](http://www.imdb.com/title/tt2189461/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=hB-ltNasHVw){:target="_blank"}{:rel="nofollow"}***
 
@@ -240,9 +240,9 @@ En iyi tarihi yabancı diziler sıralamasında yer almak için Netflix in projes
 Ümit Burnu'na adını veren Marco Polo'nun gençlik yıllarını konu alan dizi, Marco Polo'nun Venedikli bir tüccar olan babasıyla beraber Kubilay Han'ın egemenliğindeki Moğolistan'a gelişiyle başlıyor. O dönemdeki İpek Yolu ticareti hayatını etkilemesiyle birlikte dünyanın keşfedilmemiş topraklarına doğru zorlu bir yolculuğa çıkıp dünyanın güç dengelerini değiştirecektir. 13. yüzyılda geçen bu tarihi dizide dönemin savaşları, güç kavgaları ve saray entrikaları yanında sonradan adını dünyaya duyuracak bir gencin aşkları ve ümitleri ekrana geliyor.
 
 
-## 87- Preacher
+## Preacher
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Preacher]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-preacher.jpg){: .align-center}{:id="87_Preacher"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Preacher]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-preacher.jpg){: .align-center}{:id="Preacher"}
 
 ***IMDB Puanı : [8.1](http://www.imdb.com/title/tt5016504/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=3gueM4VilVE){:target="_blank"}{:rel="nofollow"}***
 
@@ -255,9 +255,9 @@ En iyi tarihi yabancı diziler sıralamasında yer almak için Netflix in projes
 Doğaüstü ve komik olayları içeren diziler seviyorsanız izlemenizi tavsiye ederim.
 
 
-## 86- American Gods
+## American Gods
 
-![En İyi Yabancı Diziler - İngilizce Diziler - American Gods]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-american-gods.jpg){: .align-center}{:id="86_American_Gods"}
+![En İyi Yabancı Diziler - İngilizce Diziler - American Gods]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-american-gods.jpg){: .align-center}{:id="American_Gods"}
 
 ***IMDB Puanı : [8.1](http://www.imdb.com/title/tt1898069/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=oyoXURn9oK0){:target="_blank"}{:rel="nofollow"}***
 
@@ -270,9 +270,9 @@ Ancak hapisaneden çıkmadan birkaç gün önce, Laura ve Shadow’un en yakın 
 
 {% include advertisements-word.html %}
 
-## 85- The Deuce
+## The Deuce
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Deuce]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-deuce.jpg){: .align-center}{:id="85_The_Deuce"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Deuce]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-deuce.jpg){: .align-center}{:id="The_Deuce"}
 
 ***IMDB Puanı : [8.2](http://www.imdb.com/title/tt4998350/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=Ixd8Tj9a25k){:target="_blank"}{:rel="nofollow"}***
 
@@ -283,9 +283,9 @@ Ancak hapisaneden çıkmadan birkaç gün önce, Laura ve Shadow’un en yakın 
 Yabancı dizi tavsiyeleri listesinde yine yeni yabancı dizi önerileri arasında yer alan bir başyapıt daha olan The Deuce yer alır. Dizi new York’da 1970’li yıllarda yasal hale gelen porno sektörünün 1980’li yıllardaki yükselişini konu alıyor. Aldığı puanla IMDB nin en iyi yabancı diziler listesine girebilen bir yapıttır.  
 
 
-## 84- The Leftovers
+## The Leftovers
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Leftovers]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-left-overs.jpg){: .align-center}{:id="84_The_Leftovers"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Leftovers]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-left-overs.jpg){: .align-center}{:id="The_Leftovers"}
 
 ***IMDB Puanı : [8.2](http://www.imdb.com/title/tt2699128/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=FLT3YUALJno){:target="_blank"}{:rel="nofollow"}***
 
@@ -296,9 +296,9 @@ Yabancı dizi tavsiyeleri listesinde yine yeni yabancı dizi önerileri arasınd
 En iyi yabancı diziler arasında final yapmış diğer yapım ise The Leftovers'dir. Dizinin konusu; dünyada bir anda anlaşılmayan bir nedenden dolayı dünya nüfusunun bir bölümü ortadan kaybolur. Kaybolan insanların yakınları olan biteni anlayamadığı için şaşkınlık ve trejedi içerisinde kalırlar. The Leftovers’da bu insaların gizem dolu yeni dünya yaşamlarını konu alsın. Bilimkurgu ve gizem dolu The Leftovers aldığı puanlarla IMDB nin en iyi yabancı diziler listesine girmeyi başarmıştır.
 
 
-## 83- Orange Is the New Black
+## Orange Is the New Black
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Orange Is the New Black]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-orange-is-the-new-black.jpg){: .align-center}{:id="83_Orange_Is_the_New_Black"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Orange Is the New Black]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-orange-is-the-new-black.jpg){: .align-center}{:id="Orange_Is_the_New_Black"}
 
 ***IMDB Puanı : [8.2](http://www.imdb.com/title/tt2372162/?ref_=nv_sr_2){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=vY0qzXi5oJg){:target="_blank"}{:rel="nofollow"}***
 
@@ -309,9 +309,9 @@ En iyi yabancı diziler arasında final yapmış diğer yapım ise The Leftovers
 Dizi Piper Chapman’ın gençliğinde yaptığı bir hata yüzünden hapse düşmesi ve karşılaştığı bu farklı dünyada yaşama çabasını konu almaktadır. Dizi içerisinde kahramanların geçmişlerindeki birçok zamandan olaylar işleniyor. Komedi türünde olan dizi içerisinde dramda barındırıyor.En iyi yabancı diziler listesine ekleyebileceğimiz bir yapıt.
 
 
-## 82- Bates Motel
+## Bates Motel
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Bates Motel]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-bates-motel.jpg){: .align-center}{:id="82_Bates_Motel"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Bates Motel]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-bates-motel.jpg){: .align-center}{:id="Bates_Motel"}
 
 ***IMDB Puanı : [8.2](http://www.imdb.com/title/tt2188671/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=7lCWKKNGiKs){:target="_blank"}{:rel="nofollow"}***
 
@@ -324,9 +324,9 @@ Gerilim konusunda dünyanın en iyi diziler listesine girebilecek bir dizide Bat
 Kasaba şerifinin ve yardımcısının eski motel sahibinin ortadan kaybolmasından şüphelenir. Norma ve kızı cinayetin ortaya çıkmaması için ellerinden geleni yaparlar. Norman okula kayıt olur ve sıradışı davranışları öğretmeninin dikkatini çeker. Ve olaylar örgüsü bunun üzerine devam eder.
 
 
-## 81- Lucifer
+## Lucifer
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Lucifer]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-lucifer.jpg){: .align-center}{:id="81_Lucifer"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Lucifer]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-lucifer.jpg){: .align-center}{:id="Lucifer"}
 
 ***IMDB Puanı : [8.2](http://www.imdb.com/title/tt4052886/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=X4bF_quwNtw){:target="_blank"}{:rel="nofollow"}***
 
@@ -339,9 +339,9 @@ Fantazi ve polisiyenin bir arada olduğu Lucifer en popüler diziler listesine g
 Lucifer Los Angeles’de yaşamaya devam ederke Chloe isminde bir polis ile tanışır ve aşık olur. İnsan üstü özellikleri sayesinde aşık olduğu polise olayları çözmek için danışman olarak yardım eder. Aynı zamanda cehennemde bıraktığı hayatının sorunlarıyla da uğraşmak zorunda kalacaktır.
 
 
-## 80- The End of the F***ing World
+## The End of the F***ing World
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The end of the f***ing world]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-end-of-the-f-ing-world.jpg){: .align-center}{:id="80_The_end_of"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The end of the f***ing world]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-end-of-the-f-ing-world.jpg){: .align-center}{:id="The_end_of"}
 
 ***IMDB Puanı : [8.2](http://www.imdb.com/title/tt6257970/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=vbiiik_T3Bo){:target="_blank"}{:rel="nofollow"}***
 
@@ -352,9 +352,9 @@ Lucifer Los Angeles’de yaşamaya devam ederke Chloe isminde bir polis ile tan�
 En iyi yabancı diziler listesine ekleyebileceğiniz bir diğer dizi de Netflix dizilerinden The End Of The F*** World. Dizinin konusu ; 17 yaşında sürekli hayvanlara zarar verip öldüren bir psikopat çocuğun artık hayvanlardan sıkılıp insan öldürmek istemesiyle, tanıştığı bir kızın kayıp babasını bulmak için çıktıkları yolda kızı öldürme planları yaparken karşılaştıkları olayları işleyen bir dizi. Kara mizah türlerini izlemeyi seviyorsanız en popüler yabancı diziler listenize eklemek isteyeceğiniz bir yapıt.
 
 
-## 79- 11.22.63
+## 11.22.63
 
-![En İyi Yabancı Diziler - İngilizce Diziler - 11.22.63]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-11-22-63.jpg){: .align-center}{:id="79_11_22_63"}
+![En İyi Yabancı Diziler - İngilizce Diziler - 11.22.63]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-11-22-63.jpg){: .align-center}{:id="11_22_63"}
 
 ***IMDB Puanı : [8.2](http://www.imdb.com/title/tt2879552/?ref_=fn_al_tt_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=2QIShmtBdto){:target="_blank"}{:rel="nofollow"}***
 
@@ -365,9 +365,9 @@ En iyi yabancı diziler listesine ekleyebileceğiniz bir diğer dizi de Netflix 
 En iyi yabancı diziler listemize bilim kurgu, gizem ve dram türünde olan 11.22.63 ekleyebiliriz. Dizinin konusu, Bir lisede ingilizce öğretmeni olan Jake Epping (James Franco) etrafında gelişen olayları ele almaktadır. Bir lokantanın depo kısmındaki bir kapının kendisini geçmişe götürdüğünü öğrenen Jake Epping, 22 Kasım 1963’te gerçekleşen John F. Kennedy’nin suikastini önlemeye çalışacak.
 
 
-## 78- Ray Donovan
+## Ray Donovan
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Ray Donovan]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-ray-donovan.jpg){: .align-center}{:id="78_Ray_Donovan"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Ray Donovan]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-ray-donovan.jpg){: .align-center}{:id="Ray_Donovan"}
 
 ***IMDB Puanı : [8.3](http://www.imdb.com/title/tt2249007/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=fYwVPi13qd4){:target="_blank"}{:rel="nofollow"}***
 
@@ -378,9 +378,9 @@ En iyi yabancı diziler listemize bilim kurgu, gizem ve dram türünde olan 11.2
 En iyi yabancı diziler listesine ekleyeceğimiz suç ve dram kategorisindeki Netflix projesi Ray Donovan'ı inceleyelim. Dizinin konusu, zengin ve ünlü ailelerin sorunlarını hallederken bir yandan da aile sorunlarını çözmeye çalışan adamın hikayesini konu alıyor. Bir hukuk şirketinde çalışan Ray Donovan girdiği tüm işler başını belaya sokmaya başlıyor. Bir süre sonra gittikçe bataklığa saplanmaya başlaması üzerine hayatını, karısı ve çocuklarını etkilemeye başlayacaktır. Suç dünyasında bol aksiyon seyri seviyorsanız en popüler yabancı diziler listesine ekleyebilirsiniz.
 
 
-## 77- 13 Reasons Why
+## Reasons Why
 
-![En İyi Yabancı Diziler - İngilizce Diziler - 13 Reasons Why]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-13reasons-why.jpg){: .align-center}{:id="77_13_Reasons_Why"}
+![En İyi Yabancı Diziler - İngilizce Diziler - 13 Reasons Why]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-13reasons-why.jpg){: .align-center}{:id="Reasons_Why"}
 
 ***IMDB Puanı : [8.3](http://www.imdb.com/title/tt1837492/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=JebwYGn5Z3E){:target="_blank"}{:rel="nofollow"}***
 
@@ -391,9 +391,9 @@ En iyi yabancı diziler listesine ekleyeceğimiz suç ve dram kategorisindeki Ne
 En popüler yabancı diziler listesine Netflix’de yayınlanan bir cinayetin ardından olan olayları konu alan 13 Reasons Why dizisini ekleyebiliriz. Dizinin konusu inceleyelim. 17 yaşındaki Hannah Baker ortada bir sebep yokken intihar etmiştir. Aynı okula giden okulun parlak öğrencisi Clay Jensen cinayetin üstünden bir süre geçtikten sonra evinin kapısında içinde eski kasetler olan bir kutu buluyor. Olaylar bu kasetlerin izlenmesiyle başlıyor.En iyi yabancı diziler listenize eklemenizi tavsiye ederim.
 
 
-## 76- The Bing Bang Theory
+## The Bing Bang Theory
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Big Bang Theory]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-big-bang-theory.jpg){: .align-center}{:id="76_The_Big_Bang_Theory"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Big Bang Theory]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-big-bang-theory.jpg){: .align-center}{:id="The_Big_Bang_Theory"}
 
 ***IMDB Puanı : [8.3](http://www.imdb.com/title/tt0898266/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=RJknrSi3eUQ){:target="_blank"}{:rel="nofollow"}***
 
@@ -405,9 +405,9 @@ Dizi tavsiyemize en iyi yabancı dizilerden The Bing Bang Theory ekleyebiliriz. 
 
 {% include advertisements-word.html %}
 
-## 75- Altered Carbons
+## Altered Carbons
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Altered Carbons]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-altered-carbons.jpg){: .align-center}{:id="75_Altered_Carbons"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Altered Carbons]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-altered-carbons.jpg){: .align-center}{:id="Altered_Carbons"}
 
 ***IMDB Puanı : [8.3](http://www.imdb.com/title/tt2261227/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=dhFM8akm9a4){:target="_blank"}{:rel="nofollow"}***
 
@@ -418,9 +418,9 @@ Dizi tavsiyemize en iyi yabancı dizilerden The Bing Bang Theory ekleyebiliriz. 
 En popüler dizi listesine ekleyeceğimiz halen devam eden bilimkurgu türündeki Altered Carbons’u inceleyelim. Dizinin konusu, insan bilincinin disklere kaydederek istenildiği gibi yeni vücutlara nakledilip yaşama devam edilmesini konu alır. Dizi eski bir mahkumun buzda geçen 250 yıl sonrasında akıl almaz bir cinayeti çözmesi için yeni bir bedende diriltilmesiyle başlıyor. Bilim kurgu türündeki bu diziyi en iyi yabancı diziler listesine eklemenizi tavsiye ederim.
 
 
-## 74- The Pacific
+## The Pacific
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Pacific]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-pacific.jpg){: .align-center}{:id="74_The_Pacific"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Pacific]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-pacific.jpg){: .align-center}{:id="The_Pacific"}
 
 ***IMDB Puanı : [8.3](http://www.imdb.com/title/tt0374463/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=e99B80crU3E){:target="_blank"}{:rel="nofollow"}***
 
@@ -431,9 +431,9 @@ En popüler dizi listesine ekleyeceğimiz halen devam eden bilimkurgu türündek
 Savaş konulu en iyi yabancı dizilerden biri de final yapmış The Pacific dir. 10 bölümden oluşan 2. Dünya savaşını konu alan dizide Amerikan Deniz Piyade Kolordusu'nun Pasifik Cephesi'nde Japon İmparatorluk Deniz Kuvvetleri birliklerine karşı verdiği mücadeleyi konu almaktadır. Savaş dizilerini seviyorsanız en popüler diziler listenize ekleyebilirsiniz.
 
 
-## 73- Ozark
+## Ozark
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Ozark]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-ozark.jpg){: .align-center}{:id="73_Ozark"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Ozark]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-ozark.jpg){: .align-center}{:id="Ozark"}
 
 ***IMDB Puanı : [8.3](http://www.imdb.com/title/tt5071412/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=5hAXVqrljbs){:target="_blank"}{:rel="nofollow"}***
 
@@ -443,9 +443,9 @@ Savaş konulu en iyi yabancı dizilerden biri de final yapmış The Pacific dir.
 
 Dizi tavsiyelerine en iyi yabancı dizilerden biri Ozark’ı ekleyebiliriz. Dizinin konusu bir finans danışmanı, ailesini Chicago'dan Missouri'deki Ozarks'a sürükler. Burada, bir uyuşturucu patronunu memnun etmek için beş yılda 500 milyon dolar aklamalıdır. Finans danışmanının eşi ve çocuklarıyla işler sarpa sardığı için Ozark Platosu olarak bilinen Güney Missouri’ye taşınmasının hikayesini anlatıyor. 
 
-## 72- The Last Kingdom
+## The Last Kingdom
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Last Kingdom]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-last-kingdom.jpg){: .align-center}{:id="72_The_Last_Kingdom"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Last Kingdom]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-last-kingdom.jpg){: .align-center}{:id="The_Last_Kingdom"}
 
 ***IMDB Puanı : [8.3](http://www.imdb.com/title/tt4179452/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=WxPApTGWwas){:target="_blank"}{:rel="nofollow"}***
 
@@ -456,9 +456,9 @@ Dizi tavsiyelerine en iyi yabancı dizilerden biri Ozark’ı ekleyebiliriz. Diz
 The Last Kingdom, savaş ve krallık konulu sahneleri olsada, din, aşk, politika ve sadakat merkezli bir dizidir. Birçok krallığın Vikinglerin istilasına uğradığı o dönemde Kral Büyük Alfred, bu saldırılara karşı koyacak, diğer krallıkları birleştirmek arzusu ile ayakta durarak "Son Krallık" adını alacaktır. Toz duman bir ortamda, kendi özgürlük alanlarını tekrar kazanıp, hak ettikleri yurdu kurmaya çalışan insanların en görkemli krallık çatısı altında savaştığı bir öyküdür. En iyi yabancı diziler listesine eklemenizi tavsiye ederim.
 
 
-## 71- Orphan Black
+## Orphan Black
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Orphan Black]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-orphan-black.jpg){: .align-center}{:id="71_Orphan_Black"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Orphan Black]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-orphan-black.jpg){: .align-center}{:id="Orphan_Black"}
 
 ***IMDB Puanı : [8.3](http://www.imdb.com/title/tt2234222/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=VMxgycxrLQk){:target="_blank"}{:rel="nofollow"}***
 
@@ -469,9 +469,9 @@ The Last Kingdom, savaş ve krallık konulu sahneleri olsada, din, aşk, politik
 En iyi yabancı diziler listesine ekleyeceğimiz Orphan Black’ı inceleyelim. Orphan Black konusu, koruyucu aile tarafından büyütülen Sarah Manning yaşadığı şehirden kaçıp başka bir şehire geldiği sırada tren istasyonun da kendisine çok benzeyen Beth Childs'ın intiharına tanık olur. Beth Childs'ın çantasını alarak onun yerine geçen Sarah Manning bir anda kendisini görünüş olarak ikiz kardeşi kadar benzeyen bir sürü farklı kişiyle tanışmaya başlar. Bu garip durum karşısında kafasında oluşan soru işaretlerini gidermek için açıklayıcı cevaplar aramaya koyulur, her bölümde heyecan ve merak katsayısı biraz daha artar. En popüler diziler listesine eklemenizi tavsiye ederim.
 
 
-## 70- The Originals
+## The Originals
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Originals]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the_originals.jpg){: .align-center}{:id="70_The_Originals"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Originals]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the_originals.jpg){: .align-center}{:id="The_Originals"}
 
 ***IMDB Puanı : [8.3](http://www.imdb.com/title/tt2632424/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=kgg9OFl2KKg){:target="_blank"}{:rel="nofollow"}***
 
@@ -482,9 +482,9 @@ En iyi yabancı diziler listesine ekleyeceğimiz Orphan Black’ı inceleyelim. 
 Vampir ve kurt adamları işleyen dizileri izlemeyi seviyorsanız en popüler yabancı diziler listenize The Originals dizisini ekleyebilirsiniz. Dizinin konusu , 1000 yıl önceye dayanan ailenin cadı annesi çocuklarını korumak için büyü ve çocukları ölümsüz olur. Ancak çocukların kana karşı duyarlılıkları babaları tarafından nefretle karşılanır. Köken vampir aile, binlerce yıl önce sonsuza dek bir arada kalacaklarına dair birbirlerine söz verir. Fakat gelişen olaylar ve güç savaşları, dengeleri değiştirerek birbirlerinden kopmalarına neden olur.
 
 
-## 69- Fringe
+## Fringe
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Fringe]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-fringe.jpg){: .align-center}{:id="69_Fringe"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Fringe]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-fringe.jpg){: .align-center}{:id="Fringe"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt1119644/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=29bSzbqZ3xE){:target="_blank"}{:rel="nofollow"}***
 
@@ -495,9 +495,9 @@ Vampir ve kurt adamları işleyen dizileri izlemeyi seviyorsanız en popüler ya
 En iyi yabancı diziler listesine Amerikan bilim kurgu dizisi Fringe ekleyebiliriz. Fringe nin konusunda paralel evrenden kuantum fiziğine kadar bir çok konuya değinmesi ve zekice kurgusuyla belki de tüm zamanların bilim kurgu alanında en iyi yabancı dizi olabilir. Fringe tüm dünyayı etkileyecek belki de kıyamete neden olacak olayları bilimsel yöntemlerle değerlendiren FBI soruşturma tekniklerini kullanan bir inceleme bölümüdür. 
 
 
-## 68- Prison Break
+## Prison Break
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Prison Break]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-prison-break.jpg){: .align-center}{:id="68_Prison_Break"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Prison Break]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-prison-break.jpg){: .align-center}{:id="Prison_Break"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt0455275/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=AL9zLctDJaU){:target="_blank"}{:rel="nofollow"}***
 
@@ -508,9 +508,9 @@ En iyi yabancı diziler listesine Amerikan bilim kurgu dizisi Fringe ekleyebilir
 En iyi yabancı diziler listesine hapisaneden kaçışın muhteşem kurgulandığı Prison Break dizisini ekleyebiliriz. IMDB puanının az olduğunu düşündüğüm dizilerden bir tanesi Prison Break dir. Dizi bir inşaat mühendisi olan Michael Scofield (Wentworth Miller) Başkan Yardımcısı'nın kardeşini öldürmek suçuyla idam cezasına çarptırılan ağabeyi Lincoln Burrows'u (Dominic Purcell) kurtarmak yasal yolların kalmadığını farkedince bir banka soygunu düzenleyip abisinin bulunduğu hapisaneye girmesiyle başlıyor. Zekice kurgulanmış senaryoda her bölümde kaçışa bir adım daha yaklaşıldığını hissediyor ve birçok kez hayal kırıklığı yaşıyorsunuz. En popüler yabancı diziler listesine mutlaka eklemelisiniz.
 
 
-## 67- Genius
+## Genius
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Genius]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-genius.jpg){: .align-center}{:id="67_Genius"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Genius]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-genius.jpg){: .align-center}{:id="Genius"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt5673782/?ref_=nv_sr_2){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=SICLBlHizUY){:target="_blank"}{:rel="nofollow"}***
 
@@ -521,9 +521,9 @@ En iyi yabancı diziler listesine hapisaneden kaçışın muhteşem kurgulandı�
 National Geographic projesi olan Genius dizisi her bölümde farklı bir dahinin hayatını konu alıyor. En iyi yabancı diziler listenize her bölüm yeni bir dahinin hayatını inceleyebileceğiniz diziyi ekleyebilirsiniz.
 
 
-## 66- Lost
+## Lost
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Lost]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-lost.jpg){: .align-center}{:id="66_Lost"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Lost]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-lost.jpg){: .align-center}{:id="Lost"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt0411008/?ref_=nv_sr_2){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=SICLBlHizUY){:target="_blank"}{:rel="nofollow"}***
 
@@ -535,9 +535,9 @@ Lost dizisini duymayan kalmamıştır diye düşünüyorum. Bir dönemi kasıp k
 
 {% include advertisements-word.html %}
 
-## 65- Sense8
+## Sense8
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Sense8]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-sense8.jpg){: .align-center}{:id="65_Sense8"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Sense8]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-sense8.jpg){: .align-center}{:id="Sense8"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt2431438/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=iKpKAlbJ7BQ){:target="_blank"}{:rel="nofollow"}***
 
@@ -548,10 +548,10 @@ Lost dizisini duymayan kalmamıştır diye düşünüyorum. Bir dönemi kasıp k
 En iyi yabancı diziler listesine ekleyebileceğimiz tavsiye dizimiz Netflix yapımı Sense8. Dizinin konusu dünyanın farklı yerlerinde 8 farklı kişi birbirlerinin hafızalarına, dillerine, zihinlerine ve yeteneklerine sahip olur ve hayatta kalmaya çalışmaktadır. Bu durumu farkettiklerinde kimileri bir araya gelmek isteyecek kimileri ise birbirlerini öldürmek isteyeceklerdir. 
 
 
-## 64- How I Met Your Mother
+## How I Met Your Mother
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - How I Met Your Mother]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-how-i-met-your-mother.jpg){: .align-center}{:id="64_How_Mother"}
+![En İyi Yabancı Diziler - İngilizce Diziler - How I Met Your Mother]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-how-i-met-your-mother.jpg){: .align-center}{:id="How_Mother"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt0460649/?ref_=fn_al_tt_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=dkb-aBaxkVk){:target="_blank"}{:rel="nofollow"}***
 
@@ -562,10 +562,10 @@ En iyi yabancı diziler listesine ekleyebileceğimiz tavsiye dizimiz Netflix yap
 En iyi yabancı dizilerden How I met your mother konusu 2030 yılında ana karakterimiz Ted Mosby karşına çocuklarını karşısına alıp “Size annenizle nasıl tanıştığımızı anlayacağım” der ve dizi 2005 yılına döner. Dünyada çok popüler olan durum komedisi türündeki How I Met Your Mother en popüler yabancı diziler listesine ekleyebilirsiniz.
 
 
-## 63- Homeland
+## Homeland
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Homeland]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-homeland.jpg){: .align-center}{:id="63_Homeland"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Homeland]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-homeland.jpg){: .align-center}{:id="Homeland"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt1796960/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=KyFmS3wRPCQ){:target="_blank"}{:rel="nofollow"}***
 
@@ -580,10 +580,10 @@ Yıllardır kayıp olduğu ve öldüğü düşünülen Çavuş Nicholas Brody, A
 CIA, Brody’nı bir kahraman olarak ilan ederken Ajan Mathison duruma şüpheyle bakacaktır. Ancak Brody’nin taraf değiştirmiş bir terörist olarak ABD için tehdit olduğunu ispat etmesi hiç de kolay olmayacaktır.
 
 
-## 62- Legion
+## Legion
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Legion]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-legion.jpg){: .align-center}{:id="62_Legion"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Legion]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-legion.jpg){: .align-center}{:id="Legion"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt5114356/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=4SZ3rMMYBLY){:target="_blank"}{:rel="nofollow"}***
 
@@ -594,10 +594,10 @@ CIA, Brody’nı bir kahraman olarak ilan ederken Ajan Mathison duruma şüpheyl
 En iyi yabancı diziler listemize Legion u ekleyebiliriz. Dizinin konusu, ana kahramanımız David Haller çocukluğundan itibaren kafasında belirli sesler duymaktadır. David Haller çok güçlü telepati yeteneği olan bir mutanttır. Bu neden birçok psikolojik tedavi görmektedir. Bir süre sonra kendisinin farkına varmaya başlayacaktır. Hükümet yetkilileri peşine düşer ve artık olağan üstü güçlerini tanımaya başlayacaktır.
 
 
-## 61- Billions
+## Billions
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Billions]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-billions.jpg){: .align-center}{:id="61_Billions"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Billions]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-billions.jpg){: .align-center}{:id="Billions"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt4270492/?ref_=nv_sr_2){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=_raEUMLL-ZI){:target="_blank"}{:rel="nofollow"}***
 
@@ -608,10 +608,10 @@ En iyi yabancı diziler listemize Legion u ekleyebiliriz. Dizinin konusu, ana ka
 Amerika’nın en önemli ve ünlü avukatlarından biri olan Chuck Rhoades kariyerinin en parlak dönemini geçirmektedir. Dünyaca ünlü bir mirasyedinin avukatlığını yapması hayatının en büyük yanlış kararı olacaktır. Müvekkilinin yaptığı kötülükleri engellemek için işi kabul eden Chuck Rhoades engellemede başarısız olacaktır. Chuck için hayat bu saatten sonra çok daha zorlu ve macera dolu bir hale gelecektir. En iyi yabancı diziler listesine ekleyebilirsiniz.
 
 
-## 60- The Good Doctor
+## The Good Doctor
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Good Doctor]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-good-doctor.jpg){: .align-center}{:id="60_The_Good_Doctor"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Good Doctor]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-good-doctor.jpg){: .align-center}{:id="The_Good_Doctor"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt4270492/?ref_=nv_sr_2){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=fYlZDTru55g){:target="_blank"}{:rel="nofollow"}***
 
@@ -622,10 +622,10 @@ Amerika’nın en önemli ve ünlü avukatlarından biri olan Chuck Rhoades kari
 Dizi Otizm ve Savant sendromu olan bir cerrahın çalıştığı hastanede yaşadıklarını konu alıyor. En popüler yabancı diziler listenize ekleyebilirsiniz. 
 
 
-## 59- The Walking Dead
+## The Walking Dead
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Walking Dead]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-walking-dead.jpg){: .align-center}{:id="59_The_Walking_Dead"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Walking Dead]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-walking-dead.jpg){: .align-center}{:id="The_Walking_Dead"}
 
 ***IMDB Puanı : [8.4](http://www.imdb.com/title/tt1520211/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=sfAc2U20uyg){:target="_blank"}{:rel="nofollow"}***
 
@@ -636,10 +636,10 @@ Dizi Otizm ve Savant sendromu olan bir cerrahın çalıştığı hastanede yaşa
 En iyi ve en popüler yabancı diziler listenize eklemeniz gereken yabancı dizilerden biride The Walking Death dır. Dünya üzerinde bir salgın sonrasında ölülerin ayaklanıp canlıları yemeleriyle başlayan dizide başroldeki kahramanların zombilere rağmen hayatta kalmaya çalışmalarını konu alıyor. Dizinin ilerleyen bölümlerinde yaşayan insan gruplarının zombilerden daha tehlikeli olabileceklerini göreceksiniz. En iyi dizi listenizde yer alması gereken bir yapıttır.
 
 
-## 58- Supernatural
+## Supernatural
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Supernatural]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-supernatural.jpg){: .align-center}{:id="58_Supernatural"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Supernatural]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-supernatural.jpg){: .align-center}{:id="Supernatural"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt0460681/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=EK90spmuAUE){:target="_blank"}{:rel="nofollow"}***
 
@@ -650,10 +650,10 @@ En iyi ve en popüler yabancı diziler listenize eklemeniz gereken yabancı dizi
 Dizi konusu : Dean Winchester ve Sam Winchester kardeşlerin insanların gerçekte var olmadığını zannettiği birçok tür yaratık, hayalet, şeytan vb. varlığın avcılığını yaptıkları ve bu maceraları sırasında yaşadıklarını anlatır. 
 
 
-## 57- Carnivale
+## Carnivale
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Carnivale]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-carnivale.jpg){: .align-center}{:id="57_Carnivale"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Carnivale]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-carnivale.jpg){: .align-center}{:id="Carnivale"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt0460681/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=EK90spmuAUE){:target="_blank"}{:rel="nofollow"}***
 
@@ -664,10 +664,10 @@ Dizi konusu : Dean Winchester ve Sam Winchester kardeşlerin insanların gerçek
 Hikaye, 1930’lu yıllar boyunca tüm dünyada sürmüş olan ekonomik buhran ve büyük kuraklık dönemlerinde geçmektedir. 1934 yılında başlayan hikayemiz, gezici bir karnaval çalışanı Ben Hawkins ile California’da rahiplik yapan Justin Crow’un hikayesini anlatan iki ayrı konu barındırır. Bu iki karakter, birbirine benzer, gizemli ve şifreli rüyalar görmektedirler. Daha sonra tahmin edileceği üzere iki karakterin kaderleri kesişecektir. En iyi yabancı diziler listesine ekleyebileceğiniz bir yapıttır.
 
 
-## 56- Ash vs Evil Dead
+## Ash vs Evil Dead
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Ash vs Evil Dead]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-ash-vs-evil-dead.jpg){: .align-center}{:id="56_Ash_vs_Evil_Dead"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Ash vs Evil Dead]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-ash-vs-evil-dead.jpg){: .align-center}{:id="Ash_vs_Evil_Dead"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt4189022/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=-Yq3jeOmxSk){:target="_blank"}{:rel="nofollow"}***
 
@@ -679,10 +679,10 @@ En iyi yabancı diziler sıralamasına Ash vs Evil Dead 80’lerin korku filmi s
 
 {% include advertisements-word.html %}
 
-## 55- Luther
+## Luther
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Luther]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-luther.jpg){: .align-center}{:id="55_Luther"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Luther]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-luther.jpg){: .align-center}{:id="Luther"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt1474684/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=vTZvxT03y1U){:target="_blank"}{:rel="nofollow"}***
 
@@ -693,10 +693,10 @@ En iyi yabancı diziler sıralamasına Ash vs Evil Dead 80’lerin korku filmi s
 En popüler diziler sıralamasına ekleyeceğimiz suç,dram, gizem kategorisindeki Luther’i inceleyelim. Ana karakter John Luther, başarılı ve idealist bir dedektiftir. Ancak Luther, dürtülerine yenik düşerek bir hata yapar ve 7 ay gibi bir süre görevinden uzaklaştırılır. İşine döndüğünde ise hiçbir şey eskisi gibi olmayacaktır.
 
 
-## 54- Outlander
+## Outlander
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Outlander]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-outlander.jpg){: .align-center}{:id="54_Outlander"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Outlander]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-outlander.jpg){: .align-center}{:id="Outlander"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt3006802/?ref_=nv_sr_5){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=PFFKjptRr7Y){:target="_blank"}{:rel="nofollow"}***
 
@@ -707,10 +707,10 @@ En popüler diziler sıralamasına ekleyeceğimiz suç,dram, gizem kategorisinde
 Dizinin kahramanı Claire kocası Frank ile birlikte 1945 yılında İskoçyanın Inverness şehrini ziyaret ederken yüzyıllar öncesi zamana dönüyor. O dönemde kocası  asker Jonathan olarak karşısına çıkar. Jonathan’ın saldırısından İskoç Jamie Fraser tarafından kurtarılır. Claire daha sonra Jonathan’ın aslında kocası Frank’ın atalarından olduğunu anlar. Leoch Şatosunda şifacı olarak yer edinir ama kendi zamanına da dönememektedir. Claire ve Jamie zamanla yakınlaşır ve evlenir. Claire Jamie’ye aşıktır ama yine de Frank’ı düşünerek suçluluk hissetmektedir. Bu arada 1945 yılında Frank artık Claire’den ümidi kesmiştir. Ancak olaylar hiç kimsenin sandığı gibi gelişmeyecektir. The Outlander en iyi yabancı diziler listemize ekleyebiliriz.
 
 
-## 53- Modern Family
+## Modern Family
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Modern Family]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-modern_family.jpg){: .align-center}{:id="53_Modern_Family"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Modern Family]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-modern_family.jpg){: .align-center}{:id="Modern_Family"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt1442437/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=U7dLXjZfXV8){:target="_blank"}{:rel="nofollow"}***
 
@@ -721,10 +721,10 @@ Dizinin kahramanı Claire kocası Frank ile birlikte 1945 yılında İskoçyanı
 En popüler yabancı diziler listemize kaldığımız yerden devam ediyoruz. Modern Family 3 akraba ailenin ilişkilerini bize belgesel tadında aktarıyor. Ailelerden biri Vietnamlı bir çocuğu evlat edinmiş gay bir çift. Bu enteresan ailelerin komedi türündeki hikayelerini aktaran Modern Family IMDB puanı 8.5 olarak karşımıza çıkıyor. En popüler yabancı diziler listenize bu aile komedi türündeki diziyi ekleyebilirsiniz.
 
 
-## 52- Unsere Mütter, unsere Väter
+## Unsere Mütter, unsere Väter
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Unsere Mütter, unsere Väter]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-unsere-mutter-unsere-vater.jpg){: .align-center}{:id="52_Unsere_Mutter_unsere_Vater"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Unsere Mütter, unsere Väter]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-unsere-mutter-unsere-vater.jpg){: .align-center}{:id="Unsere_Mutter_unsere_Vater"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt1883092/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=TmyGPX23px4){:target="_blank"}{:rel="nofollow"}***
 
@@ -739,10 +739,10 @@ Greta hayalleri olan yetenekli bir şarkıcıyken, Yahudi erkek arkadaşı Vikto
 Milyonlarca kişi onlar gibi kahraman olmak istemiştir ama hiçbiri savaşın onlara neler yapabileceğini düşünmemiştir.
 
 
-## 51- Twin Peaks
+## Twin Peaks
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Twin Peaks]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-twin-peaks.jpg){: .align-center}{:id="51_Twin_Peaks"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Twin Peaks]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-twin-peaks.jpg){: .align-center}{:id="Twin_Peaks"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt4093826/?ref_=nv_sr_2){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=nNHsA4WIFvc){:target="_blank"}{:rel="nofollow"}***
 
@@ -753,10 +753,10 @@ Milyonlarca kişi onlar gibi kahraman olmak istemiştir ama hiçbiri savaşın o
 Twin Peaks, Laura Palmer isimli genç bir kızın öldürülmesi sonrası gelişen olayları konu alır. FBI, bu cinayeti araştırması için Dale Cooper isimli bir Ajanını Twin Peaks isimli kasabaya gönderir. Küçük ve neredeyse herkesin birbirini tanıdığı bu kasaba, içerisine girdikçe daha da komplike bir hâle bürünmektedir. Kasabadaki en masum görünümlü insanların bile birçok sırrı vardır ve bu sırların açığa çıkmaması için her şeyi yapacaklardır… FBI ajanının ve Laura Palmer’ın katilinin bulunmasını isteyenlerin işi çok zordur… En popüler yabancı dizi listesine ekleyebilirsiniz.
 
 
-## 50- Utopia
+## Utopia
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Utopia]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-utopia.jpg){: .align-center}{:id="50_Utopia"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Utopia]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-utopia.jpg){: .align-center}{:id="Utopia"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt2384811/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=nz22hgHCCZM){:target="_blank"}{:rel="nofollow"}***
 
@@ -767,10 +767,10 @@ Twin Peaks, Laura Palmer isimli genç bir kızın öldürülmesi sonrası geliş
 Düşünün ki yaşanmış felaketleri önceden bilen bir şeye sahipsiniz. Neler yaşardınız. İşte en iyi yabancı diziler listemize ekleyeceğimiz Utopia tam da yaşayacaklarınızı anlatıyor.Birbiriyle alakasız bir grup insan, internetteki çizgi roman forumlarının birinde tanışır. Grup; Utopia adında, keşfedilmemiş bir çizgi roman taslağı bulur. Çok geçmeden fark ederler ki, bu çizgi roman, son yüzyılda yaşanmış felaketleri önceden bilmektedir. Olaylar giderek karışacak ve kahramanlarımız kendilerini adı The Network olarak bilinen bir organizasyonun hedefi olarak bulacaklardır.
 
 
-## 49- Taboo
+## Taboo
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Taboo]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-taboo.jpg){: .align-center}{:id="49_Taboo"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Taboo]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-taboo.jpg){: .align-center}{:id="Taboo"}
 
 ***IMDB Puanı : [8.5](http://www.imdb.com/title/tt3647998/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=6ZYAQSlIhM4){:target="_blank"}{:rel="nofollow"}***
 
@@ -781,10 +781,10 @@ Düşünün ki yaşanmış felaketleri önceden bilen bir şeye sahipsiniz. Nele
 James Delaney (Tom Hardy), annesinin mensup olduğu bir Afrika kabilesinde geçirdiği on yıllık sürenin ardından, babasının ölümü ile memleketi İngiltere’ye geri döner.  Bu sırada, dönemin meşhur ve çok tehlikeli Doğu Hindistan Şirketi’nin göz koyduğu kritik bir arazinin, babası tarafından sadece oğlu James’e bırakıldığı ortaya çıkar. Bu işe dünden razı olan ve şirket ile pazarlıklarda sona yaklaşan James’in üvey kız kardeşi ve onun kocasının hain planları bir anda suya düşer. İngiltere’de ortalık karışmaya başlayacaktır.
 
 
-## 48- Justified
+## Justified
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Justified]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-justified.jpg){: .align-center}{:id="48_Justified"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Justified]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-justified.jpg){: .align-center}{:id="Justified"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt1489428/?ref_=fn_al_tt_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=0UZlz8J4iGk){:target="_blank"}{:rel="nofollow"}***
 
@@ -795,10 +795,10 @@ James Delaney (Tom Hardy), annesinin mensup olduğu bir Afrika kabilesinde geçi
 Justified konusu Kansas’ın bir kasabası olan Harlan’da geçiyor. Burada Federal Şerif görevini üstlenen Raylan Givens olayların merkezinde yer alan isim. Raylan Givens aslında Mimai’de görev yapmakta olan bir isimdir. Önemli bir görev sırasında halkın yoğun olduğu bir sırada kendini korumak için bir suçluyu öldürür. Bu durum da büyük tepki çeker ve Raylan hakkında soruşturma açılmasına karar verir. Basın da işin içine girince patronu Raylan’ı ortalık yatışıncaya kadar Harlan’a gönderir. Bu kırsal kesinde görevine başlayan Raylan, suçluları eski usullere göre yakalamasıyla ün salacaktır. Suçluların üzerine kararlı şekilde giden Raylan’ın yaşadıkları izleyenleri adeta ekrana kilitlemektedir.
 
 
-## 47- Boardwalk Empire
+## Boardwalk Empire
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Boardwalk Empire]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-board-empire.jpg){: .align-center}{:id="47_Boardwalk_Empire"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Boardwalk Empire]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-board-empire.jpg){: .align-center}{:id="Boardwalk_Empire"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt0979432/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=e6z71l6HQwQ){:target="_blank"}{:rel="nofollow"}***
 
@@ -809,10 +809,10 @@ Justified konusu Kansas’ın bir kasabası olan Harlan’da geçiyor. Burada Fe
 Boardwalk Empire, 1920-1933 yılları arasında ABD'de tüketime yönelik içki satışının, üretiminin ve dağıtımının yasak olduğu "İçki Yasağı Yasası" döneminde gangsterler ve politikacılar arasındaki karmaşık ilişkileri konu almaktadır.
 
 
-## 46- The Night Of
+## The Night Of
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Night Of]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-night.jpg){: .align-center}{:id="46_The_Night_Of"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Night Of]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-night.jpg){: .align-center}{:id="The_Night_Of"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt2401256/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=556N5vojtp0){:target="_blank"}{:rel="nofollow"}***
 
@@ -824,10 +824,10 @@ Amerika Birleşik Devletlerinde doğup büyüyen Pakistan asıllı Nasir Khan, b
 
 {% include advertisements-word.html %}
 
-## 45- Atlanta
+## Atlanta
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Atlanta]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-atlanta.jpg){: .align-center}{:id="45_Atlanta"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Atlanta]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-atlanta.jpg){: .align-center}{:id="Atlanta"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt4288182/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=MpEdJ-mmTlY){:target="_blank"}{:rel="nofollow"}***
 
@@ -838,10 +838,10 @@ Amerika Birleşik Devletlerinde doğup büyüyen Pakistan asıllı Nasir Khan, b
 Atlanta konusu; 20’li yaşlarının ortasına gelmiş ve tabiri caizse bir baltaya sap olamamış olan iki kuzen, Earnest ve Alfred, hayatlarına yeni bir yol çizmenin eşiğindedir. Eğitim gördükleri Princeton Üniversitesi’nden atılan, parasız ve evsiz kalan, ailesinin ve sevgilisinin gözünden tamamıyla düşmüş olan karakterler, ya ailelerinin yanında kalmak ya da hayatlarına sıfırdan başlamak şeklinde iki seçeneğe sahiptirler. Rap dünyasına fazlasıyla merak salan ve bu alanda ilerlemek isteyen kuzenler, soluğu rap dünyasının merkezi halinde olan Atlanta’da alırlar. Şehre gelmedeki ilk amaçları kendilerini geçindirmek ve ailelerine yardım etmek olan iki kuzen, Hem şehir yaşantısıyla, hem de rap dünyasıyla tanıştıktan sonra çeşitli bağlantıları da kullanarak birden yıldız haline gelirler. Kuzenlerin bu değişik hikayesi ise komik olduğu kadar garip ve eğlencelidir de.
 
 
-## 44- Spartacus
+## Spartacus
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Spartacus]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-spartacus.jpg){: .align-center}{:id="44_Spartacus"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Spartacus]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-spartacus.jpg){: .align-center}{:id="Spartacus"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt1442449/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=WSWtCLBrrAk){:target="_blank"}{:rel="nofollow"}***
 
@@ -854,10 +854,10 @@ Starz kanalı tarafından 2010 yılında yayınlanmaya başlayan bir Amerikan di
 Spartacus konusu; Trakya ve Roma arasında geçen bir çatışma sırasında esir düşen Spartacus’un eşi güzel Sura da Romalılar tarafından köle olarak satılmıştır. Özgür bir adam ve büyük bir savaşçı olan Spartacus kendini birden bire kendini bir arenada vahşi gladyatörlerle karşı karşıya bulan Spartacus, büyük aşkı Sura’yı kurtarmaya ve özgürlüğünü kazanmaya and içer.Capua şehrinde Batiatus hanesi tarafından satın alınan Spartacus, böylece tarihin gördüğü en büyük gladyatörlerden biri olma yolunda ilk adımı atacaktır. Gladyatör okulu olan ludos’ta yeni dostluklar kuran ve yeni düşmanlar edinen Spartacus’u bir köle olarak zorlu bir mücadele beklemektedir. Spartacus Blood and Sand özgürlüğünü kaybeden güçlü ve gururlu bir savaşçı olan Spartacus’un özgürlüğünü ve eşini kurtarmak için geçirdiği zorlu mücadelenin yanı sıra, Antik Roma’da kölelerin karşılaştığı zorlukları ve çektikleri acıları, aristokratların toplumsal basamakları atlamak için girdiği mücadeleleri anlatan yan hikayeleri ile izleyicinin ilgisini her daim ekranda tutmayı başarıyor. En iyi yabancı diziler listesine ekleyebilirsiniz.
 
 
-## 43- Silicon Valley
+## Silicon Valley
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Silicon Valley]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-silicon-valley.jpg){: .align-center}{:id="43_Silicon_Valley"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Silicon Valley]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-silicon-valley.jpg){: .align-center}{:id="Silicon_Valley"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt2575988/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=69V__a49xtw){:target="_blank"}{:rel="nofollow"}***
 
@@ -868,10 +868,10 @@ Spartacus konusu; Trakya ve Roma arasında geçen bir çatışma sırasında esi
 Silicon Valley. 1980′lerin sonunda Silikon Vadisi'nde çalışan bir bilgisayar programcısının yaşadıklarını konu edinecek dizinin merkezinde; içine kapalı, asosyal bilgisayar programcısı Richard ve onun beş arkadaşının öyküsü yer alacak. Her şey Richard’ın çok önemli bir algoritma bulması ile başlıyor. Peşine düşen büyük şirketler, fikirlerini çalmak isteyen firmalara rağmen Richard ve arkadaşları kendi şirketleri Pied Piper’ı kurar. Silicon Valley Dizisi, bu rekabetçi piyasada genç girişimcilerin hayatta kalma çabasını hem gerçekçi hem de eğlenceli bir açıdan anlatmaktadır.
 
 
-## 42- Suits
+## Suits
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Suits]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-suits.jpg){: .align-center}{:id="42_Suits"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Suits]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-suits.jpg){: .align-center}{:id="Suits"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt1632701/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=69V__a49xtw){:target="_blank"}{:rel="nofollow"}***
 
@@ -882,10 +882,10 @@ Silicon Valley. 1980′lerin sonunda Silikon Vadisi'nde çalışan bir bilgisaya
 En popüler yabancı diziler listemize Suits ile devam ediyoruz. Suits’i muhtemelen birçok kişi duymuştur. Suits dizisinde iki Mike Ross ve Harvey Specter isminde iki kahramanımız vardır. Mike Ross bir dahi olarak karşımıza çıkıyor. Eğitimini yarıda bırakmış ve çocukken birçok talihsiz olay yaşamıştır. Geçimini ise başkaları yerine LSAT sınavlarına girerek sağlamakta ve zor bir hayat yaşamaktadır. Harvey Specter ise, New York içerisinde yaşayan en başarılı avukatlardan birisidir. Çalıştığı şirkette mertebe yükselmesi yaşayınca kendisi için bir asistan arar ve şans eseri Mike ile tanışır. Mike’ın dahi olmasına ve zekasına hayran kalınca, kendisine asistanlık teklifini götürür. Ancak şirkette sadece Harvard mezunları olabildiği için, Mike’ı herkese oradan mezun olmuş gibi tanıtmaya karar verirler. Şirket içerisinde yaşanan birçok olay ve Mike’ın hayatına giren kadın ile birlikte olaylar gelişmeye başlar. En iyi yabancı diziler listesine ekleyebiliriz.
 
 
-## 41- Hannibal
+## Hannibal
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Hannibal]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-hannibal.jpg){: .align-center}{:id="41_Hannibal"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Hannibal]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-hannibal.jpg){: .align-center}{:id="Hannibal"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt2243973/){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=RuiklpUQ-p4){:target="_blank"}{:rel="nofollow"}***
 
@@ -899,10 +899,10 @@ Bir gün Hannibal Lecter’ın yolu FBI’da çalışan Will Graham ile kesişir
 
 Ancak Will Graham’ın aradığı son katil kendisini biraz zorlamıştır ve bu katili yakalamak için Hannibal Lecter’den yardım almaya karar verir ve ikisi birlikte çalışırlar. Ancak ileride çok garip gerçekler öğrenecektir Will Graham.
 
-## 40- Sons of Anarchy
+## Sons of Anarchy
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Sons of Anarchy]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-sons-of-anarchy.jpg){: .align-center}{:id="40_Sons_of_Anarchy"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Sons of Anarchy]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-sons-of-anarchy.jpg){: .align-center}{:id="Sons_of_Anarchy"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt1124373/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=_03DBXL3Srw){:target="_blank"}{:rel="nofollow"}***
 
@@ -913,10 +913,10 @@ Ancak Will Graham’ın aradığı son katil kendisini biraz zorlamıştır ve b
 Sons of anarchy konusu;  babası Clay Teller’ın ölümünün ardından kendini liderlik koltuğunda bulan Jax Teller’ın aile ve çete hayatını birlikte sürdürmeye çalışmasıdır. Çetedeki çeşitli karakterlerin liderlik çatışmaları ve çeşitli oyunları devreye girince işler motosikletli ekip işinden çıkmakta ve daha da büyümektedir. Zaman içinde kendini illegal işler içinde bulan çete, liderleri Jax’in isteğinin aksine bu yönde ilerlemeye devam eder ve kendini başta devlet güçleri, ITA ve çeşitli diğer mafya örgütleriyle çatışma içinde bulur. Zaman içinde çetenin çeşitli yönetim kadrolarındaki çeşitli üyeleri, işleri kendilerine özgü yollarla çözmeye çalışacaklardır ve bu işlerin biraz daha karışmasına sebep olacaktır.
 
 
-## 39- Mindhunter
+## Mindhunter
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Mindhunter]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-mind-hunter.jpg){: .align-center}{:id="39_Mindhunter"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Mindhunter]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-mind-hunter.jpg){: .align-center}{:id="Mindhunter"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt5290382/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=7gZCfRD_zWE){:target="_blank"}{:rel="nofollow"}***
 
@@ -927,10 +927,10 @@ Sons of anarchy konusu;  babası Clay Teller’ın ölümünün ardından kendin
 Mindhunter konusu, 1970’lerin sonunda FBI Ajanı Holden Ford arabulucukul görevi yapmaktaıdır. Ancak suçlu psikolojisini daha iyi anlamak istemesinden sonra olaylar Ford’un seri katillerin kapsına kadar gitmesine neden olacaktır. En iyi yabancı diziler listesine ekleyebilirsiniz.
 
 
-## 38- The Handmaid's Tale
+## The Handmaid's Tale
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Handmaid's Tale]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the_handmaids_tale.jpg){: .align-center}{:id="38_The_Handmaids_Tale"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Handmaid's Tale]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the_handmaids_tale.jpg){: .align-center}{:id="The_Handmaids_Tale"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt5834204/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=PJTonrzXTJs){:target="_blank"}{:rel="nofollow"}***
 
@@ -941,10 +941,10 @@ Mindhunter konusu, 1970’lerin sonunda FBI Ajanı Holden Ford arabulucukul gör
 The Handmaid’s Tale; kadınların neredeyse bütün haklarının elinden alındığı, sadece çocuk doğurmak ve hizmetçi olarak varlıklarını sürdürdükleri, erkeklerin egemen olduğu dindar bir kesim tarafından totaliter tarzda yönetilen bir ülkeyi anlatıyor. Dizi, distopik yapısıyla karanlık bir hikaye sunuyor.
 
 
-## 37- Vikings
+## Vikings
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Vikings]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-vikings.jpg){: .align-center}{:id="37_Vikings"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Vikings]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-vikings.jpg){: .align-center}{:id="Vikings"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt2306299/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=xdm7Z3TQhDg){:target="_blank"}{:rel="nofollow"}***
 
@@ -955,10 +955,10 @@ The Handmaid’s Tale; kadınların neredeyse bütün haklarının elinden alın
 Vikings konusu, basit bir çiftçilikten en büyük krallığa giden Ragnar’ ın hayatını anlatırken yaşadığı savaşları ve olaylara yer veriyor. Savaşta ölenlerin onurlu bir şekilde Valhala denilen ölümden sonraki tanrıların bulunduğu yere gideceklerine inanmaktadırlar. Savaşçıların ölüme karşı hiçbir korkusu bulunmamakta Valhala’ya ve tanrılarına öyle bağlılar ki ölüm onlar için basit bir olay gibi.
 
 
-## 36- Big Little Lies
+## Big Little Lies
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Big Little Lies]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-big-little-lies.jpg){: .align-center}{:id="36_Big_Little_Lies"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Big Little Lies]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-big-little-lies.jpg){: .align-center}{:id="Big_Little_Lies"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt3920596/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=7oiM_sDhkiY){:target="_blank"}{:rel="nofollow"}***
 
@@ -970,10 +970,10 @@ Big Little Lies’da; dışardan mükemmel hayatlara sahipmiş gibi gözüken ü
 
 {% include advertisements-word.html %}
 
-## 35- Mr.Robot
+## Mr.Robot
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Mr.Robot]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-mr-robot.jpg){: .align-center}{:id="35_Mr_Robot"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Mr.Robot]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-mr-robot.jpg){: .align-center}{:id="Mr_Robot"}
 
 ***IMDB Puanı : [8.6](http://www.imdb.com/title/tt4158110/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=xIBiJ_SzJTA){:target="_blank"}{:rel="nofollow"}***
 
@@ -984,10 +984,10 @@ Big Little Lies’da; dışardan mükemmel hayatlara sahipmiş gibi gözüken ü
 En iyi yabancı diziler listesine ekleyebileceğiniz Mr.Robot, gündüzleri genç bir siber güvenlik mühendisi ve geceleri hackerlık yapan bir siber korsan olan Elliot’un, yer altı hacker grubunun (fsociety) onunla irtibata geçmek için şirketininin sistemine zarar vermesi üzerine büyük bir karmaşıklığın içine girmesini konu alıyor.
 
 
-## 34- Better Call Saul
+## Better Call Saul
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Better Call Saul]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-better-call-saul.jpg){: .align-center}{:id="34_Better_Call_Saul"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Better Call Saul]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-better-call-saul.jpg){: .align-center}{:id="Better_Call_Saul"}
 
 ***IMDB Puanı : [8.7](http://www.imdb.com/title/tt3032476/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=HN4oydykJFc){:target="_blank"}{:rel="nofollow"}***
 
@@ -998,10 +998,10 @@ En iyi yabancı diziler listesine ekleyebileceğiniz Mr.Robot, gündüzleri gen�
 En iyi yabancı dizi önerileri listesinde tüm zamanların en iyi dizileri arasında yer alan, en az breaking bad kadar iyi olduğu düşünülen bir diğer yapım ise Better Call Saul.Better Call Saul breaking bad dizisinde avukat rolunü oynayan Saul Goodman’ın Breaking Bad’den önceki hayatını işliyor. En popüler diziler arasına Breaking Bad ile birlikte eklenebilir.
 
 
-## 33- Daredevil
+## Daredevil
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Daredevil]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-daredevil.jpg){: .align-center}{:id="33_Daredevil"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Daredevil]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-daredevil.jpg){: .align-center}{:id="Daredevil"}
 
 ***IMDB Puanı : [8.7](http://www.imdb.com/title/tt3322312/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=jAy6NJ_D5vU){:target="_blank"}{:rel="nofollow"}***
 
@@ -1012,10 +1012,10 @@ En iyi yabancı dizi önerileri listesinde tüm zamanların en iyi dizileri aras
 Daredevil hikyayesi New York’un Hell’s Kitchen bölgesinde geçiyor. Matt Murdock 9 yaşında radyoaktif bir kaza geçirir ve gözlerine radyoaktif bir madde dökülür. Geçirdiği kaza görme duyusunu kaybetmesine neden olur. Ancak hala etrafındaki her şeyin şeklini ve yerini rahatça tespit edebilmektedir. Başına gelen bu kaza diğer 4 duyusunun daha hassas ve güçlü olmasına neden olmuştur. Matt’in eski boksör olan babası, oğlunun başına gelen bu kazadan dolayı kendini suçlamaktadır. Bu sebepten işini bırakır ve kendini yeniden boksa verir. Yaptığı bir dövüş esnasında, kendine söyleneni yapmadığı için öldürülür. Artık Matt’in baş düşmanı, babasının ölümüne sebep olan Kingpin’dir. Bunun üzerine babasının intikamını almak isteyen Daredevil (Matt Murdock), gündüzleri avukat olarak adalet dağıtırken, geceleri ise Daredevil olarak Hell’s Kitchen’da adaleti sağlamaya başlar. Kingpin’in aşkı, yaşamı ve Hell’s Kitchen üzerinde kurmak istediği egemenlik, Daredevil’in ortaya çıkmasıyla bozulacaktır.
 
 
-## 32- Shameless
+## Shameless
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Shameless]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-shameless.jpg){: .align-center}{:id="32_Shameless"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Shameless]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-shameless.jpg){: .align-center}{:id="Shameless"}
 
 ***IMDB Puanı : [8.7](http://www.imdb.com/title/tt1586680/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=ITsirWLf-W8){:target="_blank"}{:rel="nofollow"}***
 
@@ -1026,10 +1026,10 @@ Daredevil hikyayesi New York’un Hell’s Kitchen bölgesinde geçiyor. Matt Mu
 Shameless bir aile babası ve 6 çocuğun maceraları konu ediyor. Aile babası Frank Gallagher alkolden kendini alamayan utanmaz bir adamın tekidir. Evin çocuklarından en büyüğü ise kardeşlerini okutma ve evi geçindirme derdiyle boğuşmaktadır. Gallagher ailesinin başına dizide çoğu zaman eğlenceli olaylar gelecek, bazen ise gerçekten dramatik olaylar gelecektir. Ancak Gallagher  ailesi her zaman bu sıkıntılarla baş etmeyi bilecektir.
 
 
-## 31- Gomorra: La serie
+## Gomorra: La serie
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Gomorra: La serie]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-gomorra-la-serie.jpg){: .align-center}{:id="31_Gomorra_La_serie"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Gomorra: La serie]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-gomorra-la-serie.jpg){: .align-center}{:id="Gomorra_La_serie"}
 
 ***IMDB Puanı : [8.7](http://www.imdb.com/title/tt2049116/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=-4QORgagblU){:target="_blank"}{:rel="nofollow"}***
 
@@ -1039,10 +1039,10 @@ Shameless bir aile babası ve 6 çocuğun maceraları konu ediyor. Aile babası 
 
 En iyi yabancı diziler listesine ekleyebileceğiniz Gomorra bir İtalyan suç dramasıdır. Roberto Saviano’nun Gomorra kitabından uyarlanan Gomorra La Serie konusunu inceleyelim. 19. Yüzyılda Napoli ve Naopilten topluluklarının oluşturduğu suç örgütü olan Camorra klanına bağlı Napolideki en güçlü ailesi olan Savastano ailesinin reisi Don Pietro nun kurduğu bu suç örgütünün olaylarını konu alıyor. Uyuşturucu satışı başta olmak üzere her türlü yasa dışı suç ailenin kontrolündedir. Fakat Don Pietro’nun yaşlandığı, gücünün artık azaldığı düşünmesinden sonra ailenin yeniden varolma çabasını izleyeceksiniz. 
 
-## 30- The Punisher
+## The Punisher
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Punisher]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-punisher.jpg){: .align-center}{:id="30_The_Punisher"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Punisher]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-punisher.jpg){: .align-center}{:id="The_Punisher"}
 
 ***IMDB Puanı : [8.7](http://www.imdb.com/title/tt5675620/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=lIY6zFL95hE){:target="_blank"}{:rel="nofollow"}***
 
@@ -1053,10 +1053,10 @@ En iyi yabancı diziler listesine ekleyebileceğiniz Gomorra bir İtalyan suç d
 Marvel ve Netflix in projesi The Punisher Marvel karakterinin uyarlaması olarak karşımıza çıkıyor.  The Punisher kimliğini karısının ve çocuklarının öldürülmesinden sonra intikamını alarak bir kenara bırakan Frank Castle yanlız hayatına devam etmektedir. Gözlerden uzak bir şekilde yaşamına devam eden Frank geçmişinde yaşadığı bir olay nedeniyle tekrar ortaya çıkmak zorunda kalır. Yıllar önce aldığı intikama aslında yeni başlayacağını öğrenecektir. En iyi yabancı diziler listenize eklemenizi tavsiye ederim.
 
 
-## 29- Dexter
+## Dexter
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Dexter]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-dexter.jpg){: .align-center}{:id="29_Dexter"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Dexter]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-dexter.jpg){: .align-center}{:id="Dexter"}
 
 ***IMDB Puanı : [8.7](http://www.imdb.com/title/tt0773262/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=YQeUmSD1c3g){:target="_blank"}{:rel="nofollow"}***
 
@@ -1067,10 +1067,10 @@ Marvel ve Netflix in projesi The Punisher Marvel karakterinin uyarlaması olarak
 Miami Metro Polis Departmanı’nda kan analizcisi görevinde çalışan Dexter Morgan, normal ve herkesin bildiği hayatının dışında farklı bir hayatıda yaşamaktadır. Aslında bir seri katil olan Dexter’ın çözülemeyen cinayetlerini konu alan Dexter en iyi yabancı diziler listesine kesinlikle eklenmesi gerekiyor. 
 
 
-## 28- The Crown
+## The Crown
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Crown]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-crown.jpg){: .align-center}{:id="28_The_Crown"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Crown]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-crown.jpg){: .align-center}{:id="The_Crown"}
 
 ***IMDB Puanı : [8.7](http://www.imdb.com/title/tt4786824/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=JWtnJjn6ng0){:target="_blank"}{:rel="nofollow"}***
 
@@ -1080,10 +1080,10 @@ Miami Metro Polis Departmanı’nda kan analizcisi görevinde çalışan Dexter 
 
 Netflixin projelerinden birtaneside 1947 yılında savaştan yeni çıkan İngiltere'de II. Elizabeth in gençlik yıllarını Buckingam Sarayında yaşanan siyasi olayları ve entrikaları çarpıcı şekilde işleyen The Crown en iyi yabancı diziler listesine IMDB den yüksek puan almasıyla eklenmesi gerektiğini gösteriyor. 
 
-## 27- Deadwood
+## Deadwood
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Crown]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-deadwood.jpg){: .align-center}{:id="27_Deadwood"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Crown]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-deadwood.jpg){: .align-center}{:id="Deadwood"}
 
 ***IMDB Puanı : [8.7](http://www.imdb.com/title/tt0348914/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=mFIojradr4Y){:target="_blank"}{:rel="nofollow"}***
 
@@ -1093,10 +1093,10 @@ Netflixin projelerinden birtaneside 1947 yılında savaştan yeni çıkan İngil
 
 1870 yıllarında Amerika'nın Güney Dakota bölgesinde küçük bir altın madenin gelişerek büyük bir komplekse dönüşmesini ve Amerika'daki doğu ve batı sermayesi ile kapitalizme değinilen örneklerle Western türündeki Deadwood en iyi yabancı diziler listesine aldığı puanla girebileceğini göstermiştir. 
 
-## 26- The Terror
+## The Terror
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Terror]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-terror.jpg){: .align-center}{:id="26_The_Terror"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Terror]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-terror.jpg){: .align-center}{:id="The_Terror"}
 
 ***IMDB Puanı : [8.7](http://www.imdb.com/title/tt2708480/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=rnN7Aad3c7A){:target="_blank"}{:rel="nofollow"}***
 
@@ -1108,10 +1108,10 @@ The Terror 1845 yılında Sir John Franklin komutasında Arktik’i geçmeye ça
 
 {% include advertisements-word.html %}
 
-## 25- Attack on Titan
+## Attack on Titan
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Attack on Titan]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-attack-on-titan.jpg){: .align-center}{:id="25_Attack_on_Titan"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Attack on Titan]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-attack-on-titan.jpg){: .align-center}{:id="Attack_on_Titan"}
 
 ***IMDB Puanı : [8.8](http://www.imdb.com/title/tt2560140/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=MGRm4IzK1SQ){:target="_blank"}{:rel="nofollow"}***
 
@@ -1122,10 +1122,10 @@ The Terror 1845 yılında Sir John Franklin komutasında Arktik’i geçmeye ça
 En iyi yabancı diziler listesine ekleyebileceğiniz bir anime serisi Attack on Titanın konusuna bakıcak olursak, Yüzyıllar önce insanlık, en büyük avcısıyla tanışmış; nereden geldikleri bilinmeyen devler tarafından saldırılara uğrayarak yok olmanın eşiğine gelmiştir. Bu katliamdan da sadece kendilerini yüksek duvarların ardına hapsederek dışarıdaki devlerden korunabilen az bir nüfus kurtulmuştur. Yüz yıl bu şekilde yaşadıktan sonra duvarları yıkıp insanları yok etmeye çalışan bir dev ortaya çıkar.
 
 
-## 24- The Office
+## The Office
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Office]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-office.jpg){: .align-center}{:id="24_The_Office"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Office]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-office.jpg){: .align-center}{:id="The_Office"}
 
 ***IMDB Puanı : [8.8](http://www.imdb.com/title/tt0386676/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=sMXpGBiC6xo){:target="_blank"}{:rel="nofollow"}***
 
@@ -1136,10 +1136,10 @@ En iyi yabancı diziler listesine ekleyebileceğiniz bir anime serisi Attack on 
 Amerika’da bir kağıt şirketi olan Mifflin’in Scraton şubesindeki ofisinde gerçekleşen olaylar mizahi yönü ile diziye aktarılmış. Dizide ofis müdürü Michael Scott ve elemanlarının yaşadıkları olaylar anlatılmaktadır.
 
 
-## 23- House
+## House
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - House]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-house.jpg){: .align-center}{:id="23_House"}
+![En İyi Yabancı Diziler - İngilizce Diziler - House]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-house.jpg){: .align-center}{:id="House"}
 
 ***IMDB Puanı : [8.8](http://www.imdb.com/title/tt0412142/?ref_=nv_sr_2){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=ULwUzF1q5w4){:target="_blank"}{:rel="nofollow"}***
 
@@ -1150,10 +1150,10 @@ Amerika’da bir kağıt şirketi olan Mifflin’in Scraton şubesindeki ofisind
 New Jersey eyaletindeki bir hastanede bulaşıcı hastalıklar bölümünde Gregory House ve üç kişilik ekibinin başından geçenler anlatılıyor. Gregory House başarılı operasyonlar yürütmesine rağmen fazla risk aldığından dolayı hastane yönetimi tarafından hastaneden kovuluyor. Başka hastanelerde aşırı risk almasından dolayı işe almak istemezler. En iyi diziler listesine 8.8 puanlık House eklenebilir.
 
 
-## 22- Peaky Blinders
+## Peaky Blinders
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Peaky Blinders]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-peaky-blinders.jpg){: .align-center}{:id="22_Peaky_Blinders"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Peaky Blinders]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-peaky-blinders.jpg){: .align-center}{:id="Peaky_Blinders"}
 
 ***IMDB Puanı : [8.8](http://www.imdb.com/title/tt2442560/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=ULwUzF1q5w4){:target="_blank"}{:rel="nofollow"}***
 
@@ -1163,10 +1163,10 @@ New Jersey eyaletindeki bir hastanede bulaşıcı hastalıklar bölümünde Greg
 
 En iyi yabancı diziler listesine ekleyeceğimiz Peaky Blinders konusu, Shelby ailesine bağlı Peaky Blinders çetesi şehirde soygunculuk ve at yarışı bahisleri yöneten zamanın en acımasız çetesidir. Tüm işlerin yolunda gitmesini sağlamak için şehirdeki birçok polisi rüşvet ağına bağlamışlar Herşey yolunda giderken yanlış bir soygun ile şehre tüm işleri mahvedek yeni bir müfettiş atanır.
 
-## 21- The is US
+## The is US
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The is US]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-is-us.jpg){: .align-center}{:id="21_The_is_US"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The is US]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-is-us.jpg){: .align-center}{:id="The_is_US"}
 
 ***IMDB Puanı : [8.8](http://www.imdb.com/title/tt5555260/?ref_=nv_sr_3){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=hljQfJLQmaI){:target="_blank"}{:rel="nofollow"}***
 
@@ -1176,10 +1176,10 @@ En iyi yabancı diziler listesine ekleyeceğimiz Peaky Blinders konusu, Shelby a
 
 Aynı tarihte dünyaya gelmiş 5 farklı kişinin hayatlarının kesit olarak işlendiği dizide günlük hayattaki yaşamlarının birbiriyle kesiştiğini göreceğiz.  Aile türündeki dizi en iyi yabancı diziler listesine 8.8 IMDB puanıyla girmeyi hakediyor.
 
-## 20- Oz
+## Oz
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Oz]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-oz.jpg){: .align-center}{:id="20_Oz"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Oz]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-oz.jpg){: .align-center}{:id="Oz"}
 
 ***IMDB Puanı : [8.8](http://www.imdb.com/title/tt0118421/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=fxGJyYb9_po){:target="_blank"}{:rel="nofollow"}***
 
@@ -1190,10 +1190,10 @@ Aynı tarihte dünyaya gelmiş 5 farklı kişinin hayatlarının kesit olarak i�
 En iyi yabancı diziler listesine bir hapishane dizisini ekleyebiliriz. Hapishane de yer alan mahkumlar arasında yaşanan güç savaşı, çeteleşme, rüşvet, uyuşturucu, kumar ve sex olaylarının gardiyanlar ile mahkumların çıkar ilişkilerini çok çarpıcı bir şekilde gözler önüne seriyor. Hapisanede çıkan isyanlar sonrasında gardiyanlar ve yönetimin işleri yeniden düzene sokmak için gösterdikleri gayreti göreceksiniz.
 
 
-## 19- Rome
+## Rome
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Rome]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-rome.jpg){: .align-center}{:id="19_Rome"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Rome]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-rome.jpg){: .align-center}{:id="Rome"}
 
 ***IMDB Puanı : [8.8](http://www.imdb.com/title/tt0384766/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=rtUQqiIa0oI){:target="_blank"}{:rel="nofollow"}***
 
@@ -1204,10 +1204,10 @@ En iyi yabancı diziler listesine bir hapishane dizisini ekleyebiliriz. Hapishan
 En iyi yabancı diziler listesine bir hapishane dizisini ekleyebiliriz. Hapishane de yer alan mahkumlar arasında yaşanan güç savaşı, çeteleşme, rüşvet, uyuşturucu, kumar ve sex olaylarının gardiyanlar ile mahkumların çıkar ilişkilerini çok çarpıcı bir şekilde gözler önüne seriyor. Hapisanede çıkan isyanlar sonrasında gardiyanlar ve yönetimin işleri yeniden düzene sokmak için gösterdikleri gayreti göreceksiniz.
 
 
-## 18- La casa de papel
+## La casa de papel
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - La casa de papel]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-la-casa-de-papel.jpg){: .align-center}{:id="18_La_casa_de_papel"}
+![En İyi Yabancı Diziler - İngilizce Diziler - La casa de papel]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-la-casa-de-papel.jpg){: .align-center}{:id="La_casa_de_papel"}
 
 ***IMDB Puanı : [8.8](http://www.imdb.com/title/tt6468322/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=ZwUor3KTgUc){:target="_blank"}{:rel="nofollow"}***
 
@@ -1218,10 +1218,10 @@ En iyi yabancı diziler listesine bir hapishane dizisini ekleyebiliriz. Hapishan
 2017 yılına damgasını vuran La casa de papel en iyi yabancı diziler arasında yerini buldu. La casa de papel konusunu inceleyelim; Profesör lakaplı takım liderinin birbirinden farklı suçlara bulaşmış ekibi bir araya getirip alışılmışın dışında tarihe geçebilecek bir soygun planlamaktadır.Profesör, İspanya merkez bankasını yani ispanya darphanesini soymak istemektedir. Kurgu olarak güzel ancak bazı olaylarda saçmaladıklarını düşündüğüm La casa de papel izleyicisinden iyi not alara en popüler yabancı diziler listesine eklenebilecek bir dizi.
 
 
-## 17- Seinfeld
+## Seinfeld
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Seinfeld]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-seinfeld.jpg){: .align-center}{:id="17_Seinfeld"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Seinfeld]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-seinfeld.jpg){: .align-center}{:id="Seinfeld"}
 
 ***IMDB Puanı : [8.9](http://www.imdb.com/title/tt0098904/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=PWBcd-Aq0D4){:target="_blank"}{:rel="nofollow"}***
 
@@ -1234,10 +1234,10 @@ En iyi yabancı diziler listesine dokuz sezon süren eski ve klasikleşmiş bir 
 Dizi, Jerry Seinfeld ve arkadaşları George Costanza, Elaine Benes ve Cosmo Kramer'ın günlük hayatta ki komik maceralarını konu alıyor. Komeden olan Jerry ve yalancı, her işi mahveden sürekli problemli biri olan George yakın arkadaştır. Zamanında Jerry ile çıkan ancak arkadaş olarak kalan diğer kahramanımız Elaine dürüstlüğü sayesinde başını bir türlü beladan kurtaramaz. Dizideki en abuk sabuk tip Jerry in komşusu Kremer dir. Çok sayıda Emmy ödülü alan Seinfeld kesinlikle listenize girmeye adaydır.
 
 
-## 16- Friends
+## Friends
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Friends]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-friends.jpg){: .align-center}{:id="16_Friends"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Friends]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-friends.jpg){: .align-center}{:id="Friends"}
 
 ***IMDB Puanı : [8.9](http://www.imdb.com/title/tt0108778/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=hDNNmeeJs1Q){:target="_blank"}{:rel="nofollow"}***
 
@@ -1249,10 +1249,10 @@ IMDB puanları yükseldikçe karşımıza eski diziler çıkmaya başladı. En i
 
 {% include advertisements-word.html %}
 
-## 15- Narcos
+## Narcos
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Narcos]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-narcos.jpg){: .align-center}{:id="15_Narcos"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Narcos]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-narcos.jpg){: .align-center}{:id="Narcos"}
 
 ***IMDB Puanı : [8.9](http://www.imdb.com/title/tt2707408/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=U7elNhHwgBU){:target="_blank"}{:rel="nofollow"}***
 
@@ -1263,10 +1263,10 @@ IMDB puanları yükseldikçe karşımıza eski diziler çıkmaya başladı. En i
 Narcos konusu; Çiftçi bir baba ve öğretmen bir annesi olan fakir bir ailede 6 kardeşi arasında dünyaya gelen Pablo Escobar en parlak çocuk olmasını çalışkanlığı ve zekiliğine borçluydu. Ancak çalışarak zengin olamayacağı fikrine kapılan Pablo Escobar araba ve karaborsa ürünlerle suç dünyasına adım atar. 1970 ‘li yıllarda uyuşturucu dünyasında Pablo Escobar güçlenerek bir uyuşturucu baronu olmaya başlar. En iyi yabancı diziler arasına mutlaka eklenmesi gereken bir suç dizisi Narcos.
 
 
-## 14- House of Cards
+## House of Cards
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - House of Cards]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-house-of-cards.jpg){: .align-center}{:id="14_House_of_Cards"}
+![En İyi Yabancı Diziler - İngilizce Diziler - House of Cards]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-house-of-cards.jpg){: .align-center}{:id="House_of_Cards"}
 
 ***IMDB Puanı : [8.9](http://www.imdb.com/title/tt1856010/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=ULwUzF1q5w4){:target="_blank"}{:rel="nofollow"}***
 
@@ -1277,10 +1277,10 @@ Narcos konusu; Çiftçi bir baba ve öğretmen bir annesi olan fakir bir ailede 
 House of Cards Amerika Dış İşleri Bakanı olarak atanmayı bekleyen fakat verdiği çabanın karşılığını alamayan Frank Underwood’un bu durum karşısında hayal kırıklığı yaşaması ve beklenmedik planlar içine girmesini konu alıyor.
 
 
-## 13- Westworld
+## Westworld
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Westworld]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-westworld.jpg){: .align-center}{:id="13_Westworld"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Westworld]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-westworld.jpg){: .align-center}{:id="Westworld"}
 
 ***IMDB Puanı : [8.9](http://www.imdb.com/title/tt0475784/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=IuS5huqOND4){:target="_blank"}{:rel="nofollow"}***
 
@@ -1291,10 +1291,10 @@ House of Cards Amerika Dış İşleri Bakanı olarak atanmayı bekleyen fakat ve
 En iyi yabancı dizilerden bir taneside 8.9 IMBD puanıyla Westworld. Yapay zekanın kontrolden çıkmasını Western temalı bir konuyla ele alıyor. Westworld konusu; Zengin müşterilerin oyunlar oynayabileceği yapay zekalarla donatılmış Westworld Park’ta işlerin kontrolden çıkmasıyla müşterilerin hedef konumuna gelmesini konu almaktadır. 
 
 
-## 12- Stranger Things
+## Stranger Things
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Stranger Things]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-stranger-things.jpg){: .align-center}{:id="12_Stranger_Things"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Stranger Things]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-stranger-things.jpg){: .align-center}{:id="Stranger_Things"}
 
 ***IMDB Puanı : [8.9](http://www.imdb.com/title/tt4574334/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=XWxyRG_tckY){:target="_blank"}{:rel="nofollow"}***
 
@@ -1305,10 +1305,10 @@ En iyi yabancı dizilerden bir taneside 8.9 IMBD puanıyla Westworld. Yapay zeka
 En iyi Netflix dizisi olduğu düşünülen Stranger Things Will isminde 12 yaşındaki bir kızın ortadan kaybolmasından sonra ortaya çıkan gizemli bir kızın yıllar önce Will gibi ortadan kaybolup yıllar sonra geri dönmesiyle Will’in bulunması için umut olacak iken devletin yaptırdığı gizli deneyler ile olağanüstü güçlerin ortaya çıkmasını konu alıyor.
 
 
-## 11- Black Mirror
+## Black Mirror
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Black Mirror]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-black-mirror.jpg){: .align-center}{:id="11_Black_Mirror"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Black Mirror]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-black-mirror.jpg){: .align-center}{:id="Black_Mirror"}
 
 ***IMDB Puanı : [8.9](http://www.imdb.com/title/tt2085059/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=5ELQ6u_5YYM){:target="_blank"}{:rel="nofollow"}***
 
@@ -1319,10 +1319,10 @@ En iyi Netflix dizisi olduğu düşünülen Stranger Things Will isminde 12 yaş
 Her bölümün birbirinden farklı konuların işlendiği Black Mirror en iyi yabancı diziler listesine 8.9 IMBD puanıyla giriyor. Tüm bölümlerde işlenen konuların farklı olmasının yanı sıra tek ortak noktası, hayatımızı kolaylaştıran yeni teknolojilerin bizi nasıl tutsak ettiği ve hayatımızı alt üst ettiiğini işlemektedir.
 
 
-## 10- Fargo
+## Fargo
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Fargo]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-fargo.jpg){: .align-center}{:id="10_Fargo"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Fargo]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-fargo.jpg){: .align-center}{:id="Fargo"}
 
 ***IMDB Puanı : [9.0](http://www.imdb.com/title/tt2802850/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=setgvHG3w48){:target="_blank"}{:rel="nofollow"}***
 
@@ -1334,10 +1334,10 @@ En iyi yabancı diziler listemizde IMDB puanı 9.0 ve üzerindeki dizilere sıra
 Fargo dizisi Coen Kardeşler‘in aynı Fargo filminden esinlenerek yaratılmıştır. Forgo konusu, Ana karakter olan Lester’in okuldayken kendisine zorbalık yapan Sam Hess ile tekrar karşılaşınca çıkan kavgada Lester yaralanır ve hastaneye gider ve Lorna ile karşılaşır. Lorna’dan Sam’i öldürmesini ister ve daha sonra olaylar karşışmaya başlar.
 
 
-## 9- True Detective
+## True Detective
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - True Detective]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-true-detective.jpg){: .align-center}{:id="9_True_Detective"}
+![En İyi Yabancı Diziler - İngilizce Diziler - True Detective]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-true-detective.jpg){: .align-center}{:id="True_Detective"}
 
 ***IMDB Puanı : [9.0](http://www.imdb.com/title/tt2356777/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=ahisFWxT2q4){:target="_blank"}{:rel="nofollow"}***
 
@@ -1348,10 +1348,10 @@ Fargo dizisi Coen Kardeşler‘in aynı Fargo filminden esinlenerek yaratılmı�
 IMDB puanı 9.0 olan ikinci en iyi yabancı dizi True Detective’dir. Konusu ; Cinayet masasında görevli iki dedektif yıllarca bir seri katili yakayamayıp emekli olduklarından sonra cinayet soruşturmasının yeniden açılmasıyla bu dedektiflerin sorgulanmaya başlamasıyla olaylar karışıyor. En popüler yabancı dizilerden True Detective’i izlenme listesine almanızı tavsiye ederim.
 
 
-## 8- The Mechanism
+## The Mechanism
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Mechanism]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-mechanism.jpg){: .align-center}{:id="8_The_Mechanism"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Mechanism]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-mechanism.jpg){: .align-center}{:id="The_Mechanism"}
 
 ***IMDB Puanı : [9.1](http://www.imdb.com/title/tt6873658/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=13OtvUxOcUU){:target="_blank"}{:rel="nofollow"}***
 
@@ -1361,10 +1361,10 @@ IMDB puanı 9.0 olan ikinci en iyi yabancı dizi True Detective’dir. Konusu ; 
 
 2018 yapımı Netflix projesi olan The Mechanism 9.1 IMBD puanıyla izleyicilerin beğenisini kazanmış gibi görünüyor. The Mechanism konusu, Brezilyada petrol ve inşaat şirketleri üzerinde kurulu kamu ve özel sektörde yapılan büyük bir yolsuzluğun takibini yapan bir grup araştırmacıyı konu alıyor. en popüler diziler listesine ekleyebileceğiniz The Mechanism Netflix dünyasında izleyicilerin beğenisini kazandı.
 
-## 7- Sherlock
+## Sherlock
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Sherlock]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-sherlock.jpg){: .align-center}{:id="7_Sherlock"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Sherlock]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-sherlock.jpg){: .align-center}{:id="Sherlock"}
 
 ***IMDB Puanı : [9.2](http://www.imdb.com/title/tt1475582/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=qlcWFoNqZHc){:target="_blank"}{:rel="nofollow"}***
 
@@ -1375,10 +1375,10 @@ IMDB puanı 9.0 olan ikinci en iyi yabancı dizi True Detective’dir. Konusu ; 
 IMDB puanı 9.2 olan Sherlock Şehirde cinayetlerin peşine düşen polis teşkilatının dahi bir beyne sahip olan Sherlock Holmes ve ev arkadaşı Doktor Watson'dan aldığı yardımlarla cinayetlerin çözümlenmesini konu almaktadır. Arthur Conan Doyle’nin hikayeleri için büyük beğeni sağlayan birçok Sherlock filmleri yapılmıştır. Aynı beğeniyi 9.2 puanlık dizisinde görmekteyiz. En iyi yabancı diziler listesine eklenmesini tavsiye ederim. 
 
 
-## 6- The Sopranos
+## The Sopranos
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Sopranos]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-sopranos.jpg){: .align-center}{:id="6_The_Sopranos"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Sopranos]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-sopranos.jpg){: .align-center}{:id="The_Sopranos"}
 
 ***IMDB Puanı : [9.2](http://www.imdb.com/title/tt0141842/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=2X4UhSPA5d4){:target="_blank"}{:rel="nofollow"}***
 
@@ -1390,10 +1390,10 @@ IMDB puanı 9,2 olan The Sopranos konusu New Jersey deki Amerika-İtalyan mafta 
 
 {% include advertisements-word.html %}
 
-## 5- Rick And Morty
+## Rick And Morty
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Rick And Morty]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-rick-and-morty.jpg){: .align-center}{:id="5_Rick_And_Morty"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Rick And Morty]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-rick-and-morty.jpg){: .align-center}{:id="Rick_And_Morty"}
 
 ***IMDB Puanı : [9.3](http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=WNhH00OIPP0){:target="_blank"}{:rel="nofollow"}***
 
@@ -1404,10 +1404,10 @@ IMDB puanı 9,2 olan The Sopranos konusu New Jersey deki Amerika-İtalyan mafta 
 En iyi yabancı çizgi diziler arasında olan Rick And Morty IMDB deki 9.3 puanıyla izleyicilerin büyük beğenisini kazanmış görünüyor. Rick And Morty konusu , çılgın bir bilim adamı olan dede Rick ile torunu Morty bin maceradan maceraya koymalarını konu alıyor. 
 
 
-## 4- The Wire
+## The Wire
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - The Wire]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-wire.jpg){: .align-center}{:id="4_The_Wire"}
+![En İyi Yabancı Diziler - İngilizce Diziler - The Wire]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-the-wire.jpg){: .align-center}{:id="The_Wire"}
 
 ***IMDB Puanı : [9.3](http://www.imdb.com/title/tt0306414/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=apZQlqPp6Hs){:target="_blank"}{:rel="nofollow"}***
 
@@ -1418,10 +1418,10 @@ En iyi yabancı çizgi diziler arasında olan Rick And Morty IMDB deki 9.3 puan�
 Her sezonda aynı şehirde ve aynı karakterler ile farklı konular işleyen dizinin konuları, uyuşturucu, işçi ve sendikalar, politika, eğiitm sistemi, medya konuları işleniyor. En iyi yabancı diziler listesine 9.3 puanla girebilecek bir dizi The Wire.
 
 
-## 3- Band of Brothers
+## Band of Brothers
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Band of Brothers]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-band-of-brothers.jpg){: .align-center}{:id="3_Band_of_Brothers"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Band of Brothers]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-band-of-brothers.jpg){: .align-center}{:id="Band_of_Brothers"}
 
 ***IMDB Puanı : [9.5](http://www.imdb.com/title/tt0306414/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=apZQlqPp6Hs){:target="_blank"}{:rel="nofollow"}***
 
@@ -1432,10 +1432,10 @@ Her sezonda aynı şehirde ve aynı karakterler ile farklı konular işleyen diz
 ABD hava kuvvetlerine bağlı Easy bölüğünün savaş eğitim kamplarından savaş bitimine ve savaş sonrasındaki ordudan ayrılmaları konusuna kadar geniş süreci işliyor. Bu süreç içerisinde ölüm ve acıyla tanışan bölük üyeleri savaşın nasıl bir cehennem olduğunun farkına varıp yaşadıklarının gerçekten gerekli olup olmadığını sorguluyorlar. En iyi yabancı diziler listesine 9.5 IMDB puanı ile en iyi 3 yabancı diziden biri olduğunu gösteriyor. Mutlaka listenize eklemeniz gereken bir yapıt.
 
 
-## 2- Breaking Bad
+## Breaking Bad
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Breaking Bad]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-breaking-bad.jpg){: .align-center}{:id="2_Breaking_Bad"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Breaking Bad]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-breaking-bad.jpg){: .align-center}{:id="Breaking_Bad"}
 
 ***IMDB Puanı : [9.5](http://www.imdb.com/title/tt0903747/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=apZQlqPp6Hs){:target="_blank"}{:rel="nofollow"}***
 
@@ -1447,10 +1447,10 @@ En popüler kimya öğretmeni Walter White’ı tanımayan yoktur sanırım. Tar
 
 {% include advertisements-word.html %}
 
-## 1- Game of Thrones
+## Game of Thrones
 
 
-![En İyi Yabancı Diziler - İngilizce Diziler - Game of Thrones]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-game-of-thrones.jpg){: .align-center}{:id="1_Game_of_Thrones"}
+![En İyi Yabancı Diziler - İngilizce Diziler - Game of Thrones]({{ site.url }}{{ site.baseurl }}/assets/images/news/en-iyi-yabanci-diziler-game-of-thrones.jpg){: .align-center}{:id="Game_of_Thrones"}
 
 ***IMDB Puanı : [9.5](http://www.imdb.com/title/tt0944947/?ref_=nv_sr_1){:target="_blank"}{:rel="nofollow"} / Fragman:[&#10004;](https://www.youtube.com/watch?v=BpJYNVhGf1s){:target="_blank"}{:rel="nofollow"}***
 
