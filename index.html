@@ -3,9 +3,10 @@ layout: default
 title: Home
 ---
 
+
 <section class="home">
         <div class="container">
-        <div class="row">         
+        <div class="row">
            <div class="col-md-8 col-sm-12 col-xs-12">
                 <div class="headline">
                         <div class="nav" id="headline-nav">
@@ -19,7 +20,7 @@ title: Home
                                 </a>
                         </div>
                         <div class="owl-carousel owl-theme" id="headline">	
-                                {% for post in site.posts limit:3 %}
+                                {% for post in site.posts limit:3 %}	
                                 <div class="item">
                                   <a href="{{ post.url }}">{% if post.badge %}<div class="badge">{{ post.badge }}</div>{% endif %}{{ post.title }}</a>
                                 </div>
@@ -27,8 +28,7 @@ title: Home
                         </div>
                 </div>
                 <div class="owl-carousel owl-theme slide" id="featured">
-                        {% for post in site.posts limit:10 %}	
-                        {% if post.category != "Yerli Dizi" %}
+                        {% for post in site.posts limit:3 %}	
                         <div class="item">
                                 <article class="featured">
                                         <div class="overlay"></div>
@@ -37,7 +37,7 @@ title: Home
                                         </figure>
                                         <div class="details">
                                                 {% if post.category %}
-                                                {% assign category_url = post.category | downcase | strip | replace: ' ','-' | replace: 'Ş','s' | replace: 'ş','s' | replace: 'ğ','g' | replace: 'ı','i' | replace: 'İ','I' | replace: 'ö','o' | replace: 'Ö','O' | replace: 'Ü','U' | replace: 'ü','u' | replace: 'Ç','C' | replace: 'ç','ç' %}
+                                                {% assign category_url = post.category | downcase | strip | replace: ' ','-' %}
                                                 <div class="category"><a href="{{ category_url }}">{{ post.category }}</a></div>
                                                 {% endif %}
                                                 <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -45,13 +45,48 @@ title: Home
                                         </div>
                                 </article>
                         </div>
-                        {% endif %} 
                         {% endfor %}    
                 </div>
-                   
-           {% include last-posts.html %} 
-           {% include sidebar.html %} 
-        </div>
-        </div>
+               
+                <div class="line top">
+                                <div>Son Yazılar</div>
+                        </div>
+                        <div class="row"  id="main">
+                        
+                        {% for post in site.posts limit:10 %}
+                        <article class="col-md-12 article-list">
+                                <div class="inner">
+                                        <figure>
+                                                <a href="{{ post.url }}">
+                                                        <img src="../assets/images/news/{{ post.image }}" alt="{{ post.title }}">
+                                                </a>
+                                        </figure>
+                                        <div class="details">
+                                                <div class="detail">
+                                                        {% if post.category %}
+                                                        {% assign category_url = post.category | downcase | strip | replace: ' ','-' %}
+                                                        <div class="category"><a href="{{ category_url }}">{{ post.category }}</a></div>
+                                                        {% endif %}
+                                                        <div class="time">{{ post.date | date: '%d.%m.%Y' }}</div>
+                                                </div>
+                                                <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                                                <p>
+                                                 {{ post.content | truncatewords: 24 }}
+                                                </p>
+                                                <footer>
+                                                        <a class="btn btn-primary more" href="{{ post.url }}">
+                                                                <div>Devamı</div>
+                                                                <div><i class="ion-ios-arrow-thin-right"></i></div>
+                                                        </a>
+                                                </footer>
+                                        </div>
+                                </div>
+                        </article>
+                        {% endfor %}
+                        
+                        </div>
+           </div>
+           {% include sidebar.html %}
         </div>
 </section>
+
